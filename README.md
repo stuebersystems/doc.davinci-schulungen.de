@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/car80yfrdyeyvxda?svg=true)](https://ci.appveyor.com/project/stueber/doc-davinci-schulungen-de)
+
 # DAVINCI 6 Schulungsunterlagen
 
 Dies sind die Schulungsunterlagen für [DAVINCI](https://davinci.stueber.de). Die Dokumentation ist Open Source und wir haben sie mit [MkDocs](https://www.mkdocs.org) und [Material for MkDocs](https://squidfunk.github.io/mkdocs-material) realisiert. Push-Requests im master-branch werden in [AppVeyor](https://www.appveyor.com) getriggert, so dass jede Änderung automatisch veröffentlicht wird.
