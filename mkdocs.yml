@@ -1,0 +1,53 @@
+# Project information
+site_name: DAVINCI 6 Schulungsunterlagen
+site_description: 'DAVINCI 6 Schulungsunterlagen'
+site_author: 'STÜBER SYSTEMS GmbH'
+site_url: 'https://doc.davinci-schulungen.stueber.de'
+
+# Copyright
+copyright: © 2019 STÜBER SYSTEMS GmbH
+
+# Repository
+repo_name: 'Auf GitHub'
+repo_url: 'https://github.com/stuebersystems/doc.davinci-schulungen.de'
+
+# Theming
+theme: 
+    name: null
+    custom_dir: 'theme'
+    language: de
+    direction:
+    feature:
+        tabs: false
+    palette:
+        primary: 'blue'
+        accent: 'deep orange'
+    font:
+        text: Roboto
+        code: Roboto Mono
+    favicon: assets/logos/favicon.ico
+    logo: 'assets/logos/logo.svg'
+    include_search_page: false
+    search_index_only: true
+    static_templates:
+      - 404.html
+
+# Customization
+extra_css:
+    - assets/css/custom.css
+    
+# Extensions    
+markdown_extensions:
+    - admonition
+
+# Plugins    
+plugins:
+    - search
+    - img2fig
+  
+# Navigation  
+nav:
+- Überblick: index.md
+- D01 DAVINCI Intensivkurs: d01_davinci_intensivkurs.md
+- D02 DAVINCI Vertretungsplan: d02_davinci_vertretungsplan.md
+- D03 DAVINCI Kursplan: d03_davinci_kursplan_schulung.md
