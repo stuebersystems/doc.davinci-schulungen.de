@@ -552,7 +552,7 @@ Die Farbgebung verschiedener Ereignisse im Planeditor kann nahezu beliebig verä
 
 >Extras > Optionen > Bezeichnungen
 
-![](/assets/Opt_Bezeichnungen+.png)
+![](/assets/Opt_Bezeichnungen_plus.png)
 
 >Extras > Optionen > Auto-Update
 
