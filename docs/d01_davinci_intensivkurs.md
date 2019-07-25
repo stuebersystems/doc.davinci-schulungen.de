@@ -516,47 +516,47 @@ Sie können Bezeichnungen umbenennen. Diese Umbenennung wird an verschiedenen St
 
 >Extras > Optionen > Meine Daten
 
-![](/assets/Opt_MeineDaten.png)
+![](/assets/images/Opt_MeineDaten.png)
 
 >Extras > Optionen > Plandatei
 
-![](/assets/Opt_Plandatei.png)
+![](/assets/images/Opt_Plandatei.png)
 
 >Extras > Optionen > Einstellungen
 
-![](/assets/Opt_Einstellungen.png)
+![](/assets/images/Opt_Einstellungen.png)
 
 >Extras > Optionen > Ansicht
 
-![](/assets/Opt_Ansicht.png)
+![](/assets/images/Opt_Ansicht.png)
 
 >Extras > Optionen > Plananzeige
 
-![](/assets/Opt_Plananzeige.png)
+![](/assets/images/Opt_Plananzeige.png)
 
 >Extras > Optionen > Stundenplan
 
 An dieser Stelle können Sie einstellen, ob verschiedene Ereignisse, z. B. Vertretungsinfos und Zeitkonflikte im Plan angezeigt werden.
 
-![](/assets/Opt_Stundenplan.png)
+![](/assets/images/Opt_Stundenplan.png)
 
 >Extras > Optionen > Termine
 
-![](/assets/Opt_Termine.png)
+![](/assets/images/Opt_Termine.png)
 
 >Extras>Optionen>Farben
 
 Die Farbgebung verschiedener Ereignisse im Planeditor kann nahezu beliebig verändert werden.
 
-![](/assets/Opt_Farben.png)
+![](/assets/images/Opt_Farben.png)
 
 >Extras > Optionen > Bezeichnungen
 
-![](/assets/Opt_Bezeichnungen+.png)
+![](/assets/images/Opt_Bezeichnungen_plus.png)
 
 >Extras > Optionen > Auto-Update
 
-![](/assets/Opt_AutoUpdate.png)
+![](/assets/images/Opt_AutoUpdate.png)
 
 
 
