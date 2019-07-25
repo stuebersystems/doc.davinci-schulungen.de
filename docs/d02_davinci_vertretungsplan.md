@@ -4,9 +4,11 @@ Dieses Handout gibt Ihnen einen Kurzüberblick über die Schulungsinhalte der DA
 
 Hinweis|Bemerkung
 --|--
-**Dauer: **|5 x 45 min
-**Themen: **|Änderungszeiten, Vertretungen erstellen, Vorziehen/Verschieben/Vertauschen, Statistiken, Vertretungspläne drucken
+**Dauer:**|5 x 45 min
+**Themen:**|Änderungszeiten, Vertretungen erstellen, Vorziehen/Verschieben/Vertauschen, Statistiken, Vertretungspläne drucken
 **Zielgruppe:** |Vertretungsplaner/innen
+
+## Allgemein
 
 ### Das Willkommen-Fenster
 
@@ -14,7 +16,6 @@ Versammelt zentrale Funktionen und Informationen, die Ihnen den Einstieg in das 
 Allgemein gilt: Die Voraussetzung, um mit DAVINCI VERTRETUNGSPLAN arbeiten zu können, ist immer ein bereits gesetzter Stundenplan.
 
 ![Willkommensfenster ](/assets/images/images VP/vp_willk.png)
-
 
 ### Die DAVINCI Optionen
 
@@ -24,14 +25,15 @@ Allgemein gilt: Die Voraussetzung, um mit DAVINCI VERTRETUNGSPLAN arbeiten zu k�
 
 ![DAVINCI-Optionen](/assets/images/images VP/vp_opt_plandatei.png)
 
-* <b>Startdatei</b>: Wenn Sie eine Startdatei eintragen, wird diese bei einem erneuten Programmaufruf geladen.
-* <b>Einstellung für lokalen Betrieb</b>:  
- * Die Option <b>Sicherungskopie der Datei anlegen</b> ist standardmäßig markiert. Es wird von der aktuell geladenen Datei eine Kopie angelegt.
- * Wenn Sie eine automatische Sicherung nach einem bestimmten Zeitintervall wählen, müssen Sie nicht manuell speichern, sondern DAVINCI führt jeweils nach Ablauf des Zeitintervalls eine Speicherung durch.
+1. **Startdatei:** Wenn Sie eine Startdatei eintragen, wird diese bei einem erneuten Programmaufruf geladen.
+2. **Einstellung für lokalen Betrieb**
+   1. Die Option Sicherungskopie der Datei anlegen ist standardmäßig markiert. Es wird von der aktuell geladenen Datei eine Kopie angelegt.
+   2. Wenn Sie eine automatische Sicherung nach einem bestimmten Zeitintervall wählen, müssen Sie nicht manuell speichern, sondern DAVINCI führt jeweils nach Ablauf des Zeitintervalls eine Speicherung durch.
 
 ## Bereich „Fehlzeiten“
 
 ### Fehlzeiten Ansicht
+
 Im Bereich „Fehlzeiten“, Register „Start“ können Sie über die Menügruppe „Fehlzeiten Ansicht“ weitere Ansichten für das Erfassen der Fehlzeiten aufrufen.
 
 ![Bereich "Fehlzeiten", Register "Start"](/assets/images/images VP/vp_fehlzeitenansicht.png)
@@ -46,28 +48,37 @@ Im Bereich „Fehlzeiten“, Register „Start“ können Sie über die Menügru
 
 ### Lehrerfehlgründe definieren
 
->Extras>Schlüsselverzeichnisse>Lehrerfehlgründe
+`Extras|Schlüsselverzeichnisse|Lehrerfehlgründe`
 
-Vor dem Erfassen fehlender Lehrern müssen unter `Extras|Schlüsselverzeichnisse|Lehrerfehlgründe` die entsprechenden Fehlgründe definiert werden. Diese stehen beim Erfassen einer Fehlzeit zur Auswahl und werden statistisch im Programm gezählt. 
-* <b>Farbe</b>: Farben für Fehlgründe, werden im Plan farblich ausgegeben
+Vor dem Erfassen fehlender Lehrern müssen unter `Extras|Schlüsselverzeichnisse|Lehrerfehlgründe` die entsprechenden Fehlgründe definiert werden. Diese stehen beim Erfassen einer Fehlzeit zur Auswahl und werden statistisch im Programm gezählt.
+
+!!! info "Hinweis"
+
+    Farben für Fehlgründe, werden im Plan farblich ausgegeben
 
 ![Schlüsselverzeichnis "Lehrerfehlgründe" ](/assets/images/images VP/vp_lehrerfehlgründe.png)
 
 ### Klassenfehlgründe definieren
 
->Extras>Schlüsselverzeichnisse>Klassenfehlgründe
+`Extras|Schlüsselverzeichnisse|Klassenfehlgründe`
 
-Definieren Sie vor dem Erfassen fehlender Klassen unter `Extras|Schlüsselverzeichnisse|Klassenfehlgründe` die entsprechenden Fehlgründe, die beim Eintragen der Fehlzeiträume erfasst und statistisch im Programm gezählt werden. 
-* <b>Farbe</b>: Farben für Fehlgründe, werden im Plan farblich ausgegeben
+Definieren Sie vor dem Erfassen fehlender Klassen unter `Extras|Schlüsselverzeichnisse|Klassenfehlgründe` die entsprechenden Fehlgründe, die beim Eintragen der Fehlzeiträume erfasst und statistisch im Programm gezählt werden.
+
+!!! info "Hinweis"
+
+    Farben für Fehlgründe, werden im Plan farblich ausgegeben
 
 ![Schlüsselverzeichnis "Klassenfehlgründe" ](/assets/images/images VP/vp_klassenfehlgründe.png)
 
 ### Raumfehlgründe definieren
 
->Extras>Schlüsselverzeichnisse>Raumfehlgründe
+`Extras|Schlüsselverzeichnisse|Raumfehlgründe`
 
-Definieren Sie vor dem Erfassen fehlender Räume unter `Extras|Schlüsselverzeichnisse|Raumfehlgründe` die entsprechenden Fehlgründe, die beim Eintragen der Fehlzeiträume erfasst und statistisch im Programm gezählt werden. 
-* <b>Farbe</b>: Farben für Fehlgründe, werden im Plan farblich ausgegeben
+Definieren Sie vor dem Erfassen fehlender Räume unter `Extras|Schlüsselverzeichnisse|Raumfehlgründe` die entsprechenden Fehlgründe, die beim Eintragen der Fehlzeiträume erfasst und statistisch im Programm gezählt werden.
+
+!!! info "Hinweis"
+
+    Farben für Fehlgründe, werden im Plan farblich ausgegeben
 
 ![Schlüsselverzeichnis "Raumfehlgründe" ](/assets/images/images VP/vp_raumfehlgründe.png)
 
