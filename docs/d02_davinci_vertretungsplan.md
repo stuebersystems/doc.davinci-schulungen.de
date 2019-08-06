@@ -21,8 +21,6 @@ Allgemein gilt: Die Voraussetzung, um mit DAVINCI VERTRETUNGSPLAN arbeiten zu k�
 
 Über den Menüpunkt `Extras|Verwalten|Optionen` gelangen Sie zu den Optionen für die Plandateien.
 
->Extras>Optionen>Plandatei
-
 ![DAVINCI-Optionen](/assets/images/images VP/vp_opt_plandatei.png)
 
 1. **Startdatei:** Wenn Sie eine Startdatei eintragen, wird diese bei einem erneuten Programmaufruf geladen.
@@ -85,22 +83,24 @@ Definieren Sie vor dem Erfassen fehlender Räume unter `Extras|Schlüsselverzeic
 ### Klassenfehlzeiten erfassen
 
 Beginnen Sie mit dem Eintragen der fehlenden Klassen, da dadurch Lehrer frei werden, die als Vertretung eingesetzt werden können
+
 * Markieren Sie im Vertretungsstundenplan die entsprechenden Fehlzeiträume und klicken Sie anschließend auf `Fehlzeiten|Neue Fehlzeit` oder wählen Sie die `F2-Taste`
-* <b>Fehlgrund</b>: hier können Sie aus den zuvor eingegebenen „Klassenfehlgründen“ auswählen
+* **Fehlgrund:** hier können Sie aus den zuvor eingegebenen „Klassenfehlgründen“ auswählen
 * Option "Nicht öffentlich“ kann erfasst werden, um diesen ggf. nicht zu veröffentlichen (im Ausdruck und in LOOK)
-* <b>Bemerkung</b>: hier kann ein Kommentar zu der Fehlzeit hinterlegt werden – diese erscheint später auch im Bereich „Anrechnungen“ in der Spalte „Bemerkungen“
+* **Bemerkung:** hier kann ein Kommentar zu der Fehlzeit hinterlegt werden – diese erscheint später auch im Bereich „Anrechnungen“ in der Spalte „Bemerkungen“
 
 ![Fehlzeiten-Erfassen-Fenster](/assets/images/images VP/vp_klassenfehlzeit.png)
 
 #### Ausfallstunden verrechnen
 
-Nach Erfassung der Klassenfehlzeit öffnet sich automatisch das Fenster „Klasse … fehlt“. 
+  Nach Erfassung der Klassenfehlzeit öffnet sich automatisch das Fenster `Klasse … fehlt`. 
 
 ![Klasse ... fehlt-Fenster](/assets/images/images VP/vp_klasse_fehlt_lehrer.png)
 
 Dort erscheinen negativen Anrechenstunden, die ein Lehrer erhält, da seine planmäßige Klasse fehlt. Diese Stunden müssen für gewöhnlich vom Lehrer nachgeholt werden. Die vorbelegten Werte in der Spalte „Anrechnen“ können individuell angepasst werden.
-* Mit dem Haken bei „Fährt mit“ veranlassen Sie, dass bei diesem Lehrer eine Fehlzeit eingetragen wird. 
-* Über <b>Hinzufügen</b> können Sie Lehrer auswählen, welche die fehlende Klasse zur erfassten Klassenfehltzeit nicht unterrichten, dennoch Anrechenstunden verbucht bekommen sollen.
+
+* Mit dem Haken bei `Fährt mit` veranlassen Sie, dass bei diesem Lehrer eine Fehlzeit eingetragen wird.
+* Über `Hinzufügen` können Sie Lehrer auswählen, welche die fehlende Klasse zur erfassten Klassenfehltzeit nicht unterrichten, dennoch Anrechenstunden verbucht bekommen sollen.
 
 ### Lehrerfehlzeiten erfassen
 
@@ -108,11 +108,11 @@ Dort erscheinen negativen Anrechenstunden, die ein Lehrer erhält, da seine plan
 
 ![Fehlzeiten-Erfassen-Fenster](/assets/images/images VP/vp_lehrerfehlzeit.png)
 
-* <b>Fehlgrund</b>: hier können Sie aus den zuvor eingegebenen „Klassenfehlgründen“ auswählen
+* **Fehlgrund:** hier können Sie aus den zuvor eingegebenen „Klassenfehlgründen“ auswählen
 * Im Feld „Bemerkung“ kann ein Kommentar zu der Fehlzeit hinterlegt werden
 * Setzt man ein Häkchen bei „Anrechnen“, so werden die ausfallenden Unterrichtsstunden als negative Anrechenstunden erfasst
 * Option „Nicht öffentlich“ kann erfasst werden, um diesen ggf. nicht zu veröffentlichen (im Ausdruck und in LOOK)
-* Der Wert der anfallenden Anrechenstunden kann im Feld „Anrechenstd.“ individuell angepasst werden 
+* Der Wert der anfallenden Anrechenstunden kann im Feld „Anrechenstd.“ individuell angepasst werden
 
 Die eingetragene Fehlzeit erscheint im Teilfenster „Zeitplan“ als farbiger Balken
 
@@ -133,6 +133,7 @@ Die eingetragene Fehlzeit wird im Teilfenster „Stundenplan“ bei den entsprec
 * Option `gesperrt`: Gesperrte Räume werden nicht mehr zur Vertretung angeboten.
 
 ## Bereich „Vertretungen“ 
+
 ### Vertretungserstellung
 
 * oben links erscheinen fehlende Lehrer/Räume in Abhängigkeit des oben eingestellten Zeitraumes
