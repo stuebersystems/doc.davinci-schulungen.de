@@ -16,15 +16,15 @@ Versammelt zentrale Funktionen und Informationen, die Ihnen den Einstieg in das 
 
 ## Die DAVINCI Optionen
 
-`Extras > Optionen > Plandatei`
+`Extras|Optionen|Plandatei`
 
 ![Optionen, Plandatei](/assets/images/imagesKP/kp_optionen.plandatei.png)
 
-Start:
+**Start:**
 
 * Wenn Sie eine Startdatei eintragen, wird diese bei einem erneuten Programmaufruf geladen.
 
-Einstellung für lokalen Betrieb:
+**Einstellung für lokalen Betrieb:**
 
 * Die Option „Sicherungskopie der Datei anlegen“ ist standardmäßig markiert. Es wird von der aktuell geladenen Datei eine Kopie angelegt.
 * Wenn Sie eine automatische Sicherung nach einem bestimmten Zeitintervall wählen, müssen Sie nicht manuell speichern, sondern DAVINCI führt jeweils nach Ablauf des Zeitintervalls eine Speicherung durch.
@@ -37,27 +37,27 @@ Einstellung für lokalen Betrieb:
 
 ![Stammdatenfenster|Klassen](/assets/images/imagesKP/kp_stammdaten.klassen.png)
 
-* Spalte „Skript“ - zur Prüfung der Fachwahl
+* Spalte **Skript** - zur Prüfung der Fachwahl
 * DAVINCI wird mit Fachwahlskripten für verschiedene Bundesländer und Schularten ausgeliefert
-* Spalte „Modus“ - Stellen Sie hier „Kurse“ ein, damit Ihnen nur diese Klassen im Bereich "KURSPLAN" angezeigt werden
+* Spalte **Modus** - Stellen Sie hier „Kurse“ ein, damit Ihnen nur diese Klassen im Bereich `KURSPLAN` angezeigt werden
 
 ### Schüler eingeben
 
  `Stammdaten > Schüler`
 
-* Im Bereich Stammdaten\|Schüler oder KURSPLAN\|Schüler können Schüler eingeben werden
+* Im Bereich `Stammdaten|Schüler` oder `KURSPLAN|Schüler` können Schüler eingeben werden
 
 ![Stammdatenfenster|Schüler](/assets/images/imagesKP/kp_stammdaten.schueler.png)
 
 ![Bereich Kursplan|Schüler](/assets/images/imagesKP/kp_schueler.png)
 
-* Beim Einsatz von MAGELLAN können Schüler auch über `Plan > Importieren und Exportieren` aus MAGELLAN übertragen werden
+* Beim Einsatz von MAGELLAN können Schüler auch über `Plan|Importieren und Exportieren` aus MAGELLAN übertragen werden
 
 ![Plan, Importieren/Exportieren](/assets/images/imagesKP/kp_plan.importieren.exportieren.png)
 
 ### Stundentafeln als Fachwahlvorlage anlegen
 
- `Stammdaten > Stundentafeln`
+ `Stammdaten|Stundentafeln`
 
 * Anlegen von Stundentafeln die Fachwahlen enthalten
 
@@ -117,7 +117,7 @@ Einstellung für lokalen Betrieb:
 
 ## BEREICH Blöcke
 
-`KURSPLAN > Blöcke`
+`KURSPLAN|Blöcke`
 
 ### Blöcke erzeugen
 
@@ -144,8 +144,8 @@ Einstellung für lokalen Betrieb:
 ### Kurse automatisch blocken und Schüler zuordnen
 
 * Über `Start|Automatik` blockt die Automatik die Kurse, verteilt die Schüler, sie kann auch sukzessive aufgerufen werden
-* „Beachte Kursteilnehmer Anzahl“ – gemäß Einstellungen unter `Plan|Eigenschaften|KURSPLAN` Kursteilnehmer-Anzahl Vorgaben
-* „Akzeptiere Blockkonflikte“ – Verteilung aller Schüler auf Blöcke auch bei
+* **Beachte Kursteilnehmer Anzahl** – gemäß Einstellungen unter `Plan|Eigenschaften|KURSPLAN` Kursteilnehmer-Anzahl Vorgaben
+* **Akzeptiere Blockkonflikte** – Verteilung aller Schüler auf Blöcke auch bei
   Konflikten innerhalb eines Blockes
 
 ![Blockungsautomatik starten](/assets/images/imagesKP/kp_blockungsautomatik.starten.png)
@@ -173,7 +173,7 @@ Einstellung für lokalen Betrieb:
 
 ### Kurse manuell einem Block zuweisen
 
-* in der Ansicht KURSPLAN\|Blöcke öffnen Sie bitte die Detailansicht „Passende Kurse“
+* in der Ansicht `KURSPLAN|Blöcke` öffnen Sie bitte die Detailansicht **Passende Kurse**
 * mit der Maustaste die gewünschte Blockzeile markieren
 * gewünschten Kurs markieren und über Schaltfläche `Diesem Block zuweisen` wählen oder per Doppelklick auf den gewählten Kurs gehen
 
@@ -181,7 +181,7 @@ Einstellung für lokalen Betrieb:
 
 ### Kurs manuell in einen anderen Block verschieben
 
-* In der Ansicht KURSPLAN\|Blöcke öffnen Sie bitte die Detailansicht „Passende Blöcke“
+* In der Ansicht  `KURSPLAN|Blöcke` öffnen Sie bitte die Detailansicht **Passende Blöcke**
 * Block markieren und diesem Block zuweisen wählen
 * Alternativ per Drag und Drop
 
@@ -192,14 +192,14 @@ Einstellung für lokalen Betrieb:
 ### Schüler manuell Kurs zuweisen
 
 * Alternative zur Automatik
-* Farbeinstellungen für die Kurse werden getroffen in `DAVINCI-Optionen>Farben>KURSPLAN`
-* markieren Sie den entsprechenden Kurs in der Schülerliste und öffnen Sie das Detailfenster „Passende Kurse“ und dann „Kurs zuweisen“
+* Farbeinstellungen für die Kurse werden getroffen in `DAVINCI-Optionen|Farben|KURSPLAN`
+* markieren Sie den entsprechenden Kurs in der Schülerliste und öffnen Sie das Detailfenster **Passende Kurse** und dann „Kurs zuweisen“
 
 ![Optionen, Farben](/assets/images/imagesKP/kp_optionen.farben.png)
 
 ### Kursteilnehmer anzeigen
 
-* aus den Ansichten KURSPLAN\|Schüler, KURSPLAN\|Kurse, KURSPLAN\|Blöcke möglich
+* aus den Ansichten `KURSPLAN|Schüler`, `KURSPLAN|Kurse`, `KURSPLAN|Blöcke` möglich
 * Konflikte werden mit einem Blitz dargestellt
 * zugewiesener Kurs durch blauen Punkt gekennzeichnet
 
@@ -207,14 +207,14 @@ Einstellung für lokalen Betrieb:
 
 ### Kursteilnehmer aus einem Kurs entfernen
 
-* aus den Ansichten KURSPLAN\|Schüler; KURSPLAN\|Kurse; KURSPLAN\|Blöcke möglich
-* Öffnen Sie das Detailfenster `Kursteilnehmer` und wählen Sie `Aus dem Kurs entfernen` oder in Schülerliste mit rechte Maustaste auf `Kurs|Schüler aus Kurs entfernen`
+* aus den Ansichten `KURSPLAN|Schüler`; `KURSPLAN|Kurse`; `KURSPLAN|Blöcke` möglich
+* Öffnen Sie das Detailfenster **Kursteilnehmer** und wählen Sie `Aus dem Kurs entfernen` oder in Schülerliste mit rechte Maustaste auf `Kurs|Schüler aus Kurs entfernen`
 
 ![Schüler aus Kurs entfernen](/assets/images/imagesKP/kp_schueler.aus.kurs.entfernen.png)
 
 ### Alternativkurse zuweisen
 
-* aus den Ansichten KURSPLAN\|Schüler; KURSPLAN\|Kurse oder KURSPLAN\|Blöcke
+* aus den Ansichten `KURSPLAN|Schüler`; `KURSPLAN|Kurse` oder `KURSPLAN|Blöcke`
 * einen oder mehrere Teilnehmer markieren
 * öffnen Sie das Detailfenster Kursteilnehmer
 * einen oder mehrere Teilnehmer markieren und wählen Sie `In Kurs versetzen`
@@ -223,14 +223,14 @@ Einstellung für lokalen Betrieb:
 
 ### Weitere Kurse zuweisen
 
-* aus den Ansichten KURSPLAN\|Schüler; KURSPLAN\|Kurse oder KURSPLAN\|Blöcke
+* aus den Ansichten `KURSPLAN|Schüler`; `KURSPLAN|Kurse` oder `KURSPLAN|Blöcke`
 * einen oder mehrere Teilnehmer markieren
 * öffnen Sie das Detailfenster Kursteilnehmer
 * einen oder mehrere Teilnehmer markieren und wählen Sie `Kurs zuweisen`
 
 ### Kursschnittmenge anzeigen
 
-* in der Ansicht KURSPLAN\|Blöcke markieren Sie mit STRG Taste mehrere Kurse
+* in der Ansicht `KURSPLAN|Blöcke` markieren Sie mit STRG Taste mehrere Kurse
 
 ODER
 
@@ -242,11 +242,11 @@ ODER
 
 ## BEREICH Stundenplan
 
-`KURSPLAN > Stundenplan`
+`KURSPLAN|Stundenplan`
 
 ### Schülerpläne
 
-* Nach dem Setzen der Stunden im Bereich Stundenplan gehen Sie in den Bereich KURSPLAN\|Stundenplan
+* Nach dem Setzen der Stunden im Bereich Stundenplan gehen Sie in den Bereich `KURSPLAN|Stundenplan`
 * Doppelklick auf einen Schüler zeigt dessen Stundenplan an
 
 ![Schülerplan](/assets/images/imagesKP/kp_schuelerplan.png)
@@ -258,18 +258,18 @@ ODER
 #### Schülerpläne drucken
 
 * `Publizieren|Pläne drucken`
-* Format `Schülerpläne` wählen
+* Format **Schülerpläne** wählen
 
 ![Ausdruck Schülerplan](/assets/images/imagesKP/kp_ausdruck.schuelerplan.bsp.png)
 
-* In der Druckvorschau kann über „Design“ das Layout angepasst werden
+* In der Druckvorschau kann über **Design** das Layout angepasst werden
 
 ![Druckvorschau, Design](/assets/images/imagesKP/kp_design.ausdruck.png)
 
 #### Kurslisten drucken
 
 * `Publizieren|Pläne drucken`
-* Format `Kursliste` wählen
+* Format **Kursliste** wählen
 
 ![Ausdruck Kursliste](/assets/images/imagesKP/kp_ausdruck.kursliste.png)
 
@@ -280,7 +280,7 @@ ODER
 #### Schülerpläne nach HTML exportieren
 
 * `Publizieren|HTML-Pläne exportieren`
-* Format `Schülerpläne` wählen
+* Format **Schülerpläne** wählen
 
 ![HTML-Export Schülerplan](/assets/images/imagesKP/kp_html.schuelerplan.png)
 
@@ -290,6 +290,6 @@ ODER
 
 * für mehrere Schüler die Fachwahl ergänzen
 * mehrere Schüler aus einem Kurs in einen anderen versetzen
-* über`Start|Mehrfachzuweisung` öffnen Sie das Dialogfenster „Mehrfachzuweisung"
+* über`Start|Mehrfachzuweisung` öffnen Sie das Dialogfenster **Mehrfachzuweisung**
 
 ![Mehrfachzuweisungen](/assets/images/imagesKP/kp_mehrfachzuweisungen.png)

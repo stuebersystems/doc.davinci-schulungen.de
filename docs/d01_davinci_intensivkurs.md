@@ -4,8 +4,8 @@ Dieses Handout gibt Ihnen einen Kurzüberblick über die Schulungsinhalte des DA
 
 Hinweis|Bemerkung
 --|--
-**Dauer: **|12 x 45 min
-**Themen: **|- Neuen Plan erstellen: Planvorbereitungsmanager, Stammdaten eingeben,<br/> - Unterrichtsverteilung erstellen: Perioden zuweisen, Blöcke erstellen, Lehrereinsatz,Raumverplanung,<br/>- Stundenplan setzen: manuelles und automatisches Planen, Übersichten, Druckformate editieren<br/>
+**Dauer:**|12 x 45 min
+**Themen:**|- Neuen Plan erstellen: Planvorbereitungsmanager, Stammdaten eingeben,- Unterrichtsverteilung erstellen: Perioden zuweisen, Blöcke erstellen, Lehrereinsatz,Raumverplanung,- Stundenplan setzen: manuelles und automatisches Planen, Übersichten, Druckformate editieren
 **Zielgruppe:** |Stundenplaner
 
 ## Das Willkommen-Fenster
@@ -18,11 +18,11 @@ Hinweis|Bemerkung
 ## Neuen Plan erstellen mit dem Planvorbereitungsassistenten
 
 Der Planvorbereitungsassistent gibt Ihnen Unterstützung bei der Neuerstellung eines Planes.
-Über den Menüpunkt  ``Plan > Neu ``gelangen Sie zum Planvorbereitungsassistenten. 
+Über den Menüpunkt  ``Plan > Neu``gelangen Sie zum Planvorbereitungsassistenten.
 
 ### Neuen leeren Plan erstellen (für Neueinsteiger)
 
-Markieren Sie ``Neuen leeren Plan`` wenn Sie auf keine Vorjahresplandatei, die Sie mit DAVINCI erstellt haben, zurückgreifen können und klicken Sie auf ``Weiter``. 
+Markieren Sie ``Neuen leeren Plan`` wenn Sie auf keine Vorjahresplandatei, die Sie mit DAVINCI erstellt haben, zurückgreifen können und klicken Sie auf ``Weiter``.
 Wenn Sie auf ``Fertig`` klicken, öffnet sich automatisch das Stammdatenfenster.
 
 ![Der Planvorbereitungsassistent ](/assets/images/planvorb.png)
@@ -33,11 +33,11 @@ Markieren Sie ``Neuen Plan erstellen und Daten übernehmen`` wenn Sie auf eine V
 
 ![Planvorbereitungsassistent](/assets/Planvorb.01.png)
 
-Wählen Sie zwischen ``Neues Schuljahr`` oder ``Planwechsel innerhalb des Schuljahres`` und klicken Sie auf ``Weiter``. 
+Wählen Sie zwischen ``Neues Schuljahr`` oder ``Planwechsel innerhalb des Schuljahres`` und klicken Sie auf ``Weiter``.
 
 ![Planvorbereitungsassistent](/assets/Planvorb.02.png)
 
-Wählen Sie zwischen ``Unterrichtsverteilung und Aufsichten löschen`` oder ``Alles übernehmen`` und klicken Sie auf ``Weiter``. 
+Wählen Sie zwischen ``Unterrichtsverteilung und Aufsichten löschen`` oder ``Alles übernehmen`` und klicken Sie auf ``Weiter``.
 
 ![Planvorbereitungsassistent](/assets/Planvorb.03.png)
 
@@ -45,16 +45,16 @@ Anschließend gelangen Sie zu den wesentlichen Schritten der Planneuerstellung.
 
 ![Schritte der Planneuerstellung](/assets/images/planvorb1.png)
 
-
 ### Der erste Schritt – Der Planungszeitraum
 
-#### Schritt 1 - Zeitraum eingeben...
+#### Schritt 1 - Zeitraum eingeben
 
 Geben Sie den Zeitraum an, für den Ihr Plan gelten soll.
 
 ![Zeitraum ](/assets/images/planvorb2.png)
 
 #### Registerkarte „Statistik“
+
 * _Zeitdauerangaben:_ Tragen Sie die zur Berechnung der Stundenangaben für die Statistik entsprechende Zeitdauer ein.
 * _Wochenbezogene Summen:_ Hier können Sie die Kalenderwochen kennzeichnen, in denen kein Unterricht stattfindet. Entfernen Sie im unteren Fenster den Haken bei den Wochen, in denen kein Unterricht stattfindet. Bitte den Haken nur vor ganzen Ferienwochen entfernen!
 Wichtig ist diese Angabe insbesondere, wenn Sie mit Perioden arbeiten oder eine wochenbezogene Berechnung der Unterrichtsstunden wünschen.
@@ -64,20 +64,21 @@ Nachträglich gelangen Sie über ``Plan|Eigenschaften|Statistik`` in dieses Men�
 
 ![Plan-Eigenschaften, Register "Statistik" ](/assets/images/plan_eigenschaften_statistik.png)
 
-### Schritt 2 - Kalenderdaten importieren...
+### Schritt 2 - Kalenderdaten importieren
 
 Laden Sie den Kalender für Ihr Bundesland, um die Ferien- und Feiertage einzutragen
+
 * …:\Users\Public\Documents\Stueber Systems\daVinci 6\Kalender
 
 ![Kalender importieren ](/assets/images/kalender.png)
 
-### Schritt 3 - Zeitrahmen einstellen...
+### Schritt 3 - Zeitrahmen einstellen
 
 ![Zeitrahmen ](/assets/images/zeitrahmen.png)
 
 DAVINCI bietet Ihnen standardmäßig zwei Zeitrahmen an: Standard und Aufsichten.
 
-##### Standard-Zeitrahmen
+#### Standard-Zeitrahmen
 
 >Registerkarte "Allgemein"
 
@@ -97,57 +98,61 @@ Doppelstunde | gesetzter Haken heißt für die Automatik, wann eine Doppelstunde
 
 ![Zeitrahmen, Register "Positionen" ](/assets/images/zeitrahmen_standard_pos.png)
 
-##### Aufsichten-Zeitrahmen
+#### Aufsichten-Zeitrahmen
 
 >Registerkarte "Allgemein"
 
  Spalte | Bedeutung
- -|- 
+ -|-
  Positionen | Anzahl der zu beaufsichtigenden Pausenzeiten
 
 ![Aufsichten-Zeitrahmen ](/assets/images/zeitrahmen_aufsichten.png)
 
 > #### primary::Hinweis
 >
-> Das Zeitrahmen-Fenster können Sie jederzeit über den Menüpunkt ``Extras > Zeitrahmen`` öffnen. Bitte beachten Sie, den Zeitrahmen am gesetzten Plan nicht mehr zu verändern. 
+> Das Zeitrahmen-Fenster können Sie jederzeit über den Menüpunkt ``Extras > Zeitrahmen`` öffnen. Bitte beachten Sie, den Zeitrahmen am gesetzten Plan nicht mehr zu verändern.
 
-# STAMMDATEN
+## STAMMDATEN
 
-### Ressourcen
+## Ressourcen
+
 Erfassen Sie hier alle Hilfs- und Lehrmittel, die Sie im Rahmen der Unterrichtsplanung zuweisen möchten. Diese stehen Ihnen im Bereich "Stundenplan" zur Verfügung. Im Bereich Kalender wird außerdem für jede Ressource ein Teilnehmerkalender angelegt.
 
 ![Stammdaten Ressourcen](/assets/Stammdaten_Ressourcen.png)
 
-###Teams
+## Teams
+
 Erfassen Sie hier verschiedene organisatorische Gliederungen an der Schule. Sie können die angelegten Teams in den Stammdaten der Klassen, Lehrer und Räume hinterlegen und diese später als Filterkriterium nutzen.
 
 ![Stammdaten Teams](/assets/Stammdaten_Teams.png)
 
-### Gebäude
-Geben Sie hier die unterschiedlichen Standorte und die Wegzeiten zwischen Hauptgebäude und den Standorten ein. 
+## Gebäude
+
+Geben Sie hier die unterschiedlichen Standorte und die Wegzeiten zwischen Hauptgebäude und den Standorten ein.
 Die Automatik versucht die Veranstaltungen so zu verplanen, dass keine Probleme mit den Wegzeiten bestehen. Sollte dennoch eine Wegzeit eine Pausenzeit überschreiten, weil Sie die Veranstaltungen beispielsweise manuell gesetzt haben, wird im Plan bei den entsprechenden Elementen ein Warnsymbol angezeigt.
 
 ![Wegzeitkonflikte-Symbol im Planfenster ](/assets/images/Warnsymbol.png)
 
 ![Stammdaten Gebäude](/assets/Stammdaten_Gebäude.png)
 
-### Perioden
+## Perioden
+
 Geben Sie hier alle Periodenschemata (Wochenbezüge) ein, die Sie später einer Klasse oder einer Veranstaltung zuweisen möchten.
 
 ![Stammdaten Perioden](/assets/Stammdaten_Perioden.png)
 
-### Räume
-Erfassen Sie hier alle Räume, die für die Unterrichtsplanung zur Verfügung stehen sollen. 
+## Räume
+
+Erfassen Sie hier alle Räume, die für die Unterrichtsplanung zur Verfügung stehen sollen.
 
 Spalte | Bedeutung
 -|-
 Lehrer | Eingabe des Raumbetreuers, kann in den Ausdruck übergeben werden und wird in DAVINCI LOOK angezeigt
 Kapazität | diese kann bei der Raumzuweisung als Filterkriterium genutzt werden
 
-
 ![Stammdaten Räume](/assets/Stammdaten_Räume.png)
 
-### Aufsichtsbereiche
+## Aufsichtsbereiche
 
 Tragen Sie hier die Aufsichtsbereiche ein, denen zu bestimmten Zeiten ein Aufsichtslehrer zugeordnet werden soll.
 
@@ -158,13 +163,14 @@ Räume | hier wählen Sie Räume aus, die in der Nähe des Aufsichtsbereiches li
 
 ![Stammdaten Aufsichten](/assets/Stammdaten_Aufsichtsbereiche.png)
 
-### Fächer
+## Fächer
 
 Erfassen Sie hier die Unterrichtsfächer Ihrer Lehrveranstaltungen. Weisen Sie hier bestimmten Fächern Fachräume zu. Diese Eintragung dient als Filterkriterium bei der Raumzuweisung. Ein Fachraum ist auch ein möglicher Raum für die Planung per Raumautomatik.
 
 ![Stammdaten Fächer](/assets/Stammdaten_Fächer.png)
 
-### Stundentafeln
+## Stundentafeln
+
 Stundentafeln bilden die Grundlage für die spätere Unterrichtsverteilung. Geben Sie hier alle Stundentafeln ein.
 
 ![Stammdaten Stundentafel](/assets/Stammdaten_Stundentafeln.png)
@@ -181,7 +187,8 @@ Doppelstunde | Automatikvorgaben, Einträge wie 1-2 möglich
 
 Die Stundentafeln können über das Symbol ``Exportieren`` in die Formate Excel, TXT, HTML und XML exportiert werden.
 
-### Lehrer
+## Lehrer
+
 Erfassen Sie hier alle Lehrkräfte, die an der Schule unterrichten. Geben Sie die Fächer der Lehrer ein. Bei der Lehrerzuordnung dient das Kriterium „Fachlehrer“ als Filter. 
 
 Spalte | Bedeutung
@@ -190,7 +197,7 @@ Raum | Wenn Sie dem Lehrer einen Raum zuordnen und dann einer Veranstaltung dies
 
 ![Stammdaten Lehrer](/assets/Stammdaten_Lehrer.png)
 
-#### Zeitkonto der Lehrer
+### Zeitkonto der Lehrer
 
 ``rechte Maustaste auf Lehrerkürzel > Zeitkonto bearbeiten``
 
@@ -222,8 +229,7 @@ Erfassen Sie hier alle Klassen, die Sie an der Schule unterrichten.
 
 ![Stammdaten Klassen](/assets/Stammdaten_Klassen.png)
 
-
-#### Anzeige der Stammdaten
+### Anzeige der Stammdaten
 
 Über `Extras|Optionen` gelangen Sie zu den DAVINCI Optionen. 
 
@@ -244,7 +250,7 @@ Dies gilt für alle Stammdatenregister.
 
 ![Spalten ein-/ausblenden](/assets/images/spalten_ein_ausblenden.png)
 
-# STUNDENPLAN
+## STUNDENPLAN
 
 Wählen Sie im Dialogfenster `Auswahl` welchen Plan Sie öffnen möchten. Je nachdem, welchen Reiter Sie aktivieren, erhalten Sie die zugehörige Planart.
 Mit dem Auswahlfeld „Nur Team“ können Sie die Planauswahl entsprechend der Teamzugehörigkeit filtern. Wenn Sie die Einstellung „Alle Teams“ wählen, werden immer alle Teams angezeigt.
@@ -272,7 +278,7 @@ Dauer |
 Periode |
 Soll (W) |
 Ist (W) |
-Lehrer | 
+Lehrer |
 Klassen |
 Räume |
 Schüler |
@@ -280,11 +286,10 @@ Wochen |
 Bemerkung |
 Nr |
 
-
 ### Veranstaltung bearbeiten | Veranstaltung
 
 ![Veranstaltung bearbeiten-Fenster | Veranstaltung](/assets/images/veranstaltungsdetails.png)
- 
+
 ### Veranstaltung bearbeiten | Teilnehmer Termine
 
 ![Veranstaltung bearbeiten-Fenster - Teilnehmer Termine](/assets/images/veranstaltungsdetails_termine.png)
@@ -292,16 +297,16 @@ Nr |
 * „Nur Fachlehrer“
 * „Nur ausreichende Soll-Differenz“
 * „Nur Lehrer des Teams“
- 
+
 ### Sperrung eintragen
 
-Tragen Sie im Planungsfenster `Sperrungen` in vier unterschiedlichen Gewichtungstufen ein. Diese Entragungen werden von der Setzautomatik entsprechend der vorgegeben Abstufung berücksichtigt. 
+Tragen Sie im Planungsfenster `Sperrungen` in vier unterschiedlichen Gewichtungstufen ein. Diese Entragungen werden von der Setzautomatik entsprechend der vorgegeben Abstufung berücksichtigt.
 Dabei gilt 1 gilt als am stärksten und 4 als am schwächsten gewichtete Sperrung.
 
 ![Zeitpräferenz - Klasse](/assets/images/zeitpraeferenz_klasse.png)
 
 Anzeige im Plan:
- 
+
 ### Kernzeit eintragen
 
 Tragen Sie im Planungsfenster `Kernzeiten` in vier unterschiedlichen Gewichtungstufen ein. Diese Entragungen werden von der Setzautomatik entsprechend der vorgegeben Abstufung berücksichtigt. 
@@ -310,10 +315,10 @@ Dabei gilt 1 gilt als am stärksten und 4 als am schwächsten gewichtete Kernzei
 ![Zeitpräferenz - Lehrer](/assets/images/zeitpraeferenz_lehrer.png)
 
 Anzeige im Plan:
- 
+
 ![Anzeige Kernzeit im Plan ](/assets/images/kernzeit.png)
 
-### Unverplante Termine setzen 
+### Unverplante Termine setzen
 
 Setzen Sie Unterrichtstermine aus dem Zusatzfenster „Unverplant“ in das Planungsfenster des aufgerufenen Einzelplans. Dies können Sie komfortabel per Drag & Drop erledigen
 
@@ -340,7 +345,7 @@ Hier entscheiden Sie ebenfalls, ob Lehrersymbole, Pausenaufsichten, Uhrzeiten un
 >Plan>Eigenschaften>Stundenplan
 
 ![Plan-Eigenschaften|Stundenplan](/assets/images/plan_eigenschaften_stundenplan.png)
- 
+
 ### Die Zeitdetails
 
 In den Zeitdetails einer Veranstaltung legen Sie verschiedene veranstaltungsspezifische Automatikvorgaben fest
@@ -530,228 +535,30 @@ Sie können Bezeichnungen umbenennen. Diese Umbenennung wird an verschiedenen St
 
 ![](/assets/images/Opt_Ansicht.png)
 
->Extras > Optionen > Plananzeige
+`Extras > Optionen > Plananzeige`
 
-![](/assets/images/Opt_Plananzeige.png)
+![Allgemeine Plananzeige](/assets/images/Opt_Plananzeige.png)
 
->Extras > Optionen > Stundenplan
+`Extras|Optionen|Stundenplan`
 
 An dieser Stelle können Sie einstellen, ob verschiedene Ereignisse, z. B. Vertretungsinfos und Zeitkonflikte im Plan angezeigt werden.
 
-![](/assets/images/Opt_Stundenplan.png)
+![Anzeige von Planeinträgen](/assets/images/Opt_Stundenplan.png)
 
->Extras > Optionen > Termine
+`Extras|Optionen|Termine`
 
-![](/assets/images/Opt_Termine.png)
+![Einstellungen für Termine](/assets/images/Opt_Termine.png)
 
->Extras>Optionen>Farben
+`Extras|Optionen|Farben`
 
 Die Farbgebung verschiedener Ereignisse im Planeditor kann nahezu beliebig verändert werden.
 
-![](/assets/images/Opt_Farben.png)
+![Farbgebung verändern](/assets/images/Opt_Farben.png)
 
->Extras > Optionen > Bezeichnungen
+`Extras|Optionen|Bezeichnungen`
 
-![](/assets/images/Opt_Bezeichnungen_plus.png)
+![Bezeichnungen anpassen](/assets/images/Opt_Bezeichnungen_plus.png)
 
->Extras > Optionen > Auto-Update
+`Extras|Optionen|Auto-Update`
 
-![](/assets/images/Opt_AutoUpdate.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Autoupdate aktivieren](/assets/images/Opt_AutoUpdate.png)
