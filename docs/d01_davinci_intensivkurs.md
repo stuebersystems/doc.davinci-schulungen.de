@@ -18,7 +18,7 @@ Hinweis|Bemerkung
 ## Neuen Plan erstellen mit dem Planvorbereitungsassistenten
 
 Der Planvorbereitungsassistent gibt Ihnen Unterstützung bei der Neuerstellung eines Planes.
-Über den Menüpunkt  ``Plan > Neu``gelangen Sie zum Planvorbereitungsassistenten.
+Über den Menüpunkt  ``Plan|Neu``gelangen Sie zum Planvorbereitungsassistenten.
 
 ### Neuen leeren Plan erstellen (für Neueinsteiger)
 
@@ -110,7 +110,7 @@ Doppelstunde | gesetzter Haken heißt für die Automatik, wann eine Doppelstunde
 
 > #### primary::Hinweis
 >
-> Das Zeitrahmen-Fenster können Sie jederzeit über den Menüpunkt ``Extras > Zeitrahmen`` öffnen. Bitte beachten Sie, den Zeitrahmen am gesetzten Plan nicht mehr zu verändern.
+> Das Zeitrahmen-Fenster können Sie jederzeit über den Menüpunkt ``Extras|Zeitrahmen`` öffnen. Bitte beachten Sie, den Zeitrahmen am gesetzten Plan nicht mehr zu verändern.
 
 ## STAMMDATEN
 
@@ -199,7 +199,7 @@ Raum | Wenn Sie dem Lehrer einen Raum zuordnen und dann einer Veranstaltung dies
 
 ### Zeitkonto der Lehrer
 
-``rechte Maustaste auf Lehrerkürzel > Zeitkonto bearbeiten``
+``rechte Maustaste auf Lehrerkürzel|Zeitkonto bearbeiten``
 
 Richten Sie hier die Arbeitszeitkonten der einzelnen Lehrer ein.
 Ein „Grundkonto“ mit den Soll-Stunden, den Ist-Stunden laut Unterrichtsverteilung und der Differenz ist grundsätzlich vorhanden.
@@ -217,9 +217,9 @@ Bsp. Lehrer hat 10 Std. Ermäßigung aufgrund seiner Tätigkeit als Schulleiter 
 
 #### Schlüsselverzeichnis Lehrer-Soll-Schlüssel
 
-Über `Start > Schlüsselverzeichnisse` können Sie das Verzeichnis der Lehrer-Soll-Schlüssel bearbeiten. Für einige Bundesländer können Sie auch Schlüssel importieren.
+Über `Start|Schlüsselverzeichnisse` können Sie das Verzeichnis der Lehrer-Soll-Schlüssel bearbeiten. Für einige Bundesländer können Sie auch Schlüssel importieren.
 
->Start > Schlüsselverzeichnisse
+>Start|Schlüsselverzeichnisse
 
 ![![Lehrer-Soll-Schlüssel](/assets/images/images/lehrer_soll_schluessel.png)](/assets/Lehrer_Soll_Schlüssel.png)
 
@@ -233,7 +233,7 @@ Erfassen Sie hier alle Klassen, die Sie an der Schule unterrichten.
 
 Über `Extras|Optionen` gelangen Sie zu den DAVINCI Optionen. 
 
->Extras > Optionen > Einstellungen
+>Extras|Optionen|Einstellungen
 
 ![DAVINCI Optionen|Einstellungen](/assets/images/opt_einstellungen.png)
 
@@ -338,7 +338,7 @@ Fixieren Sie Stunden, um zu verhindern, dass diese von der Setzautomatik verscho
 
 ### Planlayout
 
-In den Datei-Eigenschaften unter ``Eigenschaften > Stundenplan`` geben Sie an, in welcher Form die Positionen im Bildschirmplan angezeigt werden.
+In den Datei-Eigenschaften unter ``Eigenschaften|Stundenplan`` geben Sie an, in welcher Form die Positionen im Bildschirmplan angezeigt werden.
 Sie legen außerdem fest, welche Teilnehmerfarbe ggf. im Terminfeld angezeigt wird.
 Hier entscheiden Sie ebenfalls, ob Lehrersymbole, Pausenaufsichten, Uhrzeiten und die Kalenderwochen der Perioden im Planungsfenster angezeigt werden
 
@@ -402,14 +402,15 @@ Mit der "X"-Schaltfläche in den Plänen links oben können Sie den betreffenden
 Symbol|Bedeutung
 --|--
 ![Block](/assets/sshot-2.png)| geblockter Unterricht
-![geblockte Elemente](/assets/sshot-4.png)| geblockte Elemente, können hier aus platztechnischen Gründen nicht nebeneinander dargestellt werden, über ``strg + linke Maus`` können die geplockten Elemente aufgerufen werden 
+![geblockte Elemente](/assets/sshot-4.png)| geblockte Elemente, können hier aus platztechnischen Gründen nicht nebeneinander dargestellt werden, über `strg + linke Maus` können die geplockten Elemente aufgerufen werden
 ![Lehrersymbol](/assets/sshot-3.png)|Lehrersymbol (siehe Stammdatenfenster "Lehrer", Spalte "Symbol")
 ![Periodensymbol](/assets/sshot-5.png)|Periodensymbol, kenntzeichnet wochenbezogenen Unterricht, hier wurde der Veranstaltung eine Periode zugewiesen
-![](/assets/sshot-6.png)| mögliche Tauschelemente (![](/assets/sshot-7.png)) des im Planfenster markierten Elementes, der Tausch wird mit gedrückter  ``Shift + linke Maustaste``auf den Tauschpartner ausgeführt.
-![](/assets/sshot-8.png)| "Positionskonflikte anzeigen" - GELB heißt, die markierte Veranstaltungen (im Planfenster oder Veranstaltungsliste) kann auf diese Position gesetzt werden
-![![](/assets/sshot-8.png)](/assets/sshot-9.png)| "Positionskonflikte anzeigen" - BLAU heißt, die markierte Veranstaltungen (im Planfenster oder Veranstaltungsliste) führt zu einem Konflikt, wenn auf diese Position gesetzt wird
+![Tauschelemente](/assets/sshot-6.png)| mögliche Tauschelemente des im Planfenster markierten Elementes, der Tausch wird mit gedrückter  ``Shift + linke Maustaste``auf den Tauschpartner ausgeführt.
+![Positionskonflikte](/assets/sshot-8.png)| "Positionskonflikte anzeigen" - GELB heißt, die markierte Veranstaltungen (im Planfenster oder Veranstaltungsliste) kann auf diese Position gesetzt werden
+![![Positionskonflikte](/assets/sshot-8.png)](/assets/sshot-9.png)| "Positionskonflikte anzeigen" - BLAU heißt, die markierte Veranstaltungen (im Planfenster oder Veranstaltungsliste) führt zu einem Konflikt, wenn auf diese Position gesetzt wird
 
 ## KALENDER
+
 ![Bereich Kalender](/assets/sshot-10.png)
 
 Im Bereich Kalender importieren Sie die offiziellen Ferien- und Feiertagstermine Ihres Bundeslandes.
@@ -418,8 +419,8 @@ Im Bereich Kalender importieren Sie die offiziellen Ferien- und Feiertagstermine
 
 Außerdem können Sie hier Ereignisse und Aufgaben selbst definieren.
 Bei Bedarf können Sie in der Kalenderansicht auch Ihre Unterrichtstermine anzeigen und diese sogar bearbeiten.
- 
-Im Dialogfenster `Ereignis` geben Sie die Termin- und Teilnehmerdaten eines Kalendereignisses an. 
+
+Im Dialogfenster `Ereignis` geben Sie die Termin- und Teilnehmerdaten eines Kalendereignisses an.
 
 ![Kalender](/assets/images/kalender_kalender.png)
 
@@ -438,9 +439,10 @@ Im Programmbereich „Aufsichten können Sie für die im Aufsichtszeitrahmen ers
 
 ![!Aufsichtsplan](/assets/Aufsichtsplan.png)
 
-# ÜBERSICHTEN
+## ÜBERSICHTEN
 
 Im Bereich der Übersichten finden Sie eine Vielzahl von Übersichten für weitere Auswertungen.
+
 ### Übersicht „Lehrer-Soll-Ist“
 
 Die Übersicht „Lehrer-Soll-Ist“ zeigt für jeden Lehrer die Pflicht- und Änderungsstunden an.
@@ -453,7 +455,7 @@ Die Übersicht „Fach-Soll-Ist“ zeigt Ihnen eine Liste der Fach-Soll- und Ist
 
 Die Übersicht „Veranstaltungen“ zeigt eine Liste aller Veranstaltungen und Termine des Plans.
 
-# AUSDRUCK
+## AUSDRUCK
 
 Im Dialogfenster „Drucken“ wählen Sie die Planart, die Einzelpläne, den Zeitraum und das Druckformat fest, für die der Ausdruck erfolgen soll.
 
@@ -494,48 +496,47 @@ Die im Planausdruck verwendeten Schriftarten können ebenfalls individuell angep
 
 ![Design|Schriftarten](/assets/Klassenplan.Schriftarten.png)
 
-###  Druckvorschau
+### Druckvorschau
 
 In der Druckvorschau finden Sie vielfältige Optionen, das Druckergebnis zu überprüfen und an individuelle Vorgaben anzupassen
 
-###  Ansicht „Druckvorschau“|Seite einrichten
+### Ansicht „Druckvorschau“|Seite einrichten
 
 Im Dialogfenster ``Seite einrichten`` können Sie das Format der Druckseite anpassen.
 
 ![Druckvorschau - Seite einrichten](/assets/images/drucken_druckvorschau_seite_einrichten.png)
 
-# SONSTIGES
+## SONSTIGES
 
 ### Bezeichnungen anpassen
 
 Sie können Bezeichnungen umbenennen. Diese Umbenennung wird an verschiedenen Stellen in den Stammdaten, der Veranstaltungsliste dem Planungsfenster und im Ausdruck sichtbar.
 
->Plan > Eigenschaften > Bezeichnungen
+>Plan|Eigenschaften|Bezeichnungen
 
 ![Plan-Eigenschaften|Bezeichnungen](/assets/images/plan_eigenschaften_bezeichnungen.png)
 
-
 ### DAVINCI Optionen
 
-Über `Extras|Optionen` gelangen Sie zu den DAVINCI Optionen. 
+Über `Extras|Optionen` gelangen Sie zu den DAVINCI Optionen.
 
->Extras > Optionen > Meine Daten
+`Extras|Optionen|Meine Daten`
 
-![](/assets/images/Opt_MeineDaten.png)
+![Meine Daten](/assets/images/Opt_MeineDaten.png)
 
->Extras > Optionen > Plandatei
+`Extras|Optionen|Plandatei`
 
-![](/assets/images/Opt_Plandatei.png)
+![Plandatei](/assets/images/Opt_Plandatei.png)
 
->Extras > Optionen > Einstellungen
+`Extras|Optionen|Einstellungen`
 
-![](/assets/images/Opt_Einstellungen.png)
+![Einstellungen](/assets/images/Opt_Einstellungen.png)
 
->Extras > Optionen > Ansicht
+`Extras|Optionen|Ansicht`
 
-![](/assets/images/Opt_Ansicht.png)
+![Ansicht](/assets/images/Opt_Ansicht.png)
 
-`Extras > Optionen > Plananzeige`
+`Extras|Optionen|Plananzeige`
 
 ![Allgemeine Plananzeige](/assets/images/Opt_Plananzeige.png)
 
