@@ -109,7 +109,7 @@ Dort erscheinen negativen Anrechenstunden, die ein Lehrer erhält, da seine plan
 ![Fehlzeiten-Erfassen-Fenster](/assets/images/images VP/vp_lehrerfehlzeit.png)
 
 * **Fehlgrund:** hier können Sie aus den zuvor eingegebenen „Klassenfehlgründen“ auswählen
-* Im Feld **„emerkung** kann ein Kommentar zu der Fehlzeit hinterlegt werden
+* Im Feld **Bemerkung** kann ein Kommentar zu der Fehlzeit hinterlegt werden
 * Setzt man ein Häkchen bei **Anrechnen,** so werden die ausfallenden Unterrichtsstunden als negative Anrechenstunden erfasst
 * Option **Nicht öffentlich** kann erfasst werden, um diesen ggf. nicht zu veröffentlichen (im Ausdruck und in LOOK)
 * Der Wert der anfallenden Anrechenstunden kann im Feld **Anrechenstd.** individuell angepasst werden
@@ -208,7 +208,7 @@ Sie können entscheiden, ob Sie einen direkten Lehrer (dieser hat zum Vertretung
 
 #### Vertretungsentfallgründe definieren
 
-`Extras>Schlüsselverzeichnisse>Vertretungsentfallgründe`
+`Extras|Schlüsselverzeichnisse|Vertretungsentfallgründe`
 
 * Definieren Sie vor dem Vertretungsentfall unter `Extras|Schlüsselverzeichnisse|Vertretungsentfallgründe` die entsprechenden Gründe, die beim Ausfall einer Vertretung hinterlegt werden sollen.
 
@@ -299,7 +299,7 @@ In den Lehrer-, Klassen- und Raumplänen können Sie Stunden verschieben oder ve
 * Über Blitzsymbole wird Ihnen angezeigt, welche Klasse, Lehrer oder Räume zu diesem Zeitpunkt bereits belegt sind
 * In Register **Räume** hat man die Filtermöglichkeit nach freien Räumen, Raumart, Kapazität und Teams
 
-![Neuer Zusatzunterrcht](assets/images/images VP/vp_aenderungen.fach.raum.png)
+![Neuer Zusatzunterricht](assets/images/images VP/vp_aenderungen.fach.raum.png)
 
 #### Unterrichtsfach/Raum im Plan ändern
 
@@ -328,7 +328,7 @@ In den Lehrer-, Klassen- und Raumplänen können Sie Stunden verschieben oder ve
 
 * In der Übersicht „Statistik“ finden Sie für jeden Lehrer eine monatsweise Aufstellung der Anrechenstunden, Fehlgründe, Vertretungen und Ausfallstunden. Bitte achten Sie darauf, dass Sie sich im Bereich "Vertretungen" oder "Anrechnungen" befinden.
 
->Start>Statistik
+`Start|Statistik`
 
 ![Statistik](/assets/images/images VP/vp_statistik.png)
 
