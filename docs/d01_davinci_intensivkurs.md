@@ -31,15 +31,15 @@ Wenn Sie auf ``Fertig`` klicken, öffnet sich automatisch das Stammdatenfenster.
 
 Markieren Sie ``Neuen Plan erstellen und Daten übernehmen`` wenn Sie auf eine Vorjahresplandatei zurückgreifen und Daten übernehmen möchten. Geben Sie an, aus welchem Plan Sie die Daten übernehmen möchten und klicken Sie auf ``Weiter``.
 
-![Planvorbereitungsassistent](/assets/Planvorb.01.png)
+![Planvorbereitungsassistent](/assets/images/Planvorb.01.png)
 
 Wählen Sie zwischen ``Neues Schuljahr`` oder ``Planwechsel innerhalb des Schuljahres`` und klicken Sie auf ``Weiter``.
 
-![Planvorbereitungsassistent](/assets/Planvorb.02.png)
+![Planvorbereitungsassistent](/assets/images/Planvorb.02.png)
 
 Wählen Sie zwischen ``Unterrichtsverteilung und Aufsichten löschen`` oder ``Alles übernehmen`` und klicken Sie auf ``Weiter``.
 
-![Planvorbereitungsassistent](/assets/Planvorb.03.png)
+![Planvorbereitungsassistent](/assets/images/Planvorb.03.png)
 
 Anschließend gelangen Sie zu den wesentlichen Schritten der Planneuerstellung.
 
@@ -80,13 +80,13 @@ DAVINCI bietet Ihnen standardmäßig zwei Zeitrahmen an: Standard und Aufsichten
 
 #### Standard-Zeitrahmen
 
->Registerkarte "Allgemein"
+##### **Registerkarte "Allgemein"**
 
 Hier können Sie vorgeben, aus wie viel Positionen Ihr Tag besteht und welche Dauer eine Position hat.
 
 ![Zeitrahmen, Register "Allgemein" ](/assets/images/zeitrahmen_standard.png)
 
->Registerkarte "Positionen"
+##### **Registerkarte "Positionen"**
 
 Spalte | Bedeutung
 -|-
@@ -100,48 +100,47 @@ Doppelstunde | gesetzter Haken heißt für die Automatik, wann eine Doppelstunde
 
 #### Aufsichten-Zeitrahmen
 
->Registerkarte "Allgemein"
+##### **Registerkarte"Allgemein"**
 
- Spalte | Bedeutung
+Spalte | Bedeutung
  -|-
- Positionen | Anzahl der zu beaufsichtigenden Pausenzeiten
+Positionen | Anzahl der zu beaufsichtigenden Pausenzeiten
 
 ![Aufsichten-Zeitrahmen ](/assets/images/zeitrahmen_aufsichten.png)
 
-> #### primary::Hinweis
->
-> Das Zeitrahmen-Fenster können Sie jederzeit über den Menüpunkt ``Extras|Zeitrahmen`` öffnen. Bitte beachten Sie, den Zeitrahmen am gesetzten Plan nicht mehr zu verändern.
+!!! info "Hinweis"
+    Das Zeitrahmen-Fenster können Sie jederzeit über den Menüpunkt ``Extras|Zeitrahmen`` öffnen. Bitte beachten Sie, den Zeitrahmen am gesetzten Plan nicht mehr zu verändern.
 
 ## STAMMDATEN
 
-## Ressourcen
+### Ressourcen
 
 Erfassen Sie hier alle Hilfs- und Lehrmittel, die Sie im Rahmen der Unterrichtsplanung zuweisen möchten. Diese stehen Ihnen im Bereich "Stundenplan" zur Verfügung. Im Bereich Kalender wird außerdem für jede Ressource ein Teilnehmerkalender angelegt.
 
 ![Stammdaten Ressourcen](/assets/Stammdaten_Ressourcen.png)
 
-## Teams
+### Teams
 
 Erfassen Sie hier verschiedene organisatorische Gliederungen an der Schule. Sie können die angelegten Teams in den Stammdaten der Klassen, Lehrer und Räume hinterlegen und diese später als Filterkriterium nutzen.
 
 ![Stammdaten Teams](/assets/Stammdaten_Teams.png)
 
-## Gebäude
+### Gebäude
 
 Geben Sie hier die unterschiedlichen Standorte und die Wegzeiten zwischen Hauptgebäude und den Standorten ein.
 Die Automatik versucht die Veranstaltungen so zu verplanen, dass keine Probleme mit den Wegzeiten bestehen. Sollte dennoch eine Wegzeit eine Pausenzeit überschreiten, weil Sie die Veranstaltungen beispielsweise manuell gesetzt haben, wird im Plan bei den entsprechenden Elementen ein Warnsymbol angezeigt.
 
 ![Wegzeitkonflikte-Symbol im Planfenster ](/assets/images/Warnsymbol.png)
 
-![Stammdaten Gebäude](/assets/Stammdaten_Gebäude.png)
+![Stammdaten Gebäude](/assets/images/Stammdaten_Gebäude.png)
 
-## Perioden
+### Perioden
 
 Geben Sie hier alle Periodenschemata (Wochenbezüge) ein, die Sie später einer Klasse oder einer Veranstaltung zuweisen möchten.
 
-![Stammdaten Perioden](/assets/Stammdaten_Perioden.png)
+![Stammdaten Perioden](/assets/images/Stammdaten_Perioden.png)
 
-## Räume
+### Räume
 
 Erfassen Sie hier alle Räume, die für die Unterrichtsplanung zur Verfügung stehen sollen.
 
@@ -150,9 +149,9 @@ Spalte | Bedeutung
 Lehrer | Eingabe des Raumbetreuers, kann in den Ausdruck übergeben werden und wird in DAVINCI LOOK angezeigt
 Kapazität | diese kann bei der Raumzuweisung als Filterkriterium genutzt werden
 
-![Stammdaten Räume](/assets/Stammdaten_Räume.png)
+![Stammdaten Räume](/assets/images/Stammdaten_Räume.png)
 
-## Aufsichtsbereiche
+### Aufsichtsbereiche
 
 Tragen Sie hier die Aufsichtsbereiche ein, denen zu bestimmten Zeiten ein Aufsichtslehrer zugeordnet werden soll.
 
@@ -161,21 +160,21 @@ Spalte | Bedeutung
 Zeitrahmen | hier wählen Sie den für den Aufsichtsbereich definierten Zeitrahmen aus
 Räume | hier wählen Sie Räume aus, die in der Nähe des Aufsichtsbereiches liegen, Ihnen wird später bei der Zuweisung eines Lehrers für eine Aufsicht angezeigt, wer sich in Bereichsnähe aufhält
 
-![Stammdaten Aufsichten](/assets/Stammdaten_Aufsichtsbereiche.png)
+![Stammdaten Aufsichten](/assets/images/Stammdaten_Aufsichtsbereiche.png)
 
-## Fächer
+### Fächer
 
 Erfassen Sie hier die Unterrichtsfächer Ihrer Lehrveranstaltungen. Weisen Sie hier bestimmten Fächern Fachräume zu. Diese Eintragung dient als Filterkriterium bei der Raumzuweisung. Ein Fachraum ist auch ein möglicher Raum für die Planung per Raumautomatik.
 
-![Stammdaten Fächer](/assets/Stammdaten_Fächer.png)
+![Stammdaten Fächer](/assets/images/Stammdaten_Fächer.png)
 
-## Stundentafeln
+### Stundentafeln
 
 Stundentafeln bilden die Grundlage für die spätere Unterrichtsverteilung. Geben Sie hier alle Stundentafeln ein.
 
-![Stammdaten Stundentafel](/assets/Stammdaten_Stundentafeln.png)
+![Stammdaten Stundentafel](/assets/images/Stammdaten_Stundentafeln.png)
 
-![Anlegen einer Stundentafel](/assets/Stammdaten_Stundentafeln01.png)
+![Anlegen einer Stundentafel](/assets/images/Stammdaten_Stundentafeln01.png)
 
 Spalte | Bedeutung
 -|-
@@ -187,17 +186,17 @@ Doppelstunde | Automatikvorgaben, Einträge wie 1-2 möglich
 
 Die Stundentafeln können über das Symbol ``Exportieren`` in die Formate Excel, TXT, HTML und XML exportiert werden.
 
-## Lehrer
+### Lehrer
 
-Erfassen Sie hier alle Lehrkräfte, die an der Schule unterrichten. Geben Sie die Fächer der Lehrer ein. Bei der Lehrerzuordnung dient das Kriterium „Fachlehrer“ als Filter. 
+Erfassen Sie hier alle Lehrkräfte, die an der Schule unterrichten. Geben Sie die Fächer der Lehrer ein. Bei der Lehrerzuordnung dient das Kriterium „Fachlehrer“ als Filter.
 
 Spalte | Bedeutung
 -|-
 Raum | Wenn Sie dem Lehrer einen Raum zuordnen und dann einer Veranstaltung diesen Lehrer zuordnen, wird der Raum bei der Lehrerzuordnung direkt mit eingetragen, vorausgesetzt die Veranstaltung hatte noch keine Raumzuweisung
 
-![Stammdaten Lehrer](/assets/Stammdaten_Lehrer.png)
+![Stammdaten Lehrer](/assets/images/Stammdaten_Lehrer.png)
 
-### Zeitkonto der Lehrer
+#### Zeitkonto der Lehrer
 
 ``rechte Maustaste auf Lehrerkürzel|Zeitkonto bearbeiten``
 
@@ -206,7 +205,7 @@ Ein „Grundkonto“ mit den Soll-Stunden, den Ist-Stunden laut Unterrichtsverte
 
 Spalte | Bedeutung
 -|-
-Anrechnungen | Wert ergibt sich aus der Summe der Mehr- und Minderstunden, die je Arbeitszeitkonto der Lehrer erfasst werden können 
+Anrechnungen | Wert ergibt sich aus der Summe der Mehr- und Minderstunden, die je Arbeitszeitkonto der Lehrer erfasst werden können
 Ist | verplante Stunden (die im Plan gesetzt sind)
 
 ![Lehrer-Arbeits-Zeitkonto](/assets/images/zeitkonto_lehrer.png)
@@ -225,19 +224,19 @@ Bsp. Lehrer hat 10 Std. Ermäßigung aufgrund seiner Tätigkeit als Schulleiter 
 
 ### Klassen
 
-Erfassen Sie hier alle Klassen, die Sie an der Schule unterrichten. 
+Erfassen Sie hier alle Klassen, die Sie an der Schule unterrichten.
 
-![Stammdaten Klassen](/assets/Stammdaten_Klassen.png)
+![Stammdaten Klassen](/assets/images/Stammdaten_Klassen.png)
 
 ### Anzeige der Stammdaten
 
-Über `Extras|Optionen` gelangen Sie zu den DAVINCI Optionen. 
+Über `Extras|Optionen` gelangen Sie zu den DAVINCI Optionen.
 
 >Extras|Optionen|Einstellungen
 
 ![DAVINCI Optionen|Einstellungen](/assets/images/opt_einstellungen.png)
 
-* _Einstellungen:_ hier können Sie für das Stammdatenfenster die Option „Im Bearbeiten-Modus“ ausschalten, dann befindet sich das Stammdatenfenster beim Öffnen nicht im Editiermodus und versehentliches Überschreiben von Einträgen wird verhindert 
+* _Einstellungen:_ hier können Sie für das Stammdatenfenster die Option „Im Bearbeiten-Modus“ ausschalten, dann befindet sich das Stammdatenfenster beim Öffnen nicht im Editiermodus und versehentliches Überschreiben von Einträgen wird verhindert
 
 >Extras>Optionen>Ansicht
 
@@ -266,7 +265,7 @@ Im Dialogfenster `Aus Stundentafel erzeugen` legen Sie fest, ob Veranstaltungen 
 
 ### Die Veranstaltungsliste
 
-![](/assets/Veranstaltungsliste.png)
+![Spalten der Veranstaltungsliste](/assets/images/Veranstaltungsliste.png)
 
 Spalte | Bedeutung
 -|-
@@ -309,7 +308,7 @@ Anzeige im Plan:
 
 ### Kernzeit eintragen
 
-Tragen Sie im Planungsfenster `Kernzeiten` in vier unterschiedlichen Gewichtungstufen ein. Diese Entragungen werden von der Setzautomatik entsprechend der vorgegeben Abstufung berücksichtigt. 
+Tragen Sie im Planungsfenster `Kernzeiten` in vier unterschiedlichen Gewichtungstufen ein. Diese Entragungen werden von der Setzautomatik entsprechend der vorgegeben Abstufung berücksichtigt.
 Dabei gilt 1 gilt als am stärksten und 4 als am schwächsten gewichtete Kernzeit.
 
 ![Zeitpräferenz - Lehrer](/assets/images/zeitpraeferenz_lehrer.png)
@@ -377,12 +376,11 @@ In der Spalte „Fachfolge“ können Sie festlegen, welche Fächer in Klassenpl
 
 Spalte | Bedeutung
 -|-
-1 bis 9 | Fächer mit gleicher Zahl sollen am selben Tag unmittelbar hintereinander gesetzt werden. 
+1 bis 9 | Fächer mit gleicher Zahl sollen am selben Tag unmittelbar hintereinander gesetzt werden.
 -1 bis -9 | Fächer mit gleicher Zahl dürfen am selben Tag nicht unmittelbar hintereinander  verplant werden
  _-10 bis -19 | Fächer mit gleicher Zahl dürfen nicht am gleichen Tag verplant werden
 
 ![Automatikvorgaben|Fächervorgaben](/assets/images/automatikvorgaben_faechervorgaben.png)
-
 
 ![Automatik starten](/assets/images/automatik_starten.png)
 
@@ -401,17 +399,17 @@ Mit der "X"-Schaltfläche in den Plänen links oben können Sie den betreffenden
 
 Symbol|Bedeutung
 --|--
-![Block](/assets/sshot-2.png)| geblockter Unterricht
-![geblockte Elemente](/assets/sshot-4.png)| geblockte Elemente, können hier aus platztechnischen Gründen nicht nebeneinander dargestellt werden, über `strg + linke Maus` können die geplockten Elemente aufgerufen werden
-![Lehrersymbol](/assets/sshot-3.png)|Lehrersymbol (siehe Stammdatenfenster "Lehrer", Spalte "Symbol")
-![Periodensymbol](/assets/sshot-5.png)|Periodensymbol, kenntzeichnet wochenbezogenen Unterricht, hier wurde der Veranstaltung eine Periode zugewiesen
-![Tauschelemente](/assets/sshot-6.png)| mögliche Tauschelemente des im Planfenster markierten Elementes, der Tausch wird mit gedrückter  ``Shift + linke Maustaste``auf den Tauschpartner ausgeführt.
-![Positionskonflikte](/assets/sshot-8.png)| "Positionskonflikte anzeigen" - GELB heißt, die markierte Veranstaltungen (im Planfenster oder Veranstaltungsliste) kann auf diese Position gesetzt werden
-![![Positionskonflikte](/assets/sshot-8.png)](/assets/sshot-9.png)| "Positionskonflikte anzeigen" - BLAU heißt, die markierte Veranstaltungen (im Planfenster oder Veranstaltungsliste) führt zu einem Konflikt, wenn auf diese Position gesetzt wird
+![Block](/assets/images/sshot-2.png)| geblockter Unterricht
+![geblockte Elemente](/assets/images/sshot-4.png)| geblockte Elemente, können hier aus platztechnischen Gründen nicht nebeneinander dargestellt werden, über `strg + linke Maus` können die geplockten Elemente aufgerufen werden
+![Lehrersymbol](/assets/images/sshot-3.png)|Lehrersymbol (siehe Stammdatenfenster "Lehrer", Spalte "Symbol")
+![Periodensymbol](/assets/images/sshot-5.png)|Periodensymbol, kenntzeichnet wochenbezogenen Unterricht, hier wurde der Veranstaltung eine Periode zugewiesen
+![Tauschelemente](/assets/images/sshot-6.png)| mögliche Tauschelemente des im Planfenster markierten Elementes, der Tausch wird mit gedrückter  ``Shift + linke Maustaste``auf den Tauschpartner ausgeführt.
+![Positionskonflikte](/assets/images/sshot-8.png)| "Positionskonflikte anzeigen" - GELB heißt, die markierte Veranstaltungen (im Planfenster oder Veranstaltungsliste) kann auf diese Position gesetzt werden
+![![Positionskonflikte](/assets/sshot-8.png)](/assets/images/sshot-9.png)| "Positionskonflikte anzeigen" - BLAU heißt, die markierte Veranstaltungen (im Planfenster oder Veranstaltungsliste) führt zu einem Konflikt, wenn auf diese Position gesetzt wird
 
 ## KALENDER
 
-![Bereich Kalender](/assets/sshot-10.png)
+![Bereich Kalender](/assets/images/sshot-10.png)
 
 Im Bereich Kalender importieren Sie die offiziellen Ferien- und Feiertagstermine Ihres Bundeslandes.
 
@@ -437,7 +435,7 @@ Hier können Sie die erstellten Veranstaltungen sowohl erzeugen, als auch bearbe
 
 Im Programmbereich „Aufsichten können Sie für die im Aufsichtszeitrahmen erstellten Aufsichtspositionen in jedem Bereich Aufsichtslehrer zuweisen. Den Aufsichtsbereichsplan können Sie entweder für alle Wochen oder für jede Woche einzeln erstellen
 
-![!Aufsichtsplan](/assets/Aufsichtsplan.png)
+![!Aufsichtsplan](/assets/images/Aufsichtsplan.png)
 
 ## ÜBERSICHTEN
 
@@ -494,7 +492,7 @@ Hier stellen Sie ein, welche Termininformationen im Ausdruck zu sehen sind.
 
 Die im Planausdruck verwendeten Schriftarten können ebenfalls individuell angepasst werden
 
-![Design|Schriftarten](/assets/Klassenplan.Schriftarten.png)
+![Design|Schriftarten](/assets/images/Klassenplan.Schriftarten.png)
 
 ### Druckvorschau
 
