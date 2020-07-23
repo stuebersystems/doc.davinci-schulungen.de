@@ -267,35 +267,35 @@ Im Dialogfenster `Aus Stundentafel erzeugen` legen Sie fest, ob Veranstaltungen 
 
 ![Spalten der Veranstaltungsliste](/assets/images/Veranstaltungsliste.png)
 
-Spalte | Bedeutung
--|-
-Unverplant |
-Block |
-Schiene |
-Fach |
-Dauer |
-Periode |
-Soll (W) |
-Ist (W) |
-Lehrer |
-Klassen |
-Räume |
-Schüler |
-Wochen |
-Bemerkung |
-Nr |
+Spalte | Bedeutung |
+| --------------------------------------- | ----------------------------------- |
+Unverplant | |
+Block ||
+Schiene ||
+Fach ||
+Dauer ||
+Periode ||
+Soll (W) ||
+Ist (W) ||
+Lehrer ||
+Klassen ||
+Räume ||
+Schüler ||
+Wochen ||
+Bemerkung ||
+Nr ||
 
-### Veranstaltung bearbeiten | Veranstaltung
+### Veranstaltung bearbeiten > Veranstaltung
 
 ![Veranstaltung bearbeiten-Fenster | Veranstaltung](/assets/images/veranstaltungsdetails.png)
 
-### Veranstaltung bearbeiten | Teilnehmer Termine
+### Veranstaltung bearbeiten > Teilnehmer Termine
 
 ![Veranstaltung bearbeiten-Fenster - Teilnehmer Termine](/assets/images/veranstaltungsdetails_termine.png)
 
-* „Nur Fachlehrer“
-* „Nur ausreichende Soll-Differenz“
-* „Nur Lehrer des Teams“
+* ``Nur Fachlehrer``
+* ``Nur ausreichende Soll-Differenz``
+* ``Nur Lehrer des Teams``
 
 ### Sperrung eintragen
 
@@ -319,13 +319,13 @@ Anzeige im Plan:
 
 ### Unverplante Termine setzen
 
-Setzen Sie Unterrichtstermine aus dem Zusatzfenster „Unverplant“ in das Planungsfenster des aufgerufenen Einzelplans. Dies können Sie komfortabel per Drag & Drop erledigen
+Setzen Sie Unterrichtstermine aus dem Zusatzfenster „Unverplant“ in das Planungsfenster des aufgerufenen Einzelplans. Dies können Sie komfortabel per Drag & Drop erledigen.
 
 ![Zusatzfenster "Unverplant" ](/assets/images/planfenster_unverplant.png)
 
-Über den Menüaufruf ``Start>Planansicht`` können Sie zwei Überschneidungsprüfungen aktivieren.
-Die Option „Positionskonflikte anzeigen“ hebt alle unpassenden Positionen im Planungsfenster farbig und textlich hervor.
-Die Option „Passende Termine hervorheben“ hebt alle unpassenden Termine im Zusatzfenster „Unverplant“ farbig hervor.
+Über den Menüaufruf ``Start > Planansicht`` können Sie zwei Überschneidungsprüfungen aktivieren.
+Die Option `Positionskonflikte anzeigen` hebt alle unpassenden Positionen im Planungsfenster farbig und textlich hervor.
+Die Option `Passende Termine hervorheben` hebt alle unpassenden Termine im Zusatzfenster „Unverplant“ farbig hervor.
 
 ![Planfenster ](/assets/images/planansicht_01.png)
 
@@ -337,7 +337,7 @@ Fixieren Sie Stunden, um zu verhindern, dass diese von der Setzautomatik verscho
 
 ### Planlayout
 
-In den Datei-Eigenschaften unter ``Eigenschaften|Stundenplan`` geben Sie an, in welcher Form die Positionen im Bildschirmplan angezeigt werden.
+In den Datei-Eigenschaften unter `Eigenschaften > Stundenplan` geben Sie an, in welcher Form die Positionen im Bildschirmplan angezeigt werden.
 Sie legen außerdem fest, welche Teilnehmerfarbe ggf. im Terminfeld angezeigt wird.
 Hier entscheiden Sie ebenfalls, ob Lehrersymbole, Pausenaufsichten, Uhrzeiten und die Kalenderwochen der Perioden im Planungsfenster angezeigt werden
 
