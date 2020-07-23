@@ -299,13 +299,14 @@ In den Lehrer-, Klassen- und Raumplänen können Sie Stunden verschieben oder ve
 * Über Blitzsymbole wird Ihnen angezeigt, welche Klasse, Lehrer oder Räume zu diesem Zeitpunkt bereits belegt sind
 * In Register **Räume** hat man die Filtermöglichkeit nach freien Räumen, Raumart, Kapazität und Teams
 
-![Neuer Zusatzunterricht](assets/images/images VP/vp_aenderungen.fach.raum.png)
+![Neuer Zusatzunterricht](assets/images/images VP/zusatzunterricht.png)
 
 #### Unterrichtsfach/Raum im Plan ändern
 
 * Über den `RechteMaustaste|Fach ändern…`(bzw. `RechteMaustaste|Raum ändern…`) können Sie das Unterrichtsfach bzw. den Raum eines Termins ändern.
 
-![Fach/Raum ändern](assets/images/images VP/vp_aenderungen.fach.raum.png)
+![Fach/Raum ändern](assets/images/images VP/raum ändern.png)
+![Fach/Raum ändern](assets/images/images VP/fach ändern.png)
 
 ## Bereich „Änderungen“
 
@@ -322,7 +323,7 @@ In den Lehrer-, Klassen- und Raumplänen können Sie Stunden verschieben oder ve
 * Diese Liste können Sie wieder sortieren, gruppieren
 * Über `Exportieren` kann die Liste nach Excel, TXT, HTML und XML exportiert werden
 
-![Bereich "Anrechnungen"](/assets/images/images VP/vp_anrechungen.png)
+![Bereich "Anrechnungen"](/assets/images/images VP/vp_anrechnungen.png)
 
 ## Vertretungsstatistik
 
@@ -336,7 +337,7 @@ In den Lehrer-, Klassen- und Raumplänen können Sie Stunden verschieben oder ve
 
 * Registerkarten **Positive Anrechenstunden** und  **Negative Anrechenstunden:** hier findet man für jeden Lehrer eine monatsweise Aufstellung der positiven und negativen Anrechenstunden
 
-![Vertretungsstatistik, Anrechenstunden](/assets/images/images VP/vp_vertretungsstatistik.anrechenenstunden.png)
+![Vertretungsstatistik, Anrechenstunden](/assets/images/images VP/vp_vertretungsstatistik.anrechenstunden.png)
 
 ### Vertretungsstatistik|Fehlgründe
 

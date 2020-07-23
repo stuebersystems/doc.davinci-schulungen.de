@@ -117,13 +117,13 @@ Positionen | Anzahl der zu beaufsichtigenden Pausenzeiten
 
 Erfassen Sie hier alle Hilfs- und Lehrmittel, die Sie im Rahmen der Unterrichtsplanung zuweisen möchten. Diese stehen Ihnen im Bereich "Stundenplan" zur Verfügung. Im Bereich Kalender wird außerdem für jede Ressource ein Teilnehmerkalender angelegt.
 
-![Stammdaten Ressourcen](/assets/Stammdaten_Ressourcen.png)
+![Stammdaten Ressourcen](/assets/images/Stammdaten_Ressourcen.png)
 
 ### Teams
 
 Erfassen Sie hier verschiedene organisatorische Gliederungen an der Schule. Sie können die angelegten Teams in den Stammdaten der Klassen, Lehrer und Räume hinterlegen und diese später als Filterkriterium nutzen.
 
-![Stammdaten Teams](/assets/Stammdaten_Teams.png)
+![Stammdaten Teams](/assets/images/Stammdaten_Teams.png)
 
 ### Gebäude
 
@@ -220,7 +220,7 @@ Bsp. Lehrer hat 10 Std. Ermäßigung aufgrund seiner Tätigkeit als Schulleiter 
 
 >Start|Schlüsselverzeichnisse
 
-![![Lehrer-Soll-Schlüssel](/assets/images/images/lehrer_soll_schluessel.png)](/assets/Lehrer_Soll_Schlüssel.png)
+![Lehrer-Soll-Schlüssel](/assets/images/lehrer_soll_schluessel.png)
 
 ### Klassen
 
@@ -424,12 +424,12 @@ Im Dialogfenster `Ereignis` geben Sie die Termin- und Teilnehmerdaten eines Kale
 
 ## Die Unterrichtsmatrix
 
-![Unterrichtsmatrix](/assets/U-Matrix.png)
+![Unterrichtsmatrix](/assets/images/U-Matrix.png)
 
 In der Unterrichtsmatrix wird die Gesamt-Unterrichtsverteilung in drei unterschiedlichen Matrixansichten dargestellt.
 Hier können Sie die erstellten Veranstaltungen sowohl erzeugen, als auch bearbeiten. Entweder über die Menüleiste "Start" oder über ``rechte Maustaste``.
 
-![Veranstaltungseinträge bearbeiten](/assets/U-Matrix01.png)
+![Veranstaltungseinträge bearbeiten](/assets/images/U-Matrix01.png)
 
 ## Der Aufsichtsplan
 
