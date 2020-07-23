@@ -5,7 +5,7 @@ Dieses Handout gibt Ihnen einen Kurzüberblick über die Schulungsinhalte des DA
 Hinweis|Bemerkung
 --|--
 **Dauer:**|12 x 45 min
-**Themen:**|- Neuen Plan erstellen: Planvorbereitungsmanager, Stammdaten eingeben,- Unterrichtsverteilung erstellen: Perioden zuweisen, Blöcke erstellen, Lehrereinsatz,Raumverplanung,- Stundenplan setzen: manuelles und automatisches Planen, Übersichten, Druckformate editieren
+**Themen:**|**Neuen Plan erstellen:** Planvorbereitungsmanager, Stammdaten eingeben, **Unterrichtsverteilung erstellen:** Perioden zuweisen, Blöcke erstellen, Lehrereinsatz,Raumverplanung, **Stundenplan setzen:** manuelles und automatisches Planen, Übersichten, Druckformate editieren
 **Zielgruppe:** |Stundenplaner
 
 ## Das Willkommen-Fenster
@@ -18,26 +18,26 @@ Hinweis|Bemerkung
 ## Neuen Plan erstellen mit dem Planvorbereitungsassistenten
 
 Der Planvorbereitungsassistent gibt Ihnen Unterstützung bei der Neuerstellung eines Planes.
-Über den Menüpunkt  ``Plan|Neu``gelangen Sie zum Planvorbereitungsassistenten.
+Über den Menüpunkt  `Plan > Neu`gelangen Sie zum Planvorbereitungsassistenten.
 
 ### Neuen leeren Plan erstellen (für Neueinsteiger)
 
-Markieren Sie ``Neuen leeren Plan`` wenn Sie auf keine Vorjahresplandatei, die Sie mit DAVINCI erstellt haben, zurückgreifen können und klicken Sie auf ``Weiter``.
-Wenn Sie auf ``Fertig`` klicken, öffnet sich automatisch das Stammdatenfenster.
+Markieren Sie `Neuen leeren Plan` wenn Sie auf keine Vorjahresplandatei, die Sie mit DAVINCI erstellt haben, zurückgreifen können und klicken Sie auf `Weiter`.
+Wenn Sie auf `Fertig` klicken, öffnet sich automatisch das Stammdatenfenster.
 
 ![Der Planvorbereitungsassistent ](/assets/images/planvorb.png)
 
 ### Neuen Plan erstellen und Daten übernehmen
 
-Markieren Sie ``Neuen Plan erstellen und Daten übernehmen`` wenn Sie auf eine Vorjahresplandatei zurückgreifen und Daten übernehmen möchten. Geben Sie an, aus welchem Plan Sie die Daten übernehmen möchten und klicken Sie auf ``Weiter``.
+Markieren Sie `Neuen Plan erstellen und Daten übernehmen` wenn Sie auf eine Vorjahresplandatei zurückgreifen und Daten übernehmen möchten. Geben Sie an, aus welchem Plan Sie die Daten übernehmen möchten und klicken Sie auf `Weiter`.
 
 ![Planvorbereitungsassistent](/assets/images/Planvorb.01.png)
 
-Wählen Sie zwischen ``Neues Schuljahr`` oder ``Planwechsel innerhalb des Schuljahres`` und klicken Sie auf ``Weiter``.
+Wählen Sie zwischen `Neues Schuljahr` oder `Planwechsel innerhalb des Schuljahres` und klicken Sie auf `Weiter`.
 
 ![Planvorbereitungsassistent](/assets/images/Planvorb.02.png)
 
-Wählen Sie zwischen ``Unterrichtsverteilung und Aufsichten löschen`` oder ``Alles übernehmen`` und klicken Sie auf ``Weiter``.
+Wählen Sie zwischen `Unterrichtsverteilung und Aufsichten löschen` oder `Alles übernehmen` und klicken Sie auf `Weiter`.
 
 ![Planvorbereitungsassistent](/assets/images/Planvorb.03.png)
 
@@ -55,38 +55,45 @@ Geben Sie den Zeitraum an, für den Ihr Plan gelten soll.
 
 #### Registerkarte „Statistik“
 
-* _Zeitdauerangaben:_ Tragen Sie die zur Berechnung der Stundenangaben für die Statistik entsprechende Zeitdauer ein.
-* _Wochenbezogene Summen:_ Hier können Sie die Kalenderwochen kennzeichnen, in denen kein Unterricht stattfindet. Entfernen Sie im unteren Fenster den Haken bei den Wochen, in denen kein Unterricht stattfindet. Bitte den Haken nur vor ganzen Ferienwochen entfernen!
-Wichtig ist diese Angabe insbesondere, wenn Sie mit Perioden arbeiten oder eine wochenbezogene Berechnung der Unterrichtsstunden wünschen.
-* _Verrechnungsart:_ Wenn man im Zeitrahmen den Haken vor "Termin-Ende beim Verplanen automatisch an Zeitrahmen anpassen" gesetzt hat, kann man über die Option „Mit „Minuten pro Einheit“ laut Zeitrahmen anstatt realer Dauer laut Plan rechnen“ entscheiden, ob in der Summenbildung die Unterrichtsstunde als 45 min gewertet werden soll, oder die Dauer lt. Positionen (die ja abweichen, 40 min, 45 min) einfließen sollen.
-* Die Option ``Mit Wertfaktoren (aus Stundentafel, Fach, Klasse, Veranstaltung)`` benötigen Sie, wenn Sie mit dem Hamburger Lehrerarbeitszeitmodell rechnen wollen.
-Nachträglich gelangen Sie über ``Plan|Eigenschaften|Statistik`` in dieses Menü.
-
 ![Plan-Eigenschaften, Register "Statistik" ](/assets/images/plan_eigenschaften_statistik.png)
+
+Bereich | Bedeutung
+--|--
+Zeitdauerangaben | Tragen Sie die zur Berechnung der Stundenangaben für die Statistik entsprechende Zeitdauer ein.
+Verrechnungsart | Wenn man im Zeitrahmen den Haken vor "Termin-Ende beim Verplanen automatisch an Zeitrahmen anpassen" gesetzt hat, kann man über die Option „Mit „Minuten pro Einheit“ laut Zeitrahmen anstatt realer Dauer laut Plan rechnen“ entscheiden, ob in der Summenbildung die Unterrichtsstunde als 45 min gewertet werden soll, oder die Dauer lt. Positionen (die ja abweichen, 40 min, 45 min) einfließen sollen.
+Wochenbezogene Summen | Hier können Sie die Kalenderwochen kennzeichnen, in denen kein Unterricht stattfindet. Entfernen Sie im unteren Fenster den Haken bei den Wochen, in denen kein Unterricht stattfindet. **Bitte den Haken nur vor ganzen Ferienwochen entfernen.** Wichtig ist diese Angabe insbesondere, wenn Sie mit Perioden arbeiten oder eine wochenbezogene Berechnung der Unterrichtsstunden wünschen.
+
+Die Option `Mit Wertfaktoren (aus Stundentafel, Fach, Klasse, Veranstaltung)` benötigen Sie, wenn Sie mit dem Hamburger Lehrerarbeitszeitmodell rechnen wollen.
+
+!!! info "Hinweis"
+
+    Sie gelangen jederzeit nachträglich über den Aufruf `Plan > Eigenschaften > Statistik` in dieses Eingabefenster.
 
 ### Schritt 2 - Kalenderdaten importieren
 
-Laden Sie den Kalender für Ihr Bundesland, um die Ferien- und Feiertage einzutragen
-
-* …:\Users\Public\Documents\Stueber Systems\daVinci 6\Kalender
+Laden Sie den Kalender für Ihr Bundesland, um die Ferien- und Feiertage einzutragen: ` …:\Users\Public\Documents\Stueber Systems\daVinci 6\Kalender`
 
 ![Kalender importieren ](/assets/images/kalender.png)
+
+!!! info "Hinweis"
+
+    Sie können diesen Schritt auch überspringen. Die Kalenderdatei kann jederzeit über den Bereich `KALENDER` zu einem späteren Zeitpunkt importiert werden.
 
 ### Schritt 3 - Zeitrahmen einstellen
 
 ![Zeitrahmen ](/assets/images/zeitrahmen.png)
 
-DAVINCI bietet Ihnen standardmäßig zwei Zeitrahmen an: Standard und Aufsichten.
+DAVINCI bietet Ihnen standardmäßig zwei Zeitrahmen an: `Standard` (Hauptzeitrahmen) und `Aufsichten` (Zeitrahmen für Ihre Aufsichtspläne).
 
 #### Standard-Zeitrahmen
 
-##### **Registerkarte "Allgemein"**
+##### Registerkarte Allgemein
 
 Hier können Sie vorgeben, aus wie viel Positionen Ihr Tag besteht und welche Dauer eine Position hat.
 
 ![Zeitrahmen, Register "Allgemein" ](/assets/images/zeitrahmen_standard.png)
 
-##### **Registerkarte "Positionen"**
+##### Registerkarte Positionen
 
 Spalte | Bedeutung
 -|-
@@ -100,7 +107,7 @@ Doppelstunde | gesetzter Haken heißt für die Automatik, wann eine Doppelstunde
 
 #### Aufsichten-Zeitrahmen
 
-##### **Registerkarte"Allgemein"**
+##### Registerkarte Allgemein
 
 Spalte | Bedeutung
  -|-
@@ -109,7 +116,7 @@ Positionen | Anzahl der zu beaufsichtigenden Pausenzeiten
 ![Aufsichten-Zeitrahmen ](/assets/images/zeitrahmen_aufsichten.png)
 
 !!! info "Hinweis"
-    Das Zeitrahmen-Fenster können Sie jederzeit über den Menüpunkt ``Extras|Zeitrahmen`` öffnen. Bitte beachten Sie, den Zeitrahmen am gesetzten Plan nicht mehr zu verändern.
+    Das Zeitrahmen-Fenster können Sie jederzeit über den Menüpunkt `Extras > Zeitrahmen` öffnen. Bitte beachten Sie, den Zeitrahmen am gesetzten Plan nicht mehr zu verändern.
 
 ## STAMMDATEN
 
@@ -184,7 +191,7 @@ Wertfaktor | muss eingetragen werden, wenn Sie mit dem Hamburger Lehrerarbeitsze
 Termine | Terminfolge vorbelegen
 Doppelstunde | Automatikvorgaben, Einträge wie 1-2 möglich
 
-Die Stundentafeln können über das Symbol ``Exportieren`` in die Formate Excel, TXT, HTML und XML exportiert werden.
+Die Stundentafeln können über das Symbol `Exportieren` in die Formate Excel, TXT, HTML und XML exportiert werden.
 
 ### Lehrer
 
@@ -192,16 +199,15 @@ Erfassen Sie hier alle Lehrkräfte, die an der Schule unterrichten. Geben Sie di
 
 Spalte | Bedeutung
 -|-
-Raum | Wenn Sie dem Lehrer einen Raum zuordnen und dann einer Veranstaltung diesen Lehrer zuordnen, wird der Raum bei der Lehrerzuordnung direkt mit eingetragen, vorausgesetzt die Veranstaltung hatte noch keine Raumzuweisung
+Raum | Wenn Sie hier dem Lehrer einen Raum zuordnen und später einer Veranstaltung diesen Lehrer zuordnen, wird der Raum bei der Lehrerzuordnung direkt mit eingetragen, vorausgesetzt die Veranstaltung hatte noch keine Raumzuweisung
 
 ![Stammdaten Lehrer](/assets/images/Stammdaten_Lehrer.png)
 
 #### Zeitkonto der Lehrer
 
-``rechte Maustaste auf Lehrerkürzel|Zeitkonto bearbeiten``
+`rechte Maustaste auf Lehrerkürzel > Zeitkonto bearbeiten`
 
-Richten Sie hier die Arbeitszeitkonten der einzelnen Lehrer ein.
-Ein „Grundkonto“ mit den Soll-Stunden, den Ist-Stunden laut Unterrichtsverteilung und der Differenz ist grundsätzlich vorhanden.
+Richten Sie hier die Arbeitszeitkonten der einzelnen Lehrer ein. Ein „Grundkonto“ mit den Soll-Stunden, den Ist-Stunden laut Unterrichtsverteilung und der Differenz ist grundsätzlich vorhanden.
 
 Spalte | Bedeutung
 -|-
@@ -216,7 +222,7 @@ Bsp. Lehrer hat 10 Std. Ermäßigung aufgrund seiner Tätigkeit als Schulleiter 
 
 #### Schlüsselverzeichnis Lehrer-Soll-Schlüssel
 
-Über `Start|Schlüsselverzeichnisse` können Sie das Verzeichnis der Lehrer-Soll-Schlüssel bearbeiten. Für einige Bundesländer können Sie auch Schlüssel importieren.
+Über `Start > Schlüsselverzeichnisse` können Sie das Verzeichnis der Lehrer-Soll-Schlüssel bearbeiten. Für einige Bundesländer können Sie auch Schlüssel importieren.
 
 >Start|Schlüsselverzeichnisse
 
@@ -230,21 +236,21 @@ Erfassen Sie hier alle Klassen, die Sie an der Schule unterrichten.
 
 ### Anzeige der Stammdaten
 
-Über `Extras|Optionen` gelangen Sie zu den DAVINCI Optionen.
+Über `Extras > Optionen` gelangen Sie zu den DAVINCI Optionen.
 
->Extras|Optionen|Einstellungen
+![`DAVINCI Optionen > Einstellungen`](/assets/images/opt_einstellungen.png)
 
-![DAVINCI Optionen|Einstellungen](/assets/images/opt_einstellungen.png)
+`Extras > Optionen > Einstellungen`
 
-* _Einstellungen:_ hier können Sie für das Stammdatenfenster die Option „Im Bearbeiten-Modus“ ausschalten, dann befindet sich das Stammdatenfenster beim Öffnen nicht im Editiermodus und versehentliches Überschreiben von Einträgen wird verhindert
-
->Extras>Optionen>Ansicht
+Hier können Sie für das Stammdatenfenster die Option „Im Bearbeiten-Modus“ ausschalten, dann befindet sich das Stammdatenfenster beim Öffnen nicht im Editiermodus und versehentliches Überschreiben von Einträgen wird verhindert
 
 ![DAVINCI Optionen|Ansicht](/assets/images/opt_ansicht.png)
 
-* _Ansicht:_ hier können Sie durch Markieren auswählen, welche Stammdaten-Register im Stammdatenfenster angezeigt werden
+`Extras > Optionen > Ansicht`
 
-Im jeweiligen Stammdatenfenster können Sie über den Menüaufruf „Start|Spalten ein-/ausblenden“ oder den „*“ im Spaltenkopf einzelne Spalten ein- und ausblenden.
+Hier können Sie durch Markieren auswählen, welche Stammdaten-Register im Stammdatenfenster angezeigt werden.
+
+Im jeweiligen Stammdatenfenster können Sie über den Menüaufruf `Start > Spalten ein-/ausblenden` oder den „*“ im Spaltenkopf einzelne Spalten ein- und ausblenden.
 Dies gilt für alle Stammdatenregister.
 
 ![Spalten ein-/ausblenden](/assets/images/spalten_ein_ausblenden.png)
@@ -252,7 +258,7 @@ Dies gilt für alle Stammdatenregister.
 ## STUNDENPLAN
 
 Wählen Sie im Dialogfenster `Auswahl` welchen Plan Sie öffnen möchten. Je nachdem, welchen Reiter Sie aktivieren, erhalten Sie die zugehörige Planart.
-Mit dem Auswahlfeld „Nur Team“ können Sie die Planauswahl entsprechend der Teamzugehörigkeit filtern. Wenn Sie die Einstellung „Alle Teams“ wählen, werden immer alle Teams angezeigt.
+Mit dem Auswahlfeld `Nur Team` können Sie die Planauswahl entsprechend der Teamzugehörigkeit filtern. Wenn Sie die Einstellung `Alle Teams` wählen, werden immer alle Teams angezeigt.
 Mit dem Auswahlfeld „Unverplante Termine“ oder „N.N.-Angaben“ können Sie die Planauswahl nach dem Planungsfortschritt filtern
 
 Sie können auch Plangruppen (Sammlungen von Plänen) definieren und für die spätere Auswahl speichern
@@ -268,8 +274,8 @@ Im Dialogfenster `Aus Stundentafel erzeugen` legen Sie fest, ob Veranstaltungen 
 ![Spalten der Veranstaltungsliste](/assets/images/Veranstaltungsliste.png)
 
 Spalte | Bedeutung |
-| --------------------------------------- | ----------------------------------- |
-Unverplant | |
+--- |---
+Unverplant | noch zu verplanende Stunden|
 Block ||
 Schiene ||
 Fach ||
@@ -293,9 +299,9 @@ Nr ||
 
 ![Veranstaltung bearbeiten-Fenster - Teilnehmer Termine](/assets/images/veranstaltungsdetails_termine.png)
 
-* ``Nur Fachlehrer``
-* ``Nur ausreichende Soll-Differenz``
-* ``Nur Lehrer des Teams``
+* `Nur Fachlehrer`
+* `Nur ausreichende Soll-Differenz`
+* `Nur Lehrer des Teams`
 
 ### Sperrung eintragen
 
@@ -323,7 +329,7 @@ Setzen Sie Unterrichtstermine aus dem Zusatzfenster „Unverplant“ in das Plan
 
 ![Zusatzfenster "Unverplant" ](/assets/images/planfenster_unverplant.png)
 
-Über den Menüaufruf ``Start > Planansicht`` können Sie zwei Überschneidungsprüfungen aktivieren.
+Über den Menüaufruf `Start > Planansicht` können Sie zwei Überschneidungsprüfungen aktivieren.
 Die Option `Positionskonflikte anzeigen` hebt alle unpassenden Positionen im Planungsfenster farbig und textlich hervor.
 Die Option `Passende Termine hervorheben` hebt alle unpassenden Termine im Zusatzfenster „Unverplant“ farbig hervor.
 
@@ -341,7 +347,7 @@ In den Datei-Eigenschaften unter `Eigenschaften > Stundenplan` geben Sie an, in 
 Sie legen außerdem fest, welche Teilnehmerfarbe ggf. im Terminfeld angezeigt wird.
 Hier entscheiden Sie ebenfalls, ob Lehrersymbole, Pausenaufsichten, Uhrzeiten und die Kalenderwochen der Perioden im Planungsfenster angezeigt werden
 
->Plan>Eigenschaften>Stundenplan
+`Plan > Eigenschaften > Stundenplan`
 
 ![Plan-Eigenschaften|Stundenplan](/assets/images/plan_eigenschaften_stundenplan.png)
 
@@ -378,7 +384,7 @@ Spalte | Bedeutung
 -|-
 1 bis 9 | Fächer mit gleicher Zahl sollen am selben Tag unmittelbar hintereinander gesetzt werden.
 -1 bis -9 | Fächer mit gleicher Zahl dürfen am selben Tag nicht unmittelbar hintereinander  verplant werden
- _-10 bis -19 | Fächer mit gleicher Zahl dürfen nicht am gleichen Tag verplant werden
+ -10 bis -19 | Fächer mit gleicher Zahl dürfen nicht am gleichen Tag verplant werden
 
 ![Automatikvorgaben|Fächervorgaben](/assets/images/automatikvorgaben_faechervorgaben.png)
 
@@ -403,7 +409,7 @@ Symbol|Bedeutung
 ![geblockte Elemente](/assets/images/sshot-4.png)| geblockte Elemente, können hier aus platztechnischen Gründen nicht nebeneinander dargestellt werden, über `strg + linke Maus` können die geplockten Elemente aufgerufen werden
 ![Lehrersymbol](/assets/images/sshot-3.png)|Lehrersymbol (siehe Stammdatenfenster "Lehrer", Spalte "Symbol")
 ![Periodensymbol](/assets/images/sshot-5.png)|Periodensymbol, kenntzeichnet wochenbezogenen Unterricht, hier wurde der Veranstaltung eine Periode zugewiesen
-![Tauschelemente](/assets/images/sshot-6.png)| mögliche Tauschelemente des im Planfenster markierten Elementes, der Tausch wird mit gedrückter  ``Shift + linke Maustaste``auf den Tauschpartner ausgeführt.
+![Tauschelemente](/assets/images/sshot-6.png)| mögliche Tauschelemente des im Planfenster markierten Elementes, der Tausch wird mit gedrückter  `Shift + linke Maustaste`auf den Tauschpartner ausgeführt.
 ![Positionskonflikte](/assets/images/sshot-8.png)| "Positionskonflikte anzeigen" - GELB heißt, die markierte Veranstaltungen (im Planfenster oder Veranstaltungsliste) kann auf diese Position gesetzt werden
 ![![Positionskonflikte](/assets/sshot-8.png)](/assets/images/sshot-9.png)| "Positionskonflikte anzeigen" - BLAU heißt, die markierte Veranstaltungen (im Planfenster oder Veranstaltungsliste) führt zu einem Konflikt, wenn auf diese Position gesetzt wird
 
@@ -427,7 +433,7 @@ Im Dialogfenster `Ereignis` geben Sie die Termin- und Teilnehmerdaten eines Kale
 ![Unterrichtsmatrix](/assets/images/U-Matrix.png)
 
 In der Unterrichtsmatrix wird die Gesamt-Unterrichtsverteilung in drei unterschiedlichen Matrixansichten dargestellt.
-Hier können Sie die erstellten Veranstaltungen sowohl erzeugen, als auch bearbeiten. Entweder über die Menüleiste "Start" oder über ``rechte Maustaste``.
+Hier können Sie die erstellten Veranstaltungen sowohl erzeugen, als auch bearbeiten. Entweder über die Menüleiste "Start" oder über `rechte Maustaste`.
 
 ![Veranstaltungseinträge bearbeiten](/assets/images/U-Matrix01.png)
 
@@ -498,9 +504,9 @@ Die im Planausdruck verwendeten Schriftarten können ebenfalls individuell angep
 
 In der Druckvorschau finden Sie vielfältige Optionen, das Druckergebnis zu überprüfen und an individuelle Vorgaben anzupassen
 
-### Ansicht „Druckvorschau“|Seite einrichten
+### Ansicht „Druckvorschau“ > Seite einrichten
 
-Im Dialogfenster ``Seite einrichten`` können Sie das Format der Druckseite anpassen.
+Im Dialogfenster `Seite einrichten` können Sie das Format der Druckseite anpassen.
 
 ![Druckvorschau - Seite einrichten](/assets/images/drucken_druckvorschau_seite_einrichten.png)
 
@@ -516,48 +522,48 @@ Sie können Bezeichnungen umbenennen. Diese Umbenennung wird an verschiedenen St
 
 ### DAVINCI Optionen
 
-Über `Extras|Optionen` gelangen Sie zu den DAVINCI Optionen.
+Über `Extras > Optionen` gelangen Sie zu den DAVINCI Optionen.
 
 `Extras|Optionen|Meine Daten`
 
 ![Meine Daten](/assets/images/Opt_MeineDaten.png)
 
-`Extras|Optionen|Plandatei`
+`Extras > Optionen > Plandatei`
 
 ![Plandatei](/assets/images/Opt_Plandatei.png)
 
-`Extras|Optionen|Einstellungen`
+`Extras > Optionen > Einstellungen`
 
 ![Einstellungen](/assets/images/Opt_Einstellungen.png)
 
-`Extras|Optionen|Ansicht`
+`Extras > Optionen > Ansicht`
 
 ![Ansicht](/assets/images/Opt_Ansicht.png)
 
-`Extras|Optionen|Plananzeige`
+`Extras > Optionen > Plananzeige`
 
 ![Allgemeine Plananzeige](/assets/images/Opt_Plananzeige.png)
 
-`Extras|Optionen|Stundenplan`
+`Extras > Optionen > Stundenplan`
 
 An dieser Stelle können Sie einstellen, ob verschiedene Ereignisse, z. B. Vertretungsinfos und Zeitkonflikte im Plan angezeigt werden.
 
 ![Anzeige von Planeinträgen](/assets/images/Opt_Stundenplan.png)
 
-`Extras|Optionen|Termine`
+`Extras > Optionen > Termine`
 
 ![Einstellungen für Termine](/assets/images/Opt_Termine.png)
 
-`Extras|Optionen|Farben`
+`Extras > Optionen > Farben`
 
 Die Farbgebung verschiedener Ereignisse im Planeditor kann nahezu beliebig verändert werden.
 
 ![Farbgebung verändern](/assets/images/Opt_Farben.png)
 
-`Extras|Optionen|Bezeichnungen`
+`Extras > Optionen > Bezeichnungen`
 
 ![Bezeichnungen anpassen](/assets/images/Opt_Bezeichnungen_plus.png)
 
-`Extras|Optionen|Auto-Update`
+`Extras > Optionen > Auto-Update`
 
 ![Autoupdate aktivieren](/assets/images/Opt_AutoUpdate.png)
