@@ -8,60 +8,68 @@ Hinweis|Bemerkung
 **Themen:**|**Neuen Plan erstellen:** Planvorbereitungsmanager, Stammdaten eingeben, **Unterrichtsverteilung erstellen:** Perioden zuweisen, Blöcke erstellen, Lehrereinsatz,Raumverplanung, **Stundenplan setzen:** manuelles und automatisches Planen, Übersichten, Druckformate editieren
 **Zielgruppe:** |Stundenplaner
 
-## Das Willkommen-Fenster
+## Allgemein - Willkommen-Fenster
 
-* Zugriff auf die verschiedenen Programmbereiche: Stammdaten, Kalender, Stundenplan
-* Schnellstartfläche zum Öffnen der Beispieldatei (öffnet den Windows-Explorer …\Documents\Stueber Systems\DAVINCI 6\Beispiele)
+* Zugriff auf die verschiedenen Programmbereiche: Stammdaten, Kalender, Stundenplan (Navigationsleiste links)
+* Beispieldateien: Schnellstartfläche zum Öffnen der Beispieldateien (öffnet den Windows-Explorer …\Documents\Stueber Systems\DAVINCI 6\Beispiele)
+* Nachrichten: Neuigkeiten zu DAVINCI
 
 ![Willkommensfenster](/assets/images/willk.png)
 
-## Neuen Plan erstellen mit dem Planvorbereitungsassistenten
+## Neues Schuljahr planen
 
-Der Planvorbereitungsassistent gibt Ihnen Unterstützung bei der Neuerstellung eines Planes.
-Über den Menüpunkt  `Plan > Neu`gelangen Sie zum Planvorbereitungsassistenten.
+Um eine Stundenplandatei für das neue Schuljahr anzulegen, gehen Sie über den Menüpunkt `Plan > Neu`. Über diesen Aufruf wird der sogenannte Planvorbereitungsassistent geöffnet. Dieser führt Sie durch die wesentlichen Schritte der Planneuerstellung.
+
+Hier stehen Ihnen drei Wege zur Auswahl:
+
+![Planvorbereitungsassistent](/assets/images/Sp.002.png)
 
 ### Neuen leeren Plan erstellen (für Neueinsteiger)
 
-Markieren Sie `Neuen leeren Plan` wenn Sie auf keine Vorjahresplandatei, die Sie mit DAVINCI erstellt haben, zurückgreifen können und klicken Sie auf `Weiter`.
-Wenn Sie auf `Fertig` klicken, öffnet sich automatisch das Stammdatenfenster.
+Wenn Sie zum ersten Mal mit DAVINCI einen Plan erstellen bzw. keine Plandaten zum übernehmen haben, wählen Sie `Neuen leeren Plan erstellen` aus. Klicken Sie auf `Weiter`.
+Ein weiteres Fenster mit einer Liste öffnet sich, nach diesen Punkten bereiten Sie Ihre neue Stundenplandatei vor:
 
-![Der Planvorbereitungsassistent ](/assets/images/planvorb.png)
+![Planvorbereitungsassistent ](/assets/images/SP.001.png)
 
 ### Neuen Plan erstellen und Daten übernehmen
 
-Markieren Sie `Neuen Plan erstellen und Daten übernehmen` wenn Sie auf eine Vorjahresplandatei zurückgreifen und Daten übernehmen möchten. Geben Sie an, aus welchem Plan Sie die Daten übernehmen möchten und klicken Sie auf `Weiter`.
+Schulen, die bereits auf eine Vorjahresdatei von DAVINCI zurückgreifen können und daraus Daten übernehmen möchten, wählen `Neuen Plan erstellen und Daten übernehmen`. Geben Sie an, aus welchem Plan Sie die Daten übernehmen möchten und klicken Sie auf `Weiter`. Folgendes Fenster wird geöffnet:
 
-![Planvorbereitungsassistent](/assets/images/Planvorb.01.png)
+![Planvorbereitungsassistent](/assets/images/Sp.003.png)
 
-Wählen Sie zwischen `Neues Schuljahr` oder `Planwechsel innerhalb des Schuljahres` und klicken Sie auf `Weiter`.
+* `Neues Schuljahr`, Klassenkürzel werden von 8a auf 9a umbenannt, die Klassenstufe wird erhöht, die Klassen-IDs werden gelöscht, alle weiteren Stammdaten bleiben unverändert
+* `Planwechsel innerhalb des Schuljahres`, es werden keine Änderungen an den Stammdaten vorgenommen
+  
+Klicken Sie auf `Weiter`.
 
 ![Planvorbereitungsassistent](/assets/images/Planvorb.02.png)
 
-Wählen Sie zwischen `Unterrichtsverteilung und Aufsichten löschen` oder `Alles übernehmen` und klicken Sie auf `Weiter`.
+* `Unterrichtsverteilung und Aufsichten löschen`, der gesetzte Stunden- und Aufsichtsplan aus dem Vorjahr werden gelöscht 
+* `Alles übernehmen`, alle Pläne, Veranstaltungen und Aufsichtspläne werden aus dem Vorjahr übernommen
+* 
+Klicken Sie auf `Weiter`.
 
-![Planvorbereitungsassistent](/assets/images/Planvorb.03.png)
+Ein weiteres Fenster mit einer Liste öffnet sich, nach diesen Punkten bereiten Sie Ihre neue Stundenplandatei vor:
 
-Anschließend gelangen Sie zu den wesentlichen Schritten der Planneuerstellung.
+![Planvorbereitungsassistent ](/assets/images/SP.001.png)
 
-![Schritte der Planneuerstellung](/assets/images/planvorb1.png)
+### 1. Zeitraum eingeben...
 
-### Der erste Schritt – Der Planungszeitraum
+Wählen Sie `Zeitraum eingeben`. Sie gelangen zum `Plan-Eigenschaften`-Fenster. Geben Sie an, für welchen Zeitraum Sie planen möchten.
 
-#### Schritt 1 - Zeitraum eingeben
+![Zeitraum ](/assets/images/SP.005.png)
 
-Geben Sie den Zeitraum an, für den Ihr Plan gelten soll.
+Planungszeitraum und Hauptzeitraum werden i.d.R. mit dem selben Start- und Enddatum vorbegelt.
 
-![Zeitraum ](/assets/images/planvorb2.png)
+Innerhalb des `Plan-Eigenschaften`-Fensters wechseln Sie bitte auf die Registerkarte "Statistik".
 
-#### Registerkarte „Statistik“
-
-![Plan-Eigenschaften, Register "Statistik" ](/assets/images/plan_eigenschaften_statistik.png)
+![Plan-Eigenschaften, Register "Statistik" ](/assets/images/SP.006.png)
 
 Bereich | Bedeutung
 --|--
 Zeitdauerangaben | Tragen Sie die zur Berechnung der Stundenangaben für die Statistik entsprechende Zeitdauer ein.
 Verrechnungsart | Wenn man im Zeitrahmen den Haken vor "Termin-Ende beim Verplanen automatisch an Zeitrahmen anpassen" gesetzt hat, kann man über die Option „Mit „Minuten pro Einheit“ laut Zeitrahmen anstatt realer Dauer laut Plan rechnen“ entscheiden, ob in der Summenbildung die Unterrichtsstunde als 45 min gewertet werden soll, oder die Dauer lt. Positionen (die ja abweichen, 40 min, 45 min) einfließen sollen.
-Wochenbezogene Summen | Hier können Sie die Kalenderwochen kennzeichnen, in denen kein Unterricht stattfindet. Entfernen Sie im unteren Fenster den Haken bei den Wochen, in denen kein Unterricht stattfindet. **Bitte den Haken nur vor ganzen Ferienwochen entfernen.** Wichtig ist diese Angabe insbesondere, wenn Sie mit Perioden arbeiten oder eine wochenbezogene Berechnung der Unterrichtsstunden wünschen.
+Wochen | Hier können Sie die Kalenderwochen kennzeichnen, in denen kein Unterricht stattfindet. Entfernen Sie im unteren Fenster den Haken bei den Wochen, in denen kein Unterricht stattfindet. **Bitte den Haken nur vor ganzen Ferienwochen entfernen.** Wichtig ist diese Angabe insbesondere, wenn Sie mit Perioden arbeiten oder eine wochenbezogene Berechnung der Unterrichtsstunden wünschen.
 
 Die Option `Mit Wertfaktoren (aus Stundentafel, Fach, Klasse, Veranstaltung)` benötigen Sie, wenn Sie mit dem Hamburger Lehrerarbeitszeitmodell rechnen wollen.
 
@@ -69,41 +77,52 @@ Die Option `Mit Wertfaktoren (aus Stundentafel, Fach, Klasse, Veranstaltung)` be
 
     Sie gelangen jederzeit nachträglich über den Aufruf `Plan > Eigenschaften > Statistik` in dieses Eingabefenster.
 
-### Schritt 2 - Kalenderdaten importieren
+### 2. Kalenderdaten importieren...
 
-Laden Sie den Kalender für Ihr Bundesland, um die Ferien- und Feiertage einzutragen: ` …:\Users\Public\Documents\Stueber Systems\daVinci 6\Kalender`
+Importieren Sie Ferien- und Feiertage in Ihre DAVINCI Datei. Laden Sie dazu den mit der Installation mitgelieferten Kalender für Ihr Bundesland:
+`…:\Users\Public\Documents\Stueber Systems\daVinci 6\Kalender`
 
-![Kalender importieren ](/assets/images/kalender.png)
+![Kalender importieren ](/assets/images/SP.007.png)
 
 !!! info "Hinweis"
 
     Sie können diesen Schritt auch überspringen. Die Kalenderdatei kann jederzeit über den Bereich `KALENDER` zu einem späteren Zeitpunkt importiert werden.
 
-### Schritt 3 - Zeitrahmen einstellen
+### 3. Zeitrahmen einstellen...
 
-![Zeitrahmen ](/assets/images/zeitrahmen.png)
+Sie gelangen in das `Zeitrahmen`-Fenster. DAVINCI bietet Ihnen standardmäßig zwei Zeitrahmen an: `Standard` (Hauptzeitrahmen) und `Aufsichten` (Zeitrahmen für Ihre Aufsichtspläne).
 
-DAVINCI bietet Ihnen standardmäßig zwei Zeitrahmen an: `Standard` (Hauptzeitrahmen) und `Aufsichten` (Zeitrahmen für Ihre Aufsichtspläne).
+![Zeitrahmen ](/assets/images/SP.008.png)
 
 #### Standard-Zeitrahmen
 
+![Standard-Zeitrahmen ](/assets/images/SP.009.png)
+
 ##### Registerkarte Allgemein
 
-Hier können Sie vorgeben, aus wie viel Positionen Ihr Tag besteht und welche Dauer eine Position hat.
-
-![Zeitrahmen, Register "Allgemein" ](/assets/images/zeitrahmen_standard.png)
+Eingaben | erforderlich für:
+--|--
+Tag besteht aus X Positionen | aus wie vielen Positionen maximal besteht Ihr Tag besteht
+Dauer einer Position X Minuten | welche Dauer hat eine Position
+Einheiten je Position X Einheiten | eine Unterrichtseinheit kann in mehrere Einheiten unterteilt werden, Trennlinien werden pro Einheit eingefügt
+Vormittag bis X Position | bis zu welcher Einheit geht der Vormittag, Einstellung für die Vorschlagsautomatik, diese kann zunächst die Vormittagsstunden verplanen
+Standardmäßig sichtbare Positionen X |  bis zu welcher Position sollen Stunden später fest im Planfenster gezeigt werden, alles was höher ist, ist nur durch einen Scrollbutton in der Oberfläche zu sehen
 
 ##### Registerkarte Positionen
 
 Spalte | Bedeutung
 -|-
-Bezeichnung | Standardmäßig so voreingestellt, können auch gerändert werden
+Bezeichnung | Standardmäßig so voreingestellt, kann auch geändert werden (1.Std, 2. Std.)
 Beginn/Ende |geben Sie hier Beginn und Ende der einzelnen Stunden an
 Differenz | Wert errechnet sich automatisch aufgrund der eingetragenen Uhrzeiten bei „Beginn“ und „Ende“
-Trennlinie |zwischen den einzelnen Positionen können Sie Trennlinien einfügen, diese können auch im Ausdruck verwendet werden
+Trennlinie | zwischen den einzelnen Positionen können Sie Trennlinien einfügen, diese können auch im Ausdruck verwendet werden, Trennlinien wird nach der Position farblich im Plan gezeigt
 Doppelstunde | gesetzter Haken heißt für die Automatik, wann eine Doppelstunde beginnen darf, also von der Automatik verplant werden soll
 
-![Zeitrahmen, Register "Positionen" ](/assets/images/zeitrahmen_standard_pos.png)
+!!! info "Hinweis"
+
+    Haben Sie Doppelstunden, die später von der Automatik verplant werden sollen, ist es zwingend notwendig hier Haken zu setzen. Nur so erlauben Sie der Automatik Stunden beginnen, also auch verplanen zu lassen!
+
+![Zeitrahmen, Register "Positionen" ](/assets/images/SP.010.png)
 
 #### Aufsichten-Zeitrahmen
 
