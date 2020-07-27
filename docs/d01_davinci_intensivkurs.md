@@ -130,14 +130,45 @@ Doppelstunde | gesetzter Haken heißt für die Automatik, wann eine Doppelstunde
 
 Spalte | Bedeutung
  -|-
-Positionen | Anzahl der zu beaufsichtigenden Pausenzeiten
+Tag besteht aus X Positionen | Anzahl der zu beaufsichtigenden Pausenzeiten, hier zählt auch die Frühaufsicht vor Unterrichtsbeginn mit
+Standardmäßig sichtbare Positionen | Wir empfehlen die selbe Zahl einzutragen, die Sie unter Tag besteht aus X Positionen eingetragen haben
+
+Die restlichen Eingabefelder brauchen Sie nicht zu befüllen.
+
+Entscheidend sind die Eingaben, die Sie unter der Registerkarte "Positionen" einplegen.
+
+##### Registerkarte Positionen
+
+Spalte | Bedeutung
+-|-
+Bezeichnung | Standardmäßig so voreingestellt, kann auch geändert werden (1.Pause, 2. Pause, Frühaufsicht etc.)
+Beginn/Ende |geben Sie hier Beginn und Ende der zu beaufsichtigenden Pausenzeiten ein
+Differenz | Wert errechnet sich automatisch aufgrund der eingetragenen Uhrzeiten bei „Beginn“ und „Ende“
+Trennlinie | zwischen den einzelnen Positionen können Sie Trennlinien einfügen, diese können auch im Ausdruck verwendet werden, Trennlinien wird nach der Position farblich im Plan gezeigt
+Doppelstunde | spielt bei den Aufsichten keine Rolle
 
 ![Aufsichten-Zeitrahmen ](/assets/images/zeitrahmen_aufsichten.png)
 
 !!! info "Hinweis"
     Das Zeitrahmen-Fenster können Sie jederzeit über den Menüpunkt `Extras > Zeitrahmen` öffnen. Bitte beachten Sie, den Zeitrahmen am gesetzten Plan nicht mehr zu verändern.
 
-## STAMMDATEN
+#### Neue Zeitrahmen hinzufügen
+
+Neben dem Standard- und Aufsichtenzeitrahmen können Sie weitere Zeitrahmen anlegen. In der Regel dann, wenn Sie zwei Schulteile haben, an denen die Unterrichtszeiten voneinander abweichen. (Schulteil 1 - Unterrichtsbeginn 7.55 Uhr, Schulteil 2 - Unterrichtsbeging 8.00 Uhr)
+
+![Zeitrahmen,`Neu`](/assets/images/SP.011.png)
+
+## 4. STAMMDATEN
+
+![Planvorbereitungsassistent,`Neu`](/assets/images/SP.012.png)
+
+Haben Sie Schritt 1-3 umgesetzt, klicken Sie auf `Fertig`, um das Stammdatenfenster aufzurufen.
+
+DAVINCI schließt den Planvorbereitungsassistent und öffnet automatisch den Bereich "Stammdaten".
+
+Im Stammdatenfenster geben Sie Ihre Stammdaten wie Räume, Lehrer, Klassen, Stundentafeln usw. ein. 
+
+![Stammdaten Fenster](/assets/images/SP.013.png)
 
 ### Ressourcen
 
@@ -173,7 +204,7 @@ Erfassen Sie hier alle Räume, die für die Unterrichtsplanung zur Verfügung st
 Spalte | Bedeutung
 -|-
 Lehrer | Eingabe des Raumbetreuers, kann in den Ausdruck übergeben werden und wird in DAVINCI LOOK angezeigt
-Kapazität | diese kann bei der Raumzuweisung als Filterkriterium genutzt werden
+Kapazität | kann bei der Raumzuweisung als Filterkriterium genutzt werden
 
 ![Stammdaten Räume](/assets/images/Stammdaten_Räume.png)
 
@@ -204,7 +235,7 @@ Stundentafeln bilden die Grundlage für die spätere Unterrichtsverteilung. Gebe
 
 Spalte | Bedeutung
 -|-
-Soll | dieser Wert wird in Spalte „Dauer“ der Unterrichtsverteilung übernommen.
+Soll | Wert wird in Spalte „Dauer“ der Unterrichtsverteilung übernommen
 Angleichung | Feld wird derzeit nur für Berufsbildende Schulen in Rheinland-Pfalz benötigt.
 Wertfaktor | muss eingetragen werden, wenn Sie mit dem Hamburger Lehrerarbeitszeitmodell oder mit einer anderen Verrechnung arbeiten möchten
 Termine | Terminfolge vorbelegen
@@ -219,8 +250,6 @@ Erfassen Sie hier alle Lehrkräfte, die an der Schule unterrichten. Geben Sie di
 Spalte | Bedeutung
 -|-
 Raum | Wenn Sie hier dem Lehrer einen Raum zuordnen und später einer Veranstaltung diesen Lehrer zuordnen, wird der Raum bei der Lehrerzuordnung direkt mit eingetragen, vorausgesetzt die Veranstaltung hatte noch keine Raumzuweisung
-
-![Stammdaten Lehrer](/assets/images/Stammdaten_Lehrer.png)
 
 #### Zeitkonto der Lehrer
 
@@ -253,7 +282,7 @@ Erfassen Sie hier alle Klassen, die Sie an der Schule unterrichten.
 
 ![Stammdaten Klassen](/assets/images/Stammdaten_Klassen.png)
 
-### Anzeige der Stammdaten
+#### Einstellungsmöglichkeiten für die Anzeige der Stammdaten
 
 Über `Extras > Optionen` gelangen Sie zu den DAVINCI Optionen.
 
@@ -272,43 +301,72 @@ Hier können Sie durch Markieren auswählen, welche Stammdaten-Register im Stamm
 Im jeweiligen Stammdatenfenster können Sie über den Menüaufruf `Start > Spalten ein-/ausblenden` oder den „*“ im Spaltenkopf einzelne Spalten ein- und ausblenden.
 Dies gilt für alle Stammdatenregister.
 
-![Spalten ein-/ausblenden](/assets/images/spalten_ein_ausblenden.png)
+![Spalten ein-/ausblenden](/assets/images/SP.015.png)
 
 ## STUNDENPLAN
 
-Wählen Sie im Dialogfenster `Auswahl` welchen Plan Sie öffnen möchten. Je nachdem, welchen Reiter Sie aktivieren, erhalten Sie die zugehörige Planart.
-Mit dem Auswahlfeld `Nur Team` können Sie die Planauswahl entsprechend der Teamzugehörigkeit filtern. Wenn Sie die Einstellung `Alle Teams` wählen, werden immer alle Teams angezeigt.
-Mit dem Auswahlfeld „Unverplante Termine“ oder „N.N.-Angaben“ können Sie die Planauswahl nach dem Planungsfortschritt filtern
+Nachdem alle Stammdaten erfasst sind, wechseln Sie links in der Navigation in den Bereich "Stundenplan".
 
-Sie können auch Plangruppen (Sammlungen von Plänen) definieren und für die spätere Auswahl speichern
+![Aufruf "Stundenplan"](/assets/images/SP.016.png)
+
+### Stundenplan öffnen
+
+In der Registerkarte "Start" wählen Sie über das Dialogfenster `Auswahl` welchen Plan Sie öffnen möchten. Je nachdem, welchen Reiter Sie aktivieren, erhalten Sie die zugehörige Planart.
+
+![Auswahl](/assets/images/SP.017.png)
+
+Es öffnet sich das gewählte Auswahlfenster für Klassen, Lehrer, Raum oder Fach.
+
+![Auswahl](/assets/images/SP.018.png)
+
+Mit dem Auswahlfeld `Nur Team` können Sie die Planauswahl entsprechend der Teamzugehörigkeit filtern. Wenn Sie die Einstellung `Alle Teams` wählen, werden immer alle Teams angezeigt.
+
+Mit dem Auswahlfeld `Unverplante Termine` oder `N.N.-Angaben` können Sie die Planauswahl nach dem Planungsfortschritt filtern
+
+Sie können auch Plangruppen (Sammlungen von Plänen) definieren und für die spätere Auswahl speichern.
+
+### Stundenplanansicht wählen
+
+In der Registerkarte "Ansicht" wählen Sie, wie der Plan angezeigt werden soll. Soll "Plan und Liste", nur der "Plan", nur die "Liste" usw. geöffnet werden.
+
+![Ansicht](/assets/images/SP.019.png)
 
 Führen Sie den Befehl `Aus Stundentafel erzeugen` durch, um die Fachinformationen aus den in den Stammdaten angelegten Stundentafeln in die Veranstaltungslisten der zugehörigen Klassen zu übertragen – diese bilden die Grundlage für die spätere Unterrichtsverteilung.
 
+### Veranstaltungsliste gemäß der Stundentafel im Stammdatenfenster befüllen
+
+Standardmäßig finden Sie in der Veranstaltungsliste keine Einträge. Stellen Sie sicher, dass Ihre Planansicht mindestens die "Liste" (Veranstaltungsliste) zeigt. 
+
+Klicken Sie in den Bereich "Liste" `rechte Maustaste > Aus Stundentafel erzeugen`.
+
+![Ansicht](/assets/images/SP.020.png)
+
 Im Dialogfenster `Aus Stundentafel erzeugen` legen Sie fest, ob Veranstaltungen für alle Klassen gemäß der in den Stammdaten zugewiesenen Stundentafeln oder nur für eine bestimmte Klasse entsprechend einer frei wählbaren Stundentafel erzeugt werden sollen.
 
-![Aus Stundentafel erzeugen](/assets/images/aus_stundentafel_erzeugen.png)
+![Aus Stundentafel erzeugen](/assets/images/SP.021.png)
 
 ### Die Veranstaltungsliste
 
-![Spalten der Veranstaltungsliste](/assets/images/Veranstaltungsliste.png)
+![Spalten der Veranstaltungsliste](/assets/images/SP.022.png)
 
-Spalte | Bedeutung |
---- |---
-Unverplant | noch zu verplanende Stunden|
-Block ||
-Schiene ||
-Fach ||
-Dauer ||
-Periode ||
-Soll (W) ||
-Ist (W) ||
-Lehrer ||
-Klassen ||
-Räume ||
-Schüler ||
-Wochen ||
-Bemerkung ||
-Nr ||
+Die Veranstaltungsliste führt eine Vielzahl von Spalten auf:
+
+* Unverplant:
+* Fach
+* Block:
+* Dauer:
+* Periode:
+* Soll (W):
+* Ist (W):
+* Lehrer:
+* Klassen:
+* Räume:
+* Schüler:
+* Wochen:
+* Bemerkung:
+* Nr:
+* Schiene:
+* usw.
 
 ### Veranstaltung bearbeiten > Veranstaltung
 
@@ -322,25 +380,41 @@ Nr ||
 * `Nur ausreichende Soll-Differenz`
 * `Nur Lehrer des Teams`
 
-### Sperrung eintragen
+### Sperrung > wann soll kein Unterricht stattfinden
+
+Gewünschten Plan öffnen:
+
+![Planansicht](/assets/images/SP.023.png)
+
+Klicken Sie in den Bereich "Plan" `rechte Maustaste > Neue Sperrung`.
+
+![Neue Sperrung](/assets/images/SP.024.png)
 
 Tragen Sie im Planungsfenster `Sperrungen` in vier unterschiedlichen Gewichtungstufen ein. Diese Entragungen werden von der Setzautomatik entsprechend der vorgegeben Abstufung berücksichtigt.
-Dabei gilt 1 gilt als am stärksten und 4 als am schwächsten gewichtete Sperrung.
+Dabei gilt "1" als am stärksten und "4" als am schwächsten gewichtete Sperrung.
 
-![Zeitpräferenz - Klasse](/assets/images/zeitpraeferenz_klasse.png)
+![Zeitpräferenz - Klasse](/assets/images/SP.025.png)
 
-Anzeige im Plan:
+Anzeige einer Sperrung im Plan:
 
-### Kernzeit eintragen
+![Sperrzeit im Plan](/assets/images/SP.026.png)
+
+### Kernzeit > wann soll Unterricht stattfinden
+
+Gewünschten Plan öffnen:
+
+![Planansicht](/assets/images/SP.023.png)
+
+Klicken Sie in den Bereich "Plan" `rechte Maustaste > Neue Kernzeit`.
+
+![Neue Sperrung](/assets/images/SP.027.png)
 
 Tragen Sie im Planungsfenster `Kernzeiten` in vier unterschiedlichen Gewichtungstufen ein. Diese Entragungen werden von der Setzautomatik entsprechend der vorgegeben Abstufung berücksichtigt.
-Dabei gilt 1 gilt als am stärksten und 4 als am schwächsten gewichtete Kernzeit.
-
-![Zeitpräferenz - Lehrer](/assets/images/zeitpraeferenz_lehrer.png)
+Dabei gilt "1" als am stärksten und "4" als am schwächsten gewichtete Kernzeit.
 
 Anzeige im Plan:
 
-![Anzeige Kernzeit im Plan ](/assets/images/kernzeit.png)
+![Anzeige Kernzeit im Plan ](/assets/images/SP.028.png)
 
 ### Unverplante Termine setzen
 
@@ -405,7 +479,7 @@ Spalte | Bedeutung
 -1 bis -9 | Fächer mit gleicher Zahl dürfen am selben Tag nicht unmittelbar hintereinander  verplant werden
  -10 bis -19 | Fächer mit gleicher Zahl dürfen nicht am gleichen Tag verplant werden
 
-![Automatikvorgaben|Fächervorgaben](/assets/images/automatikvorgaben_faechervorgaben.png)
+![Automatikvorgaben > Fächervorgaben](/assets/images/automatikvorgaben_faechervorgaben.png)
 
 ![Automatik starten](/assets/images/automatik_starten.png)
 
@@ -482,23 +556,27 @@ Die Übersicht „Veranstaltungen“ zeigt eine Liste aller Veranstaltungen und 
 
 Im Dialogfenster „Drucken“ wählen Sie die Planart, die Einzelpläne, den Zeitraum und das Druckformat fest, für die der Ausdruck erfolgen soll.
 
-![Drucken-Fenster](/assets/images/drucken_fenster.png)
+![Drucken-Fenster](/assets/images/sp.029.png)
 
-Für den Ausdruck in DAVINCI-Stundenplan stehen folgende Planarten zur Verfügung:
+Für den Ausdruck in DAVINCI stehen folgende Planarten zur Verfügung:
 
 * Klassenpläne
 * Lehrerpläne
 * Raumpläne
 * Fachpläne
-* Aufsichtspläne etc
+* Aufsichtspläne usw.
 
-![Drucken-Fenster](/assets/images/drucken_auswahl_druckformat.png)
+![Drucken-Fenster](/assets/images/sp.030.png)
 
-Für jede Planart stehen jeweils zwei Standard-Druckformate zur Auswahl:
+Für jede Planart stehen jeweils Standard-Druckformate zur Auswahl:
 
-* *Einzelplan* – hier wird das Stundenraster eines einzelnen Vertreters der Planart dargestellt.
+Plan | Anzeige
+--|--
+Einzelplan | hier wird das Stundenraster eines einzelnen Vertreters der Planart dargestellt
+Gesamtplan | hier werden die Termine mehrerer Vertreter einer Planart in einem gemeinsamen Stundenraster dargestellt
 
-* *Gesamtplan* – hier werden die Termine mehrerer Vertreter einer Planart in einem gemeinsamen Stundenraster dargestellt.
+![Drucken-Fenster](/assets/images/sp.031.png)
+
 Aus den Standard-Druckformaten können Sie Ihre eigenen individuellen Druckformate generieren.
 
 ### Register „Stundenplan“
@@ -535,15 +613,15 @@ Im Dialogfenster `Seite einrichten` können Sie das Format der Druckseite anpass
 
 Sie können Bezeichnungen umbenennen. Diese Umbenennung wird an verschiedenen Stellen in den Stammdaten, der Veranstaltungsliste dem Planungsfenster und im Ausdruck sichtbar.
 
->Plan|Eigenschaften|Bezeichnungen
+`Plan > Eigenschaften > Bezeichnungen`
 
-![Plan-Eigenschaften|Bezeichnungen](/assets/images/plan_eigenschaften_bezeichnungen.png)
+![Plan-Eigenschaften|Bezeichnungen](/assets/images/sp.032.png)
 
 ### DAVINCI Optionen
 
 Über `Extras > Optionen` gelangen Sie zu den DAVINCI Optionen.
 
-`Extras|Optionen|Meine Daten`
+`Extras > Optionen > Meine Daten`
 
 ![Meine Daten](/assets/images/Opt_MeineDaten.png)
 
