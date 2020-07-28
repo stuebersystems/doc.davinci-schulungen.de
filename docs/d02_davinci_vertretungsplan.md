@@ -4,9 +4,11 @@ Dieses Handout gibt Ihnen einen Kurzüberblick über die Schulungsinhalte der DA
 
 Hinweis|Bemerkung
 --|--
-**Dauer: **|5 x 45 min
-**Themen: **|Änderungszeiten, Vertretungen erstellen, Vorziehen/Verschieben/Vertauschen, Statistiken, Vertretungspläne drucken
+**Dauer:**|5 x 45 min
+**Themen:**|Änderungszeiten, Vertretungen erstellen, Vorziehen/Verschieben/Vertauschen, Statistiken, Vertretungspläne drucken
 **Zielgruppe:** |Vertretungsplaner/innen
+
+## Allgemein
 
 ### Das Willkommen-Fenster
 
@@ -15,23 +17,21 @@ Allgemein gilt: Die Voraussetzung, um mit DAVINCI VERTRETUNGSPLAN arbeiten zu k�
 
 ![Willkommensfenster ](/assets/images/images VP/vp_willk.png)
 
-
 ### Die DAVINCI Optionen
 
 Über den Menüpunkt `Extras|Verwalten|Optionen` gelangen Sie zu den Optionen für die Plandateien.
 
->Extras>Optionen>Plandatei
-
 ![DAVINCI-Optionen](/assets/images/images VP/vp_opt_plandatei.png)
 
-* <b>Startdatei</b>: Wenn Sie eine Startdatei eintragen, wird diese bei einem erneuten Programmaufruf geladen.
-* <b>Einstellung für lokalen Betrieb</b>:  
- * Die Option <b>Sicherungskopie der Datei anlegen</b> ist standardmäßig markiert. Es wird von der aktuell geladenen Datei eine Kopie angelegt.
- * Wenn Sie eine automatische Sicherung nach einem bestimmten Zeitintervall wählen, müssen Sie nicht manuell speichern, sondern DAVINCI führt jeweils nach Ablauf des Zeitintervalls eine Speicherung durch.
+1. **Startdatei:** Wenn Sie eine Startdatei eintragen, wird diese bei einem erneuten Programmaufruf geladen.
+2. **Einstellung für lokalen Betrieb**
+   1. Die Option Sicherungskopie der Datei anlegen ist standardmäßig markiert. Es wird von der aktuell geladenen Datei eine Kopie angelegt.
+   2. Wenn Sie eine automatische Sicherung nach einem bestimmten Zeitintervall wählen, müssen Sie nicht manuell speichern, sondern DAVINCI führt jeweils nach Ablauf des Zeitintervalls eine Speicherung durch.
 
 ## Bereich „Fehlzeiten“
 
 ### Fehlzeiten Ansicht
+
 Im Bereich „Fehlzeiten“, Register „Start“ können Sie über die Menügruppe „Fehlzeiten Ansicht“ weitere Ansichten für das Erfassen der Fehlzeiten aufrufen.
 
 ![Bereich "Fehlzeiten", Register "Start"](/assets/images/images VP/vp_fehlzeitenansicht.png)
@@ -46,50 +46,61 @@ Im Bereich „Fehlzeiten“, Register „Start“ können Sie über die Menügru
 
 ### Lehrerfehlgründe definieren
 
->Extras>Schlüsselverzeichnisse>Lehrerfehlgründe
+`Extras|Schlüsselverzeichnisse|Lehrerfehlgründe`
 
-Vor dem Erfassen fehlender Lehrern müssen unter `Extras|Schlüsselverzeichnisse|Lehrerfehlgründe` die entsprechenden Fehlgründe definiert werden. Diese stehen beim Erfassen einer Fehlzeit zur Auswahl und werden statistisch im Programm gezählt. 
-* <b>Farbe</b>: Farben für Fehlgründe, werden im Plan farblich ausgegeben
+Vor dem Erfassen fehlender Lehrern müssen unter `Extras|Schlüsselverzeichnisse|Lehrerfehlgründe` die entsprechenden Fehlgründe definiert werden. Diese stehen beim Erfassen einer Fehlzeit zur Auswahl und werden statistisch im Programm gezählt.
+
+!!! info "Hinweis"
+
+    Farben für Fehlgründe, werden im Plan farblich ausgegeben
 
 ![Schlüsselverzeichnis "Lehrerfehlgründe" ](/assets/images/images VP/vp_lehrerfehlgründe.png)
 
 ### Klassenfehlgründe definieren
 
->Extras>Schlüsselverzeichnisse>Klassenfehlgründe
+`Extras|Schlüsselverzeichnisse|Klassenfehlgründe`
 
-Definieren Sie vor dem Erfassen fehlender Klassen unter `Extras|Schlüsselverzeichnisse|Klassenfehlgründe` die entsprechenden Fehlgründe, die beim Eintragen der Fehlzeiträume erfasst und statistisch im Programm gezählt werden. 
-* <b>Farbe</b>: Farben für Fehlgründe, werden im Plan farblich ausgegeben
+Definieren Sie vor dem Erfassen fehlender Klassen unter `Extras|Schlüsselverzeichnisse|Klassenfehlgründe` die entsprechenden Fehlgründe, die beim Eintragen der Fehlzeiträume erfasst und statistisch im Programm gezählt werden.
+
+!!! info "Hinweis"
+
+    Farben für Fehlgründe, werden im Plan farblich ausgegeben
 
 ![Schlüsselverzeichnis "Klassenfehlgründe" ](/assets/images/images VP/vp_klassenfehlgründe.png)
 
 ### Raumfehlgründe definieren
 
->Extras>Schlüsselverzeichnisse>Raumfehlgründe
+`Extras|Schlüsselverzeichnisse|Raumfehlgründe`
 
-Definieren Sie vor dem Erfassen fehlender Räume unter `Extras|Schlüsselverzeichnisse|Raumfehlgründe` die entsprechenden Fehlgründe, die beim Eintragen der Fehlzeiträume erfasst und statistisch im Programm gezählt werden. 
-* <b>Farbe</b>: Farben für Fehlgründe, werden im Plan farblich ausgegeben
+Definieren Sie vor dem Erfassen fehlender Räume unter `Extras|Schlüsselverzeichnisse|Raumfehlgründe` die entsprechenden Fehlgründe, die beim Eintragen der Fehlzeiträume erfasst und statistisch im Programm gezählt werden.
+
+!!! info "Hinweis"
+
+    Farben für Fehlgründe, werden im Plan farblich ausgegeben
 
 ![Schlüsselverzeichnis "Raumfehlgründe" ](/assets/images/images VP/vp_raumfehlgründe.png)
 
 ### Klassenfehlzeiten erfassen
 
 Beginnen Sie mit dem Eintragen der fehlenden Klassen, da dadurch Lehrer frei werden, die als Vertretung eingesetzt werden können
+
 * Markieren Sie im Vertretungsstundenplan die entsprechenden Fehlzeiträume und klicken Sie anschließend auf `Fehlzeiten|Neue Fehlzeit` oder wählen Sie die `F2-Taste`
-* <b>Fehlgrund</b>: hier können Sie aus den zuvor eingegebenen „Klassenfehlgründen“ auswählen
+* **Fehlgrund:** hier können Sie aus den zuvor eingegebenen „Klassenfehlgründen“ auswählen
 * Option "Nicht öffentlich“ kann erfasst werden, um diesen ggf. nicht zu veröffentlichen (im Ausdruck und in LOOK)
-* <b>Bemerkung</b>: hier kann ein Kommentar zu der Fehlzeit hinterlegt werden – diese erscheint später auch im Bereich „Anrechnungen“ in der Spalte „Bemerkungen“
+* **Bemerkung:** hier kann ein Kommentar zu der Fehlzeit hinterlegt werden – diese erscheint später auch im Bereich „Anrechnungen“ in der Spalte „Bemerkungen“
 
 ![Fehlzeiten-Erfassen-Fenster](/assets/images/images VP/vp_klassenfehlzeit.png)
 
 #### Ausfallstunden verrechnen
 
-Nach Erfassung der Klassenfehlzeit öffnet sich automatisch das Fenster „Klasse … fehlt“. 
+  Nach Erfassung der Klassenfehlzeit öffnet sich automatisch das Fenster `Klasse … fehlt`.
 
 ![Klasse ... fehlt-Fenster](/assets/images/images VP/vp_klasse_fehlt_lehrer.png)
 
 Dort erscheinen negativen Anrechenstunden, die ein Lehrer erhält, da seine planmäßige Klasse fehlt. Diese Stunden müssen für gewöhnlich vom Lehrer nachgeholt werden. Die vorbelegten Werte in der Spalte „Anrechnen“ können individuell angepasst werden.
-* Mit dem Haken bei „Fährt mit“ veranlassen Sie, dass bei diesem Lehrer eine Fehlzeit eingetragen wird. 
-* Über <b>Hinzufügen</b> können Sie Lehrer auswählen, welche die fehlende Klasse zur erfassten Klassenfehltzeit nicht unterrichten, dennoch Anrechenstunden verbucht bekommen sollen.
+
+* Mit dem Haken bei **Fährt mit** veranlassen Sie, dass bei diesem Lehrer eine Fehlzeit eingetragen wird.
+* Über `Hinzufügen` können Sie Lehrer auswählen, welche die fehlende Klasse zur erfassten Klassenfehltzeit nicht unterrichten, dennoch Anrechenstunden verbucht bekommen sollen.
 
 ### Lehrerfehlzeiten erfassen
 
@@ -97,15 +108,15 @@ Dort erscheinen negativen Anrechenstunden, die ein Lehrer erhält, da seine plan
 
 ![Fehlzeiten-Erfassen-Fenster](/assets/images/images VP/vp_lehrerfehlzeit.png)
 
-* <b>Fehlgrund</b>: hier können Sie aus den zuvor eingegebenen „Klassenfehlgründen“ auswählen
-* Im Feld „Bemerkung“ kann ein Kommentar zu der Fehlzeit hinterlegt werden
-* Setzt man ein Häkchen bei „Anrechnen“, so werden die ausfallenden Unterrichtsstunden als negative Anrechenstunden erfasst
-* Option „Nicht öffentlich“ kann erfasst werden, um diesen ggf. nicht zu veröffentlichen (im Ausdruck und in LOOK)
-* Der Wert der anfallenden Anrechenstunden kann im Feld „Anrechenstd.“ individuell angepasst werden 
+* **Fehlgrund:** hier können Sie aus den zuvor eingegebenen „Klassenfehlgründen“ auswählen
+* Im Feld **Bemerkung** kann ein Kommentar zu der Fehlzeit hinterlegt werden
+* Setzt man ein Häkchen bei **Anrechnen,** so werden die ausfallenden Unterrichtsstunden als negative Anrechenstunden erfasst
+* Option **Nicht öffentlich** kann erfasst werden, um diesen ggf. nicht zu veröffentlichen (im Ausdruck und in LOOK)
+* Der Wert der anfallenden Anrechenstunden kann im Feld **Anrechenstd.** individuell angepasst werden
 
 Die eingetragene Fehlzeit erscheint im Teilfenster „Zeitplan“ als farbiger Balken
 
-Die eingetragene Fehlzeit wird im Teilfenster „Stundenplan“ bei den entsprechenden Terminfeldern durch einen farbigen Querbalken markiert. 
+Die eingetragene Fehlzeit wird im Teilfenster „Stundenplan“ bei den entsprechenden Terminfeldern durch einen farbigen Querbalken markiert.
 
 ![Anzeige Lehrerfehlzeit in Planfester und Zeitplan](/assets/images/images VP/vp_anzeige_lehrerfehlzeit_planfenster.png)
 
@@ -115,13 +126,14 @@ Die eingetragene Fehlzeit wird im Teilfenster „Stundenplan“ bei den entsprec
 
 ![Fehlzeiten-Erfassen-Fenster](/assets/images/images VP/vp_raumfehlzeit.png)
 
-* <b>Fehlgrund</b>: hier können Sie aus den zuvor eingegebenen „Raumfehlgründen“ auswählen
-* Im Feld „Bemerkung“ kann ein Kommentar zu der Fehlzeit hinterlegt werden
-* Unter „Ersatzraum“ können Sie direkt einen Raum als Vertretungsraum auswählen, Hinweis: hier wird nicht geprüft, ob der Raum zu diesem Zeitpunkt verfügbar ist oder nicht, Sie erhalten im Aufklappbereich eine Liste aller Räume
-* Option `Nicht öffentlich` kann erfasst werden, um diesen ggf. nicht zu veröffentlichen (im Ausdruck und in LOOK)
-* Option `gesperrt`: Gesperrte Räume werden nicht mehr zur Vertretung angeboten.
+* **Fehlgrund:** hier können Sie aus den zuvor eingegebenen „Raumfehlgründen“ auswählen
+* Im Feld **Bemerkung** kann ein Kommentar zu der Fehlzeit hinterlegt werden
+* Unter **Ersatzraum** können Sie direkt einen Raum als Vertretungsraum auswählen, Hinweis: hier wird nicht geprüft, ob der Raum zu diesem Zeitpunkt verfügbar ist oder nicht, Sie erhalten im Aufklappbereich eine Liste aller Räume
+* Option **Nicht öffentlich** kann erfasst werden, um diesen ggf. nicht zu veröffentlichen (im Ausdruck und in LOOK)
+* Option **gesperrt:** Gesperrte Räume werden nicht mehr zur Vertretung angeboten.
 
-## Bereich „Vertretungen“ 
+## Bereich „Vertretungen“
+
 ### Vertretungserstellung
 
 * oben links erscheinen fehlende Lehrer/Räume in Abhängigkeit des oben eingestellten Zeitraumes
@@ -136,49 +148,47 @@ In der Liste der möglichen Vertreter finden Sie zahlreiche Informationen über 
 
 Die Liste ist gemäß verschiedener Kriterien sortiert, die Sie zuvor in den Vertretungseinstellungen gewichten können.
 
-Mit Mausklick auf einen Spaltenkopf werden die Daten der Liste nach dieser Spalte aufsteigend sortiert. Ein nochmaliger Klick auf den Spaltenkopf bewirkt eine absteigende Sortierung. 
+Mit Mausklick auf einen Spaltenkopf werden die Daten der Liste nach dieser Spalte aufsteigend sortiert. Ein nochmaliger Klick auf den Spaltenkopf bewirkt eine absteigende Sortierung.
 
 Sie können entscheiden, ob Sie einen direkten Lehrer (dieser hat zum Vertretungszeitpunkt unterrichtsfrei) oder einen indirekten Lehrer (dieser hat zum Vertretungszeitpunkt Unterricht oder ist gesperrt) als Vertretungslehrer einsetzen möchten.
- 
+
 ### Vertretungseinstellungen
 
->Start>Einstellungen
+`Start>Einstellungen`
 
 ![Vertretungseinstellungen](/assets/images/images VP/vp_vertretungseinstellungen01.png)
 
 ![Vertretungseinstellungen - Eignungsfaktoren](/assets/images/images VP/vp_vertretungseinstellungen02.png)
 
-
 * In den Vertretungseinstellungen legen Sie fest, welches Gewicht verschiedene Faktoren für die Eignung eines Vertreters erhalten sollen.
 * Aus dieser Gewichtung ermittelt DAVINCI einen Eignungsfaktor für jeden möglichen Vertreter.
-* Nach der Höhe des Eignungsfaktors ist die Liste der möglichen Vertreter standardmäßig sortiert. 
+* Nach der Höhe des Eignungsfaktors ist die Liste der möglichen Vertreter standardmäßig sortiert.
 
-### Direkte Vertreter 
+### Direkte Vertreter
 
 ![ ](/assets/images/images VP/vp_vregelung.png)
 
-* Markieren Sie den gewünschten Vertretungslehrer und klicken Sie anschließend auf <b>Einsetzen</b>.
-* Über <b>Wie Woche zuvor</b> können Sie ggf. die Vertretungslösung der Vorwoche kopieren.
-* Mit <b>Teilen</b> können Sie einen Doppelstundentermin in zwei Einzelstunden zerlegen.
-* Mit <b>Zusammenfassen</b> werden geteilte Termine wieder zusammengefügt.
-* Mit <b>Entfällt</b> können Sie eine Vertretung ausfallen lassen
- 	
+* Markieren Sie den gewünschten Vertretungslehrer und klicken Sie anschließend auf `Einsetzen`.
+* Über `Wie Woche zuvor` können Sie ggf. die Vertretungslösung der Vorwoche kopieren.
+* Mit `Teilen` können Sie einen Doppelstundentermin in zwei Einzelstunden zerlegen.
+* Mit `Zusammenfassen` werden geteilte Termine wieder zusammengefügt.
+* Mit `Entfällt` können Sie eine Vertretung ausfallen lassen
+
 #### Vertretung „Einsetzen“
- 
-![ ](/assets/images/images VP/vp_einsetzen.png) 
 
-* An dieser Stelle können Sie entscheiden, wie die Vertretungsstunde beim Lehrer verbucht werden soll. 
-* Eine erstellte Vertretung erkennt man an dem Feld „Status“ (nun: geändert) und dem Hinweis in Spalte „Art“ („Zusätzlich“, „Geändert“ oder „Verschoben“)
+![ ](/assets/images/images VP/vp_einsetzen.png)
 
-![ ](/assets/images/images VP/vp_geaendert.png) 
+* An dieser Stelle können Sie entscheiden, wie die Vertretungsstunde beim Lehrer verbucht werden soll.
+* Eine erstellte Vertretung erkennt man an dem Feld „Status“ (nun: geändert) und dem Hinweis in Spalte „Art“ **(Zusätzlich,** **Geändert** oder **Verschoben)**
 
-* Die zugewiesenen Vertretungslehrer werden mit einem Pluszeichen in der Spalte „Lehrer“ eingetragen. 
+![ ](/assets/images/images VP/vp_geaendert.png)
+
+* Die zugewiesenen Vertretungslehrer werden mit einem Pluszeichen in der Spalte **Lehrer** eingetragen.
 * Der fehlende Lehrer wird in Klammern gesetzt.
-
 * Anschließend kann man auch einen (Vertretungs-) Raum oder ein (Vertretungs-) Fach zuweisen.
 
 ![ ](/assets/images/images VP/vp_raum_aendern.png)
- 
+
 #### Vorziehen
 
 * Zieht man einen Lehrer vor, so kann man auswählen, aus welcher Woche die Veranstaltung vorgezogen werden soll. Es werden Stunden zum Vorziehen angeboten, die zeitlich vor und nach dem betroffenen Termin liegen.
@@ -186,9 +196,9 @@ Sie können entscheiden, ob Sie einen direkten Lehrer (dieser hat zum Vertretung
 
 ![ ](/assets/images/images VP/vp_vorziehen.png)
 
-####  Ringtausch durchführen / Fehlstellen erzeugen
+#### Ringtausch durchführen / Fehlstellen erzeugen
 
-* Beim Vorziehen können Sie entscheiden, ob am ursprünglichen Ort des vorgezogenen Unterrichts eine Fehlstelle erzeugt werden soll. 
+* Beim Vorziehen können Sie entscheiden, ob am ursprünglichen Ort des vorgezogenen Unterrichts eine Fehlstelle erzeugt werden soll.
 
 ![ ](/assets/images/images VP/vp_vertreter_vorziehen.png)
 
@@ -198,41 +208,41 @@ Sie können entscheiden, ob Sie einen direkten Lehrer (dieser hat zum Vertretung
 
 #### Vertretungsentfallgründe definieren
 
->Extras>Schlüsselverzeichnisse>Vertretungsentfallgründe
+`Extras|Schlüsselverzeichnisse|Vertretungsentfallgründe`
 
-* Definieren Sie vor dem Vertretungsentfall unter `Extras|Schlüsselverzeichnisse|Vertretungsentfallgründe` die entsprechenden Gründe, die beim Ausfall einer Vertretung hinterlegt werden sollen. 
+* Definieren Sie vor dem Vertretungsentfall unter `Extras|Schlüsselverzeichnisse|Vertretungsentfallgründe` die entsprechenden Gründe, die beim Ausfall einer Vertretung hinterlegt werden sollen.
 
 ![Schlüsselverzeichnis "Vertretungesentfallgründe" ](/assets/images/images VP/vp_vertretungsentfallgründe.png)
 
 #### Vertretung entfällt
 
-* Mit <b>Entfällt</b> können Sie eine Vertretung ausfallen lassen
+* Mit `Entfällt` können Sie eine Vertretung ausfallen lassen
 * Wählen Sie den Grund für das Entfallen aus
-* Zusätzlich können Sie in den Feldern „Info“ und „Mitteilung“ eine Info oder Mitteilung erfassen, die Sie später im Ausdruck mit ausgeben können.
+* Zusätzlich können Sie in den Feldern **Info** und **Mitteilung** eine Info oder Mitteilung erfassen, die Sie später im Ausdruck mit ausgeben können.
 
 ![Vertretung entfällt-Fenster](/assets/images/images VP/vp_vertretung_entfaellt.png)
- 
+
 #### Vertretungsautomatik
 
-* Über Automatik starten (Bereich „Vertretungen“, Register „Start“)“ können Sie die offenen Lehrervertretungen automatisch von DAVINCI erstellen lassen.
-* Die Automatik weist dabei jeweils den Vertreter zu, der gemäß den aktuellen Vertretungseinstellungen den höchsten Eignungsfaktor aufweist. 
+* Über `Vertretungen|Start|Automatik` starten können Sie die offenen Lehrervertretungen automatisch von DAVINCI erstellen lassen.
+* Die Automatik weist dabei jeweils den Vertreter zu, der gemäß den aktuellen Vertretungseinstellungen den höchsten Eignungsfaktor aufweist.
 
 ![Vertretungsautomatik](/assets/images/images VP/vp_automatik.png)
 
 ### Indirekte Vertreter
 
 * Wählt man einen indirekten Vertretungslehrer aus, so kann man wählen, ob dieser zwei Klassen gleichzeitig unterrichten oder freigestellt werden soll.
-* Setzt man den Haken bei „Vertreter freistellen“ muss die ursprüngliche Stunde des freigestellten Lehrers ggf. wiederum vertreten werden.
+* Setzt man den Haken bei **Vertreter freistellen** muss die ursprüngliche Stunde des freigestellten Lehrers ggf. wiederum vertreten werden.
 
 ![Indirekten Vertreter einsetzen ](/assets/images/images VP/vp_indirekte_vertretung.png)
- 
+
 #### Lehrer im Plan freistellen
 
 * Lehrer können alternativ auch über Ihr Planungsfenster (`Bearbeiten|Lehrer freistellen`) freigestellt werden
 
 ![Freistellen](/assets/images/images VP/vp_lehrer_freistellen.png)
 
-* Sie erhalten dann ebenfalls das Symbol eines freigestellten Lehrers in der Vertretungserstellung und die betroffene Veranstaltung kann vertreten werden. 
+* Sie erhalten dann ebenfalls das Symbol eines freigestellten Lehrers in der Vertretungserstellung und die betroffene Veranstaltung kann vertreten werden.
 
 ![Freistellen - Anzeige in Liste offene Vertretungen und Lehrerplan](/assets/images/images VP/vp_anzeige_freistellung_lehrer.png)
 
@@ -240,26 +250,27 @@ Sie können entscheiden, ob Sie einen direkten Lehrer (dieser hat zum Vertretung
 
 #### Vertretungserstellung Aufsichten
 
-* Steht in der Spalte „Fach“ bei den zu vertretenden Veranstaltungen eines Lehrers „Aufsicht“, so muss eine Pausenaufsicht des Lehrers vertreten werden
+* Steht in der Spalte **Fach** bei den zu vertretenden Veranstaltungen eines Lehrers **Aufsicht**, so muss eine Pausenaufsicht des Lehrers vertreten werden
 
 ![Aufsichtslehrer fehlt](/assets/images/images VP/vp_aufsicht_fehlt.png)
 
 * In der Liste der möglichen Vertreter werden Ihnen mögliche Vertretungen für die Pausenaufsicht angeboten
-* Weisen Sie die Vertreter für die Aufsicht über <b>Einsetzen</b> zu
- 	
+* Weisen Sie die Vertreter für die Aufsicht über `Einsetzen` zu
+
 #### Vertretungserstellung Räume
 
 * Markieren Sie in der Fehlzeiten-Liste eine Raumfehlzeit
 * In der Liste der möglichen Vertreter (Räume) wird Ihnen angezeigt, ob der Vertretungsraum frei (Bsp. Raum „100“) oder belegt (Bsp. Raum „–101“) ist
-* Weisen Sie die Vertretungsräume über „Einsetzen“ zu
+* Weisen Sie die Vertretungsräume über `Einsetzen` zu
 
 ![Raumvertretung](/assets/images/images VP/vp_vertretung.raeume.png)
 
 #### Verschieben und Vertauschen
 
-In den Lehrer-, Klassen- und Raumplänen können Sie Stunden verschieben oder vertauschen. 
+In den Lehrer-, Klassen- und Raumplänen können Sie Stunden verschieben oder vertauschen.
+
 * Markieren Sie die Zielposition über `RechteMaustatste|Markieren`.
-* Klicken Sie anschließend auf die Zielposition und führen Sie den Befehl `RechteMaustaste|Termin verschieben oder vertauschen` aus. 
+* Klicken Sie anschließend auf die Zielposition und führen Sie den Befehl `RechteMaustaste|Termin verschieben oder vertauschen` aus.
 
 ![Termine vertauschen](/assets/images/images VP/vp_termine.vertauschen.png)
 
@@ -268,14 +279,14 @@ In den Lehrer-, Klassen- und Raumplänen können Sie Stunden verschieben oder ve
 * Sie können auch die Lehrer und/ oder Räume zwischen zwei Terminen tauschen.
 * Markieren Sie die Zielposition über `RechteMaustaste|Markieren`.
 * Klicken Sie anschließend auf die Position des gewünschten Tauschpartners und führen Sie den Befehl `RechteMaustaste|Lehrer/Raum vertauschen` aus.
-* Entscheiden Sie im Dialogfenster „Lehrer/Raum vertauschen“ ob nur Lehrer oder Raum oder beides getauscht werden soll. 
+* Entscheiden Sie im Dialogfenster **Lehrer/Raum vertauschen ob** nur Lehrer oder Raum oder beides getauscht werden soll.
 
 ![Lehrer/Raum vertauschen](/assets/images/images VP/vp_lehrer.raum.vertauschen.png)
 
 #### Mitteilung einfügen
 
-* Über `RechteMaustaste|Neue Mitteilung` können Sie Mitteilungen in den Bildschirmplan, die Änderungsliste und den Ausdruck einfügen. 
-* Mitteilungen kann man für mehrere Klassen und Lehrer einfügen 
+* Über `RechteMaustaste|Neue Mitteilung` können Sie Mitteilungen in den Bildschirmplan, die Änderungsliste und den Ausdruck einfügen.
+* Mitteilungen kann man für mehrere Klassen und Lehrer einfügen
 
 ![Mitteilung einfügen](/assets/images/images VP/vp_mitteilung.einfügen.png)
 
@@ -286,52 +297,53 @@ In den Lehrer-, Klassen- und Raumplänen können Sie Stunden verschieben oder ve
 * Über `RechteMaustaste|NeuerZusatzunterricht` können Sie in der Änderungsliste oder in den Plänen selbst, zusätzlichen Unterricht einfügen und später mit ausdrucken.
 * Zusatzunterricht können Sie mit mehreren Lehrer, Klassen und Räumen anlegen.
 * Über Blitzsymbole wird Ihnen angezeigt, welche Klasse, Lehrer oder Räume zu diesem Zeitpunkt bereits belegt sind
-* In Register „Räume“ hat man die Filtermöglichkeit nach "freie Räume", "Raumart", "Kapazität" und "Teams“
+* In Register **Räume** hat man die Filtermöglichkeit nach freien Räumen, Raumart, Kapazität und Teams
 
-![Neuer Zusatzunterrcht](..images/images VP/vp_aenderungen.fach.raum.png)
+![Neuer Zusatzunterricht](assets/images/images VP/zusatzunterricht.png)
 
 #### Unterrichtsfach/Raum im Plan ändern
 
 * Über den `RechteMaustaste|Fach ändern…`(bzw. `RechteMaustaste|Raum ändern…`) können Sie das Unterrichtsfach bzw. den Raum eines Termins ändern.
 
-![Fach/Raum ändern](..images/images VP/vp_aenderungen.fach.raum.png)
+![Fach/Raum ändern](assets/images/images VP/raum ändern.png)
+![Fach/Raum ändern](assets/images/images VP/fach ändern.png)
 
 ## Bereich „Änderungen“
 
 * In der Änderungsliste erscheinen alle erstellten Vertretungen
 * Sie bildet die Grundlage für den späteren Ausdruck
-* Über Exportieren kann die Liste nach Excel, TXT, HTML und XML exportiert werden
+* Über `Exportieren` kann die Liste nach Excel, TXT, HTML und XML exportiert werden
 * Die Liste kann nach Spalten sortiert und nach einzelnen Spaltenwerten gefiltert werden
 
 ![Bereich "Änderungen"](/assets/images/images VP/vp_aenderungen.png)
- 	
+
 ## Bereich „Anrechnungen“
 
-* In der Liste der Anrechnungsstunden werden alle Fehlzeiten und Vertretungen mit den vergebenen Anrechnungsstunden erfasst. 
+* In der Liste der Anrechnungsstunden werden alle Fehlzeiten und Vertretungen mit den vergebenen Anrechnungsstunden erfasst.
 * Diese Liste können Sie wieder sortieren, gruppieren
-* Über Exportieren kann die Liste nach Excel, TXT, HTML und XML exportiert werden
+* Über `Exportieren` kann die Liste nach Excel, TXT, HTML und XML exportiert werden
 
-![Bereich "Anrechnungen"](/assets/images/images VP/vp_anrechungen.png)
+![Bereich "Anrechnungen"](/assets/images/images VP/vp_anrechnungen.png)
 
 ## Vertretungsstatistik
 
 * In der Übersicht „Statistik“ finden Sie für jeden Lehrer eine monatsweise Aufstellung der Anrechenstunden, Fehlgründe, Vertretungen und Ausfallstunden. Bitte achten Sie darauf, dass Sie sich im Bereich "Vertretungen" oder "Anrechnungen" befinden.
 
->Start>Statistik
+`Start|Statistik`
 
-![Statistik](..images/images VP/vp_statistik.png)
+![Statistik](/assets/images/images VP/vp_statistik.png)
 
 ### Vertretungsstatistik|Anrechenstunden
 
-* Registerkarten „Positive Anrechenstunden“ und „Negative Anrechenstunden“: hier findet man für jeden Lehrer eine monatsweise Aufstellung der positiven und negativen Anrechenstunden
+* Registerkarten **Positive Anrechenstunden** und  **Negative Anrechenstunden:** hier findet man für jeden Lehrer eine monatsweise Aufstellung der positiven und negativen Anrechenstunden
 
-![Vertretungsstatistik, Anrechenstunden](..images/images VP/vp_vertretungsstatistik.anrechenenstunden.png)
+![Vertretungsstatistik, Anrechenstunden](/assets/images/images VP/vp_vertretungsstatistik.anrechenstunden.png)
 
 ### Vertretungsstatistik|Fehlgründe
 
-* Auf der Registerkarte „Fehlgründe“ des Dialogfensters „Statistik“ werden die Fehlgründe je Lehrer gezählt. Die Liste kann nach Excel, Txt, HTML und XML exportiert werden.
+* Auf der Registerkarte **Fehlgründe** des Dialogfensters **Statistik** werden die Fehlgründe je Lehrer gezählt. Die Liste kann nach Excel, Txt, HTML und XML exportiert werden.
 
-![Vertretungsstatistik, Fehlgründe](..images/images VP/vp_vertretungsstatistik.fehlgruende.png)
+![Vertretungsstatistik, Fehlgründe](/assets/images/images VP/vp_vertretungsstatistik.fehlgruende.png)
 
 ## Ausdruck
 
@@ -343,8 +355,8 @@ In den Lehrer-, Klassen- und Raumplänen können Sie Stunden verschieben oder ve
 ### Druckvorschau
 
 * In der Druckvorschau können Sie das zu erwartende Druckergebnis ansehen.
-* Über die Schaltfläche „Design“ können Sie das Dialogfenster zur Bearbeitung des aktuellen Druckformats aufrufen.
-* Über die Schaltfläche „Seite einrichten“ können Sie z.B. Ränder ändern, Kopf- und Fußzeile einfügen.
+* Über die Schaltfläche `Design` können Sie das Dialogfenster zur Bearbeitung des aktuellen Druckformats aufrufen.
+* Über die Schaltfläche `Seite einrichten` können Sie z.B. Ränder ändern, Kopf- und Fußzeile einfügen.
 
 ![Druckvorschau, Schaltfläche "Design"](/assets/images/images VP/vp_druckvorschau.seite.einrichten.png)
 
@@ -378,29 +390,25 @@ In den Lehrer-, Klassen- und Raumplänen können Sie Stunden verschieben oder ve
 ![Druckformat|Design|Register "Seite"](/assets/images/images VP/vp_design.seite.01.png)
 
 ![Druckformat|Design|Register "Seite", Schaltflächen "Bearbeiten"](/assets/images/images VP/vp_design.seite.png)
- 
+
 ## Was Sie noch wissen sollten
 
 ### Änderungen freigeben
 
-* Unter Plan|Eigenschaften|Datenschutz kann die Option "Änderungen freigeben" aktiviert werden. Für DAVINCI und für LOOK kann ebenfalls eingestellt werden, ob die Fehlgründe für Abwesenheiten gezeigt werden sollen.
-
->Plan>Eigenschaften>Datenschutz
+* Unter `Plan|Eigenschaften|Datenschutz` kann die Option **Änderungen freigeben** aktiviert werden. Für DAVINCI und für LOOK kann ebenfalls eingestellt werden, ob die Fehlgründe für Abwesenheiten gezeigt werden sollen.
 
 ![Plan-Eigenschaften, Datenschutz](/assets/images/images VP/vp_eigenschaften.datenschutz.png)
 
-Dadurch kann nun das explizite Freigeben von Änderungen im lokalen wie im Servermodus gewählt werden. Wird der Haken vor „Änderungen freigeben“ gesetzt, müssen die Änderungen im VERTRETUNGSPLAN über Änderungen freigeben freigegeben werden, damit Sie auch für alle sichtbar sind.
+Dadurch kann nun das explizite Freigeben von Änderungen im lokalen wie im Servermodus gewählt werden. Wird der Haken vor **Änderungen freigeben** gesetzt, müssen die Änderungen im VERTRETUNGSPLAN über `Änderungen freigeben` freigegeben werden, damit Sie auch für alle sichtbar sind.
 
-![Publizieren, Änderungen freigeben](..images/images VP/vp_publizieren.aenderungen.freigeben.png)
+![Publizieren, Änderungen freigeben](/assets/images/images VP/vp_publizieren.aenderungen.freigeben.png)
 
 ![Änderungen freigeben](/assets/images/images VP/vp_aenderungen.freigeben.png)
 
 ### Bezeichnungen anpassen
 
-* Sie können in den Plan-Eigenschaften (Registerkarte „Plan|Eigenschaften“) auf der Registerkarte „Bezeichnungen“ zahlreiche Bezeichnungen individuell anpassen. 
+* Sie können in den Plan-Eigenschaften `Plan|Eigenschaften|Bezeichnungen` zahlreiche Bezeichnungen individuell anpassen.
 * Diese Umbenennung wird im Ausdruck sichtbar.
-
->Plan>Eigenschaften>Bezeichnungen
 
 ![Plan-Eigenschaften, Bezeichnungen](/assets/images/images VP/vp_eigenschaften.bezeichnungen.png)
 
@@ -408,32 +416,20 @@ Dadurch kann nun das explizite Freigeben von Änderungen im lokalen wie im Serve
 
 * In DAVINCI Stundenplan können Sie unter `Extras|Optionen|Stundenplan` einstellen, dass die Vertretungsinfos im Stundenplan angezeigt werden sollen.
 
->Extras>Optionen>Stundenplan
-
 ![DAVINCI-Optionen, Stundenplan](/assets/images/images VP/vp_opt_stundenplan.png)
 
 * Die Vertretungsinformationen werden nun in der aktuellen Woche im Stundenplanbereich angezeigt. Sie erscheinen auch in DAVINCI LOOK.
 
-
-
-### Weitere Vertretungseinstellungen|Anzeigen
+### Weitere Vertretungseinstellungen
 
 ![Start|Einstellungen](/assets/images/images VP/vp_start.vertretungseinstellungen.png)
 
 ![Vertretungseinstellungen, Register "Anzeigen"](/assets/images/images VP/vp_vertretungseinstellungen.anzeigen.png)
 
-
 ### Weitere DAVINCI Optionen
 
->Extras>Optionen>Vertretungsplan
+in den DAVINCI Optionen `Extras|Optionen|Vertretungsplan`
 
-* Möglichkeit, für das Eintragen von Fehlzeiten „Infos“, „Mitteilungen“ und „Bemerkungen“ vorzudefinieren, aus denen man später auswählen kann
+* Möglichkeit, für das Eintragen von Fehlzeiten **Infos,** **Mitteilungen** und **Bemerkungen** vorzudefinieren, aus denen man später auswählen kann
 
 ![DAVINCI-Optionen, Vertretungsplan](/assets/images/images VP/vp_opt_vertretungsplan.png)
-
-
-
-
-	
-
-
