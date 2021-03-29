@@ -53,7 +53,7 @@ Ein weiteres Fenster mit einer Liste öffnet sich, nach diesen Punkten bereiten 
 
 ![Planvorbereitungsassistent ](/assets/images/SP.001.png)
 
-### 1. Zeitraum eingeben...
+### 1. Zeitraum eingeben
 
 Wählen Sie `Zeitraum eingeben`. Sie gelangen zum `Plan-Eigenschaften`-Fenster. Geben Sie an, für welchen Zeitraum Sie planen möchten.
 
@@ -77,7 +77,7 @@ Die Option `Mit Wertfaktoren (aus Stundentafel, Fach, Klasse, Veranstaltung)` be
 
     Sie gelangen jederzeit nachträglich über den Aufruf `Plan > Eigenschaften > Statistik` in dieses Eingabefenster.
 
-### 2. Kalenderdaten importieren...
+### 2. Kalenderdaten importieren
 
 Importieren Sie Ferien- und Feiertage in Ihre DAVINCI Datei. Laden Sie dazu den mit der Installation mitgelieferten Kalender für Ihr Bundesland:
 `…:\Users\Public\Documents\Stueber Systems\daVinci 6\Kalender`
@@ -88,7 +88,7 @@ Importieren Sie Ferien- und Feiertage in Ihre DAVINCI Datei. Laden Sie dazu den 
 
     Sie können diesen Schritt auch überspringen. Die Kalenderdatei kann jederzeit über den Bereich `KALENDER` zu einem späteren Zeitpunkt importiert werden.
 
-### 3. Zeitrahmen einstellen...
+### 3. Zeitrahmen einstellen
 
 Sie gelangen in das `Zeitrahmen`-Fenster. DAVINCI bietet Ihnen standardmäßig zwei Zeitrahmen an: `Standard` (Hauptzeitrahmen) und `Aufsichten` (Zeitrahmen für Ihre Aufsichtspläne).
 
@@ -158,7 +158,7 @@ Neben dem Standard- und Aufsichtenzeitrahmen können Sie weitere Zeitrahmen anle
 
 ![Zeitrahmen,`Neu`](/assets/images/SP.011.png)
 
-## 4. STAMMDATEN
+## Stammdaten
 
 ![Planvorbereitungsassistent,`Neu`](/assets/images/SP.012.png)
 
@@ -189,7 +189,7 @@ Die Automatik versucht die Veranstaltungen so zu verplanen, dass keine Probleme 
 
 ![Wegzeitkonflikte-Symbol im Planfenster ](/assets/images/Warnsymbol.png)
 
-![Stammdaten Gebäude](/assets/images/Stammdaten_Gebäude.png)
+![Stammdaten Gebäude](/assets/images/image69.png)
 
 ### Perioden
 
@@ -206,7 +206,7 @@ Spalte | Bedeutung
 Lehrer | Eingabe des Raumbetreuers, kann in den Ausdruck übergeben werden und wird in DAVINCI LOOK angezeigt
 Kapazität | kann bei der Raumzuweisung als Filterkriterium genutzt werden
 
-![Stammdaten Räume](/assets/images/Stammdaten_Räume.png)
+![Stammdaten Räume](/assets/images/image70.png)
 
 ### Aufsichtsbereiche
 
@@ -223,7 +223,7 @@ Räume | hier wählen Sie Räume aus, die in der Nähe des Aufsichtsbereiches li
 
 Erfassen Sie hier die Unterrichtsfächer Ihrer Lehrveranstaltungen. Weisen Sie hier bestimmten Fächern Fachräume zu. Diese Eintragung dient als Filterkriterium bei der Raumzuweisung. Ein Fachraum ist auch ein möglicher Raum für die Planung per Raumautomatik.
 
-![Stammdaten Fächer](/assets/images/Stammdaten_Fächer.png)
+![Stammdaten Fächer](/assets/images/stamm_faecher.png)
 
 ### Stundentafeln
 
@@ -303,7 +303,7 @@ Dies gilt für alle Stammdatenregister.
 
 ![Spalten ein-/ausblenden](/assets/images/SP.015.png)
 
-## STUNDENPLAN
+## Stundenplan
 
 Nachdem alle Stammdaten erfasst sind, wechseln Sie links in der Navigation in den Bereich "Stundenplan".
 
@@ -479,7 +479,7 @@ Spalte | Bedeutung
 -1 bis -9 | Fächer mit gleicher Zahl dürfen am selben Tag nicht unmittelbar hintereinander  verplant werden
  -10 bis -19 | Fächer mit gleicher Zahl dürfen nicht am gleichen Tag verplant werden
 
-![Automatikvorgaben > Fächervorgaben](/assets/images/automatikvorgaben_faechervorgaben.png)
+![Automatikvorgaben > Fächervorgaben](/assets/images/automatikvorgabeb_faechervorgabe.png)
 
 ![Automatik starten](/assets/images/automatik_starten.png)
 
@@ -504,9 +504,9 @@ Symbol|Bedeutung
 ![Periodensymbol](/assets/images/sshot-5.png)|Periodensymbol, kenntzeichnet wochenbezogenen Unterricht, hier wurde der Veranstaltung eine Periode zugewiesen
 ![Tauschelemente](/assets/images/sshot-6.png)| mögliche Tauschelemente des im Planfenster markierten Elementes, der Tausch wird mit gedrückter  `Shift + linke Maustaste`auf den Tauschpartner ausgeführt.
 ![Positionskonflikte](/assets/images/sshot-8.png)| "Positionskonflikte anzeigen" - GELB heißt, die markierte Veranstaltungen (im Planfenster oder Veranstaltungsliste) kann auf diese Position gesetzt werden
-![![Positionskonflikte](/assets/sshot-8.png)](/assets/images/sshot-9.png)| "Positionskonflikte anzeigen" - BLAU heißt, die markierte Veranstaltungen (im Planfenster oder Veranstaltungsliste) führt zu einem Konflikt, wenn auf diese Position gesetzt wird
+![![Positionskonflikte](/assets/images/sshot-8.png)](/assets/images/sshot-9.png)| "Positionskonflikte anzeigen" - BLAU heißt, die markierte Veranstaltungen (im Planfenster oder Veranstaltungsliste) führt zu einem Konflikt, wenn auf diese Position gesetzt wird
 
-## KALENDER
+## Kalender
 
 ![Bereich Kalender](/assets/images/sshot-10.png)
 
@@ -536,7 +536,7 @@ Im Programmbereich „Aufsichten können Sie für die im Aufsichtszeitrahmen ers
 
 ![!Aufsichtsplan](/assets/images/Aufsichtsplan.png)
 
-## ÜBERSICHTEN
+## Übersichten
 
 Im Bereich der Übersichten finden Sie eine Vielzahl von Übersichten für weitere Auswertungen.
 
@@ -552,7 +552,7 @@ Die Übersicht „Fach-Soll-Ist“ zeigt Ihnen eine Liste der Fach-Soll- und Ist
 
 Die Übersicht „Veranstaltungen“ zeigt eine Liste aller Veranstaltungen und Termine des Plans.
 
-## AUSDRUCK
+## Ausdruck
 
 Im Dialogfenster „Drucken“ wählen Sie die Planart, die Einzelpläne, den Zeitraum und das Druckformat fest, für die der Ausdruck erfolgen soll.
 
