@@ -299,15 +299,15 @@ In den Lehrer-, Klassen- und Raumplänen können Sie Stunden verschieben oder ve
 * Über Blitzsymbole wird Ihnen angezeigt, welche Klasse, Lehrer oder Räume zu diesem Zeitpunkt bereits belegt sind
 * In Register **Räume** hat man die Filtermöglichkeit nach freien Räumen, Raumart, Kapazität und Teams
 
-![Neuer Zusatzunterricht](assets/images/vp04.png)
+![Neuer Zusatzunterricht](/assets/images/vp04.png)
 
 #### Unterrichtsfach/Raum im Plan ändern
 
 * Über den `RechteMaustaste > Fach/Raum ändern`(bzw. `Start > Änderungen > Fach/Raum ändern`) können Sie das Unterrichtsfach bzw. den Raum eines Termins ändern.
 
-![Raum ändern](assets/images/vp06.png)
+![Raum ändern](/assets/images/vp06.png)
 
-![Fach ändern](assets/images/vp07.png)
+![Fach ändern](/assets/images/vp07.png)
 
 ## Bereich „Änderungen“
 
