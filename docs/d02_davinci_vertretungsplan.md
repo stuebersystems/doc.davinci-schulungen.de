@@ -305,8 +305,9 @@ In den Lehrer-, Klassen- und Raumplänen können Sie Stunden verschieben oder ve
 
 * Über den `RechteMaustaste > Fach/Raum ändern`(bzw. `Start > Änderungen > Fach/Raum ändern`) können Sie das Unterrichtsfach bzw. den Raum eines Termins ändern.
 
-![Fach/Raum ändern](assets/images/vp05.png)
-![Fach/Raum ändern](assets/images/images VP/fach ändern.png)
+![Raum ändern](assets/images/vp06.png)
+
+![Fach ändern](assets/images/vp07.png)
 
 ## Bereich „Änderungen“
 
@@ -358,23 +359,19 @@ In den Lehrer-, Klassen- und Raumplänen können Sie Stunden verschieben oder ve
 * Über die Schaltfläche `Design` können Sie das Dialogfenster zur Bearbeitung des aktuellen Druckformats aufrufen.
 * Über die Schaltfläche `Seite einrichten` können Sie z.B. Ränder ändern, Kopf- und Fußzeile einfügen.
 
-![Druckvorschau, Schaltfläche "Design"](/assets/images/images VP/vp_druckvorschau.seite.einrichten.png)
-
-![Druckvorschau, Schaltfläche "Seite einrichten"](/assets/images/images VP/vp_druckvorschau.seite.einrichten.01.png)
-
-### Druckformat|Design|Register „Liste“
+### Druckformat Design - Register „Liste“
 
 * Unter „Tabelle“ können Sie verschiedene Format- Einstellungen bearbeiten
 
 ![Druckformat|Design|Register "Liste"](/assets/images/images VP/vp_design.liste.png)
 
-### Druckformat|Design|Register „Spalten“
+### DruckformatDesign - Register „Spalten“
 
 * Auf der Registerkarte „Spalten“ legen Sie Anzahl und Reihenfolge der auszugebenen Spalten fest
 
 ![Druckformat|Design|Register "Spalten"](/assets/images/images VP/vp_design.spalten.png)
 
-### Druckformat|Design|Register „Überschrift“
+### Druckformat Design - Register „Überschrift“
 
 * Auf der Registerkarte „Überschrift“ legen Sie Schriftarten fest und ob im Infobereich Fehlende Klassen/Lehrer angezeigt werden sollen
 
@@ -382,7 +379,7 @@ In den Lehrer-, Klassen- und Raumplänen können Sie Stunden verschieben oder ve
 
 ![Druckformat|Design|Register "Überschrift", Fehlende Klassen/Lehrer anzeigen](/assets/images/images VP/vp_design.ueberschrift.png)
 
-### Druckformat|Design|Register „Seite“
+### Druckformat Design - Register „Seite“
 
 * Auf der Registerkarte „Seite“ legen Sie fest, wie die Bezeichnung der Lehrer in den Überschriften und Zellen ausgegeben werden soll.
 * Weiterhin können Sie wählen, ob jede Tabelle auf neuer Seite beginnen soll.
