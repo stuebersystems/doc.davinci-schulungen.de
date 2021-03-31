@@ -496,15 +496,14 @@ Mit der "X"-Schaltfläche in den Plänen links oben können Sie den betreffenden
 
 ### Symbole im Planfenster
 
-Symbol|Bedeutung
---|--
-![Block](/assets/images/sshot-2.png)| geblockter Unterricht
-![geblockte Elemente](/assets/images/sshot-4.png)| geblockte Elemente, können hier aus platztechnischen Gründen nicht nebeneinander dargestellt werden, über `strg + linke Maus` können die geplockten Elemente aufgerufen werden
-![Lehrersymbol](/assets/images/sshot-3.png)|Lehrersymbol (siehe Stammdatenfenster "Lehrer", Spalte "Symbol")
-![Periodensymbol](/assets/images/sshot-5.png)|Periodensymbol, kenntzeichnet wochenbezogenen Unterricht, hier wurde der Veranstaltung eine Periode zugewiesen
-![Tauschelemente](/assets/images/sshot-6.png)| mögliche Tauschelemente des im Planfenster markierten Elementes, der Tausch wird mit gedrückter  `Shift + linke Maustaste`auf den Tauschpartner ausgeführt.
-![Positionskonflikte](/assets/images/sshot-8.png)| "Positionskonflikte anzeigen" - GELB heißt, die markierte Veranstaltungen (im Planfenster oder Veranstaltungsliste) kann auf diese Position gesetzt werden
-![![Positionskonflikte](/assets/images/sshot-8.png)](/assets/images/sshot-9.png)| "Positionskonflikte anzeigen" - BLAU heißt, die markierte Veranstaltungen (im Planfenster oder Veranstaltungsliste) führt zu einem Konflikt, wenn auf diese Position gesetzt wird
+| Symbol                                  | Bedeutung                           |
+| --------------------------------------- | ----------------------------------- |
+| <img src="/assets/images/sshot-2.png"> | geblockter Unterricht |
+| <img src="/assets/images/sshot-4.png"> | geblockte Elemente, können hier aus platztechnischen Gründen nicht nebeneinander dargestellt werden, über `strg + linke Maus` können die geplockten Elemente aufgerufen werden |
+| <img src="/assets/images/sshot-3.png"> | Lehrersymbol (siehe Stammdatenfenster "Lehrer", Spalte "Symbol") |
+| <img src="/assets/images/sshot-5.png"> | Periodensymbol, kenntzeichnet wochenbezogenen Unterricht, hier wurde der Veranstaltung eine Periode zugewiesen |
+| <img src="/assets/images/sshot-6.png"> | mögliche Tauschelemente des im Planfenster markierten Elementes, der Tausch wird mit gedrückter  `Shift + linke Maustaste`auf den Tauschpartner ausgeführt. |
+| <img src="/assets/images/sshot-8.png"> | "Positionskonflikte anzeigen" - GELB heißt, die markierte Veranstaltungen (im Planfenster oder Veranstaltungsliste) kann auf diese Position gesetzt werden<br>"Positionskonflikte anzeigen" - BLAU heißt, die markierte Veranstaltungen (im Planfenster oder Veranstaltungsliste) führt zu einem Konflikt, wenn auf diese Position gesetzt wird|
 
 ## Kalender
 
