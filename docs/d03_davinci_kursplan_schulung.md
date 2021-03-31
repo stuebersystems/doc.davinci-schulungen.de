@@ -203,14 +203,14 @@ Versammelt zentrale Funktionen und Informationen, die Ihnen den Einstieg in das 
 * Konflikte werden mit einem Blitz dargestellt
 * zugewiesener Kurs durch blauen Punkt gekennzeichnet
 
-![Kursteilnehmer anzeigen](/assets/images/imagesKP/kp_kursteilnehmer.anzeigen.png)
+![Kursteilnehmer anzeigen](/assets/images/imagesKP/kp01.png)
 
 ### Kursteilnehmer aus einem Kurs entfernen
 
 * aus den Ansichten `Kursplan > Schüler`; `Kursplan > Kurse`; `Kursplan > Blöcke` möglich
 * Öffnen Sie das Detailfenster **Kursteilnehmer** und wählen Sie `Aus dem Kurs entfernen` oder in Schülerliste mit rechte Maustaste auf `Kurs > Schüler aus Kurs entfernen`
 
-![Schüler aus Kurs entfernen](/assets/images/imagesKP/kp_schueler.aus.kurs.entfernen.png)
+![Schüler aus Kurs entfernen](/assets/images/imagesKP/kp02.png)
 
 ### Alternativkurse zuweisen
 
@@ -219,7 +219,7 @@ Versammelt zentrale Funktionen und Informationen, die Ihnen den Einstieg in das 
 * öffnen Sie das Detailfenster Kursteilnehmer
 * einen oder mehrere Teilnehmer markieren und wählen Sie `In Kurs versetzen`
 
-![Alternativkurs zuweisen, in Kurs versetzen](/assets/images/imagesKP/kp_alternativkurse.png)
+![Alternativkurs zuweisen, in Kurs versetzen](/assets/images/imagesKP/kp03.png)
 
 ### Weitere Kurse zuweisen
 
@@ -238,7 +238,7 @@ ODER
 
 * Markieren Sie links mit STRG+Mausklick und UMSCHALT-Mausklick zwei oder mehrere Fächer/Kurse
 
-![Kursschnittmenge](/assets/images/imagesKP/kp_kursschnittmenge.png)
+![Kursschnittmenge](/assets/images/imagesKP/kp04.png)
 
 ## Bereich Stundenplan
 
@@ -249,7 +249,7 @@ ODER
 * Nach dem Setzen der Stunden im Bereich Stundenplan gehen Sie in den Bereich `Kursplan > Stundenplan`
 * Doppelklick auf einen Schüler zeigt dessen Stundenplan an
 
-![Schülerplan](/assets/images/imagesKP/kp_schuelerplan.png)
+![Schülerplan](/assets/images/imagesKP/kp05.png)
 
 ## Publikationsmöglichkeiten
 
@@ -260,20 +260,20 @@ ODER
 * `Publizieren > Pläne drucken`
 * Format **Schülerpläne** wählen
 
-![Ausdruck Schülerplan](/assets/images/imagesKP/kp_ausdruck.schuelerplan.bsp.png)
+![Ausdruck Schülerplan](/assets/images/imagesKP/kp06.png)
 
 * In der Druckvorschau kann über **Design** das Layout angepasst werden
 
-![Druckvorschau, Design](/assets/images/imagesKP/kp_design.ausdruck.png)
+![Druckvorschau, Design](/assets/images/imagesKP/kp07.png)
 
 #### Kurslisten drucken
 
 * `Publizieren > Pläne drucken`
 * Format **Kursliste** wählen
 
-![Ausdruck Kursliste](/assets/images/imagesKP/kp_ausdruck.kursliste.png)
+![Ausdruck Kursliste](/assets/images/imagesKP/kp08.png)
 
-![Ansicht Kursliste](/assets/images/imagesKP/kp_ausdruck.kursliste1.png)
+![Ansicht Kursliste](/assets/images/imagesKP/kp09.png)
 
 ### HTML-Export
 
@@ -282,7 +282,7 @@ ODER
 * `Publizieren > HTML-Pläne exportieren`
 * Format **Schülerpläne** wählen
 
-![HTML-Export Schülerplan](/assets/images/imagesKP/kp_html.schuelerplan.png)
+![HTML-Export Schülerplan](/assets/images/imagesKP/kp10.png)
 
 ## Sonstiges
 
@@ -292,4 +292,4 @@ ODER
 * mehrere Schüler aus einem Kurs in einen anderen versetzen
 * über`Start > Mehrfachzuweisung` öffnen Sie das Dialogfenster **Mehrfachzuweisung**
 
-![Mehrfachzuweisungen](/assets/images/imagesKP/kp_mehrfachzuweisungen.png)
+![Mehrfachzuweisungen](/assets/images/imagesKP/kp11.png)
