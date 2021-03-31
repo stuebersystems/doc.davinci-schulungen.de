@@ -334,13 +334,13 @@ In den Lehrer-, Klassen- und Raumplänen können Sie Stunden verschieben oder ve
 
 ![Statistik](/assets/images/images VP/vp_statistik.png)
 
-### Vertretungsstatistik|Anrechenstunden
+### Vertretungsstatistik - Anrechenstunden
 
 * Registerkarten **Positive Anrechenstunden** und  **Negative Anrechenstunden:** hier findet man für jeden Lehrer eine monatsweise Aufstellung der positiven und negativen Anrechenstunden
 
 ![Vertretungsstatistik, Anrechenstunden](/assets/images/images VP/vp_vertretungsstatistik.anrechenstunden.png)
 
-### Vertretungsstatistik|Fehlgründe
+### Vertretungsstatistik - Fehlgründe
 
 * Auf der Registerkarte **Fehlgründe** des Dialogfensters **Statistik** werden die Fehlgründe je Lehrer gezählt. Die Liste kann nach Excel, Txt, HTML und XML exportiert werden.
 
