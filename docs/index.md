@@ -28,4 +28,20 @@ Unsere Präsenzschulungen bieten wir bei uns im Hause oder auch bei Ihnen vor Or
 |:--|
 |Dauer: 12*45 Minuten an 2 Tagen|
 |Zielgruppe: Stundenplaner|
-|Inhalte:<br/>-Neuen Plan erstellen: Planvorbereitungsmanager, Stammdaten eingeben<br/>Unterrichtsverteilung erstellen: Perioden zuweisen, Blöcke erstellen, Lehrereinsatz, Raumverplanung<br/>Plan setzen: Manuelles und automatisches Planen, Übersichten, Druckformate editieren
+|Inhalte:<br/>Neuen Plan erstellen: Planvorbereitungsmanager, Stammdaten eingeben<br/>Unterrichtsverteilung erstellen: Perioden zuweisen, Blöcke erstellen, Lehrereinsatz, Raumverplanung<br/>Plan setzen: Manuelles und automatisches Planen, Übersichten, Druckformate editieren
+
+### DAVINCI Vertretungsplan D02
+
+|P-DAVINCI Vertretungsplan D02|
+|:--|
+|Dauer: 5*45 Minuten|
+|Zielgruppe: Vertretungsplaner|
+|Inhalte:<br/>Änderungszeiten<br/>Vertretungen erstellen<br/>Vorziehen / Verschieben / Vertauschen<br/>Statistiken<br/>Vertretungspläne drucken
+
+### DAVINCI Kursplan D03
+
+|P-DAVINCI Kursplan D03|
+|:--|
+|Dauer: 4*45 Minuten|
+|Zielgruppe: Kursplaner|
+|Inhalte:<br/>Stammdaten<br/> Schülerfachwahleingabe<br/>Kurse erstellen<br/>Blocken und Verteilen<br/>Umwählen<br/>Spezielles<br/>Ausdrucke
