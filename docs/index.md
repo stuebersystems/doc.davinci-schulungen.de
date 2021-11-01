@@ -10,7 +10,6 @@ Schulung|Präsenz|Online
 DAVINCI Intensivkurs D01|**X**|**X**
 DAVINCI Vertretungsplan D02|**X**|**X**
 DAVINCI Kursplan D03|**X**|**X**
-DAVINCI Ausdruck|-|**X**
 
 ## **Präsenzschulungen**
 
