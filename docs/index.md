@@ -7,9 +7,11 @@ Folgende Schulungsthemen bieten wir an:
 
 Schulung|Präsenz|Online
 --|:--:|:--:
-DAVINCI Intensivkurs D01|**X**|**X**
+DAVINCI Stundenplan D01|**X**|**X**
 DAVINCI Vertretungsplan D02|**X**|**X**
 DAVINCI Kursplan D03|**X**|**X**
+DAVINCI Administration D04|-|**X**
+Benutzerverwaltung für DAVINCI INFOSERVER D05|-|**X**
 
 ## **Präsenzschulungen**
 
@@ -21,7 +23,7 @@ Unsere Präsenzschulungen bieten wir bei uns im Hause oder auch bei Ihnen vor Or
 |:--|--|--|
 |2 Tage <br/> 09:30 – 11:00 Uhr<br/>11:15 – 12:45 Uhr<br/>13:30 - 15:00 Uhr|09:30 – 11:00 Uhr<br/>11:15 – 12:45 Uhr<br/>13:30 - 14:15 Uhr|09:30 – 11:00 Uhr<br/>11:15 – 12:45 Uhr|
 
-### DAVINCI Intensivkurs D01
+### DAVINCI Stundenplan D01
 
 |P-DAVINCI Intensivkurs D01|
 |:--|
@@ -104,4 +106,24 @@ Aktion|Hinweise
 |Zielgruppe: Kursplaner|
 |**Teil 1/1**|
 |Dauer: 120 Minuten|
+|Inhalte:<br/>- Einrichten und Verwalten von Benutzern, Mandanten und Plandateien über den DAVINCI EXPLORER, Sicherung über DAVINCI Servercontrol, PathDatei, Updates einspielen   |
+
+### DAVINCI Administration O-D04
+
+|**O-D04 DAVINCI Administration**|
+|:--|
+|Dauer:  1 Termin à 120 Minuten|
+|Zielgruppe: Administratoren|
+|**Teil 1/1**|
+|Dauer: 120 Minuten|
 |Inhalte:<br/>- Stammdaten, Schülerfachwahleingabe, Kurse erstellen, Blocken und Verteilen  |
+
+### Benutzerverwaltung für DAVINCI INFOSERVER O-D05
+
+|**O-D05 Benutzerverwaltung für DAVINCI INFOSERVER**|
+|:--|
+|Dauer:  1 Termin à 120 Minuten|
+|Zielgruppe: administrative Mitarbeiter<br>Ziel der Schulung ist die Plandateienstrutur und die Benutzerverwaltung optimal für den Einsatz des DAVINCI INFOSERVERs einzurichten.|
+|**Teil 1/1**|
+|Dauer: 120 Minuten|
+|Inhalte:<br/>- Übersicht über die Funktionsweise, Einstellungen in DAVINCI, Export und Import der Benutzer, Kennungen, Benutzergruppen, Plandateienstruktur, Rechtevergabe  |
