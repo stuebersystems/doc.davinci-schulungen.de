@@ -2,12 +2,6 @@
 
 Dieses Handout gibt Ihnen einen Kurzüberblick über die Schulungsinhalte der DAVINCI Kursplanschulung und noch einiges Wissenswertes mehr. Zu allen angesprochenen Themen wird hier das Wesentliche anhand einer Bildschirmabbildung und eines entsprechenden Textes erläutert. Eine umfangreichere Dokumentation zu DAVINCI bietet Ihnen das [Benutzerhandbuch](https://doc.davinci6.stueber.de).
 
-Hinweis|Bemerkung
---|--
-**Dauer:**|4 x 45 min
-**Themen:**|Stammdaten, Schülerfachwahleingabe, Kurse erstellen, Blocken und Verteilen, Umwählen, Spezielles, Ausdrucke
-**Zielgruppe:** |Oberstufenleiter
-
 ## Das Willkommen-Fenster
 
 Versammelt zentrale Funktionen und Informationen, die Ihnen den Einstieg in das Programm erleichtern.

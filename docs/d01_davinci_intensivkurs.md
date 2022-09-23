@@ -1,12 +1,6 @@
 # D01 DAVINCI Intensivkurs
 
-Dieses Handout gibt Ihnen einen Kurzüberblick über die Schulungsinhalte des DAVINCI Intensivkurs und noch einiges Wissenswertes mehr. Zu allen angesprochenen Themen wird hier das Wesentliche anhand einer Bildschirmabbildung und eines entsprechenden Textes erläutert. Eine umfangreichere Dokumentation zu DAVINCI bietet Ihnen das  [Benutzerhandbuch](https://doc.davinci6.stueber.de).
-
-Hinweis|Bemerkung
---|--
-**Dauer:**|12 x 45 min
-**Themen:**|**Neuen Plan erstellen:** Planvorbereitungsmanager, Stammdaten eingeben, **Unterrichtsverteilung erstellen:** Perioden zuweisen, Blöcke erstellen, Lehrereinsatz,Raumverplanung, **Stundenplan setzen:** manuelles und automatisches Planen, Übersichten, Druckformate editieren
-**Zielgruppe:** |Stundenplaner
+Dieses Handout gibt Ihnen einen Kurzüberblick über die Schulungsinhalte der DAVINCI Stundenplanschulung und noch einiges Wissenswertes mehr. Zu allen angesprochenen Themen wird hier das Wesentliche anhand einer Bildschirmabbildung und eines entsprechenden Textes erläutert. Eine umfangreichere Dokumentation zu DAVINCI bietet Ihnen das  [Benutzerhandbuch](https://doc.davinci6.stueber.de).
 
 ## Allgemein - Willkommen-Fenster
 

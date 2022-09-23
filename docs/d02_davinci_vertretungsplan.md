@@ -2,12 +2,6 @@
 
 Dieses Handout gibt Ihnen einen Kurzüberblick über die Schulungsinhalte der DAVINCI Vertretungsplanschulung und noch einiges Wissenswertes mehr. Zu allen angesprochenen Themen wird hier das Wesentliche anhand einer Bildschirmabbildung und eines entsprechenden Textes erläutert. Eine umfangreichere Dokumentation zu DAVINCI bietet Ihnen das [Benutzerhandbuch](https://doc.davinci6.stueber.de).
 
-Hinweis|Bemerkung
---|--
-**Dauer:**|5 x 45 min
-**Themen:**|Änderungszeiten, Vertretungen erstellen, Vorziehen/Verschieben/Vertauschen, Statistiken, Vertretungspläne drucken
-**Zielgruppe:** |Vertretungsplaner/innen
-
 ## Allgemein
 
 ### Das Willkommen-Fenster
