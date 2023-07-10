@@ -4,6 +4,10 @@
 
 Dieses Handout gibt Ihnen einen Kurzüberblick über die Schulungsinhalte der DAVINCI Administrationschulung und noch einiges Wissenswertes mehr. Zu allen angesprochenen Themen wird hier das Wesentliche anhand einer Bildschirmabbildung und eines entsprechenden Textes erläutert. Eine umfangreichere Dokumentation zu DAVINCI bietet Ihnen das  [Benutzerhandbuch](https://doc.davinci6.stueber.de).
 
+## Installation
+
+
+
 ## Client Server Einrichtung
 
 ## Benutzer
@@ -18,6 +22,8 @@ Kennwörter erzeugen im DAVINCI Explorer und exportieren aus dem DAVINCI Explore
 
 Benutzergruppe einzelne Mitglieder zuweisen im DAVINCI Explorer Registerkarte Benutzergruppen Start > hinzufügen
 
+## Mandanten
+
 ## Plandateien
 
 Planordner anlegen im DAVINCI Explorer Registerkarte Plandateien Planordner > Hinzufügen
@@ -25,3 +31,14 @@ Planordner anlegen im DAVINCI Explorer Registerkarte Plandateien Planordner > Hi
 Plan hinzufügen im DAVINCI Explorer Registerkarte Plandateien Plandateien > Hinzufügen
 
 Plan hochladen im DAVINCI Explorer Registerkarte Plandateien Plandateien > Hochladen
+
+## DAVINCI Servercontrol
+
+Registerkarte "Backups"
+
+Hier können Sie angeben, ob eine tägliche Sicherungskoprie der aktuellen Plandatei erstellt werden soll. Mit jeder Neuinstallation des DAVINCI Server ist diese Option aktiviert.
+
+
+## PathDatei
+
+## Updates einspielen 
