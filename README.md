@@ -1,6 +1,6 @@
 ![Deployment status](https://vsrm.dev.azure.com/stuebersystems/_apis/public/Release/badge/2cc87afa-9a3b-472b-8a3c-3eca48b22dd6/11/12)
 
-# DAVINCI 6 Schulungsunterlagen
+# DAVINCI Schulungsunterlagen
 
 Dies sind die Schulungsunterlagen für [DAVINCI](https://davinci.stueber.de). Die Dokumentation ist Open Source und wir haben sie mit [MkDocs](https://www.mkdocs.org) und [Material for MkDocs](https://squidfunk.github.io/mkdocs-material) realisiert.
 
@@ -14,7 +14,7 @@ Dies sind die Schulungsunterlagen für [DAVINCI](https://davinci.stueber.de). Di
 
 4. Tippe die Befehle `python --version` und `pip --version` ein, um die Python-Installation zu überprüfen. In beiden Fällen sollte eine Versionsnummer als Ausgabe in der Eingabeaufforderung erscheinen.
 
-5. Tippe jetzt den Befehl `pip install mkdocs mkdocs-material`, um das Python-Package *MkDocs* und das Theme *Material for MkDocs* zu installieren.
+5. Tippe jetzt den Befehl `pip install mkdocs mkdocs-material mkdocs-minify-plugin`, um das Python-Package *MkDocs* und das Theme *Material for MkDocs* zu installieren.
 
 6. Ein letzter Test: Tippe den Befehl `mkdocs --version` ein. Eine Versionsnummer in der Eingabeaufforderung zeigt Dir erneut, dass alles korrekt installiert wurde.
 
