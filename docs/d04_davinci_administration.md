@@ -60,6 +60,29 @@ Die Deinstallation der DAVINCI Module starten Sie über den entsprechenden Aufru
 
 ## Updates einspielen 
 
+Wir veröffentlichen neue Funktionen per Serviceupdates. Diese Updates müssen auf den Rechnern in Ihrem Netzwerk eingespielt werden. Nachstehend werden die Schritte dazu beschrieben.
+
+Bitte aktualisieren Sie immer als erstes Ihren Serverrechner, anschließend alle Arbeitsplatzrechner! Sie können die aktuellen [msi-Pakete](https://davinci.stueber.de/download.php) von unserer Webseite herunterladen und direkt per Doppelklick starten oder dazu ein Tool zur Softwareverteilung nutzen.
+
+### Die Update-Infodatei
+
+Jedes Installationspaket eines DAVINCI Moduls besitzt eine korrespondierende Update-Infodatei. Dies ist eine kleine XML-Datei, die es DAVINCI ermöglicht, eine neuere Version automatisch zu erkennen, herunterzuladen und zu installieren. Update-Infodateien besitzen die Dateiendung `.UPDATEINFO`.
+
+Die Update-Infodateien für DAVINCI finden Sie hier: [Update-Infodatei für DAVINCI](https://download.stueber.de/bin/de/davinci/v6/davinci6.updateinfo)
+[Update-Infodatei für DAVINCI LOOK](https://download.stueber.de/bin/de/davinci/v6/davinci6look.updateinfo)
+[Update-Infodatei für DAVINCI SERVER](https://download.stueber.de/bin/de/davinci/v6/davinci6server.updateinfo)
+[Update-Infodatei für DAVINCI INFOSERVER](https://download.stueber.de/bin/de/davinci/v6/davinci6infoserver.updateinfo)
+
+Sie können die DAVINCI so anpassen, dass aktuelle Updates nicht von unseren Internetseiten, sondern von einem Netzwerkpfad Ihres Netzwerks bezogen werden.
+
+### Lokales Ablegen des Setups
+
+Laden Sie dazu die Installationspakete von unseren Internetseiten herunter, und legen Sie dieseszentral in einem für jeden Nutzer erreichbaren Ordner des Netzwerks ab. Laden Sie anschließend die zur Verfügung stehenden Update-Infodateien von unserer Internetseite und legen diese in den selben Ordner. Öffnen Sie die Datei mit einem einfachen Textbearbeitungsprogramm (z.B. Windows Notepad) und passen Sie den Pfad des Installationspaketes an, indem Sie den FTP-Pfad gegen Ihren Netzwerkpfad austauschen.
+
+### Anpassen der Clients
+
+Damit DAVINCI weiß, dass es nicht auf unseren Internetseiten sondern in Ihrem Netzwerk nach neuen Updates suchen soll, müssen Sie bei allen Clients in DAVINCI unter `Extras > Optionen > Auto-Update` den Pfad zu Ihrer Update-Infodatei eintragen.
+
 ## Client Server Einrichtung
 
 ## Benutzerverwaltung
@@ -74,7 +97,7 @@ Kennwörter erzeugen im DAVINCI Explorer und exportieren aus dem DAVINCI Explore
 
 Benutzergruppe einzelne Mitglieder zuweisen im DAVINCI Explorer Registerkarte Benutzergruppen Start > hinzufügen
 
-## Mandanten
+### Mandanten
 
 ## Plandateien
 
