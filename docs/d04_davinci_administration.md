@@ -68,16 +68,16 @@ Bitte aktualisieren Sie immer als erstes Ihren Serverrechner, anschließend alle
 
 Jedes Installationspaket eines DAVINCI Moduls besitzt eine korrespondierende Update-Infodatei. Dies ist eine kleine XML-Datei, die es DAVINCI ermöglicht, eine neuere Version automatisch zu erkennen, herunterzuladen und zu installieren. Update-Infodateien besitzen die Dateiendung `.UPDATEINFO`.
 
-Die Update-Infodateien für DAVINCI finden Sie hier: [Update-Infodatei für DAVINCI](https://download.stueber.de/bin/de/davinci/v6/davinci6.updateinfo)
-[Update-Infodatei für DAVINCI LOOK](https://download.stueber.de/bin/de/davinci/v6/davinci6look.updateinfo)
-[Update-Infodatei für DAVINCI SERVER](https://download.stueber.de/bin/de/davinci/v6/davinci6server.updateinfo)
+Die Update-Infodateien für DAVINCI finden Sie hier: [Update-Infodatei für DAVINCI](https://download.stueber.de/bin/de/davinci/v6/davinci6.updateinfo)<br>
+[Update-Infodatei für DAVINCI LOOK](https://download.stueber.de/bin/de/davinci/v6/davinci6look.updateinfo)<br>
+[Update-Infodatei für DAVINCI SERVER](https://download.stueber.de/bin/de/davinci/v6/davinci6server.updateinfo)<br>
 [Update-Infodatei für DAVINCI INFOSERVER](https://download.stueber.de/bin/de/davinci/v6/davinci6infoserver.updateinfo)
 
-Sie können die DAVINCI so anpassen, dass aktuelle Updates nicht von unseren Internetseiten, sondern von einem Netzwerkpfad Ihres Netzwerks bezogen werden.
+Sie können DAVINCI so anpassen, dass aktuelle Updates nicht von unseren Internetseiten, sondern von einem Netzwerkpfad Ihres Netzwerks bezogen werden.
 
 ### Lokales Ablegen des Setups
 
-Laden Sie dazu die Installationspakete von unseren Internetseiten herunter, und legen Sie dieseszentral in einem für jeden Nutzer erreichbaren Ordner des Netzwerks ab. Laden Sie anschließend die zur Verfügung stehenden Update-Infodateien von unserer Internetseite und legen diese in den selben Ordner. Öffnen Sie die Datei mit einem einfachen Textbearbeitungsprogramm (z.B. Windows Notepad) und passen Sie den Pfad des Installationspaketes an, indem Sie den FTP-Pfad gegen Ihren Netzwerkpfad austauschen.
+Laden Sie dazu die Installationspakete von unseren Internetseiten herunter, und legen Sie dieses zentral in einem für jeden Nutzer erreichbaren Ordner des Netzwerks ab. Laden Sie anschließend die zur Verfügung stehenden Update-Infodateien von unserer Internetseite und legen diese in den selben Ordner. Öffnen Sie die Datei mit einem einfachen Textbearbeitungsprogramm (z.B. Windows Notepad) und passen Sie den Pfad des Installationspaketes an, indem Sie den FTP-Pfad gegen Ihren Netzwerkpfad austauschen.
 
 ### Anpassen der Clients
 
