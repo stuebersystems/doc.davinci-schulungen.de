@@ -1,6 +1,6 @@
-# D03 DAVINCI KURSPLAN Schulung
+# D03 DaVinci Kursplan Schulung
 
-Dieses Handout gibt Ihnen einen Kurzüberblick über die Schulungsinhalte der DAVINCI Kursplanschulung und noch einiges Wissenswertes mehr. Zu allen angesprochenen Themen wird hier das Wesentliche anhand einer Bildschirmabbildung und eines entsprechenden Textes erläutert. Eine umfangreichere Dokumentation zu DAVINCI bietet Ihnen das [Benutzerhandbuch](https://doc.davinci6.stueber.de).
+Dieses Handout gibt Ihnen einen Kurzüberblick über die Schulungsinhalte der DaVinci Kursplanschulung und noch einiges Wissenswertes mehr. Zu allen angesprochenen Themen wird hier das Wesentliche anhand einer Bildschirmabbildung und eines entsprechenden Textes erläutert. Eine umfangreichere Dokumentation zu DaVinci bietet Ihnen das [Benutzerhandbuch](https://doc.davinci6.stueber.de).
 
 Hinweis|Bemerkung
 --|--
@@ -14,7 +14,7 @@ Versammelt zentrale Funktionen und Informationen, die Ihnen den Einstieg in das 
 
 ![Willkommensfenster](/assets/images/imagesKP/kp_willkommen.png)
 
-## Die DAVINCI Optionen
+## Die DaVinci Optionen
 
 `Extras > Optionen > Plandatei`
 
@@ -27,7 +27,7 @@ Versammelt zentrale Funktionen und Informationen, die Ihnen den Einstieg in das 
 **Einstellung für lokalen Betrieb:**
 
 * Die Option „Sicherungskopie der Datei anlegen“ ist standardmäßig markiert. Es wird von der aktuell geladenen Datei eine Kopie angelegt.
-* Wenn Sie eine automatische Sicherung nach einem bestimmten Zeitintervall wählen, müssen Sie nicht manuell speichern, sondern DAVINCI führt jeweils nach Ablauf des Zeitintervalls eine Speicherung durch.
+* Wenn Sie eine automatische Sicherung nach einem bestimmten Zeitintervall wählen, müssen Sie nicht manuell speichern, sondern DaVinci führt jeweils nach Ablauf des Zeitintervalls eine Speicherung durch.
 
 ## Stammdaten-Fenster
 
@@ -38,8 +38,8 @@ Versammelt zentrale Funktionen und Informationen, die Ihnen den Einstieg in das 
 ![Stammdatenfenster > Klassen](/assets/images/imagesKP/kp_stammdaten.klassen.png)
 
 * Spalte **Skript** - zur Prüfung der Fachwahl
-* DAVINCI wird mit Fachwahlskripten für verschiedene Bundesländer und Schularten ausgeliefert
-* Spalte **Modus** - Stellen Sie hier „Kurse“ ein, damit Ihnen nur diese Klassen im Bereich `KURSPLAN` angezeigt werden
+* DaVinci wird mit Fachwahlskripten für verschiedene Bundesländer und Schularten ausgeliefert
+* Spalte **Modus** - Stellen Sie hier „Kurse“ ein, damit Ihnen nur diese Klassen im Bereich `Kursplan` angezeigt werden
 
 ### Schüler eingeben
 
@@ -51,7 +51,7 @@ Versammelt zentrale Funktionen und Informationen, die Ihnen den Einstieg in das 
 
 ![Bereich Kursplan > Schüler](/assets/images/imagesKP/kp_schueler.png)
 
-* Beim Einsatz von MAGELLAN können Schüler auch über `Plan > Importieren und Exportieren` aus MAGELLAN übertragen werden
+* Beim Einsatz von Magellan können Schüler auch über `Plan > Importieren und Exportieren` aus Magellan übertragen werden
 
 ![Plan, Importieren/Exportieren](/assets/images/imagesKP/kp_plan.importieren.exportieren.png)
 
@@ -192,7 +192,7 @@ Versammelt zentrale Funktionen und Informationen, die Ihnen den Einstieg in das 
 ### Schüler manuell Kurs zuweisen
 
 * Alternative zur Automatik
-* Farbeinstellungen für die Kurse werden getroffen in `DAVINCI-Optionen > Farben > Kursplan`
+* Farbeinstellungen für die Kurse werden getroffen in `DaVinci-Optionen > Farben > Kursplan`
 * markieren Sie den entsprechenden Kurs in der Schülerliste und öffnen Sie das Detailfenster **Passende Kurse** und dann „Kurs zuweisen“
 
 ![Optionen, Farben](/assets/images/imagesKP/kp_optionen.farben.png)

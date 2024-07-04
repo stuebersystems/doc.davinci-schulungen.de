@@ -1,12 +1,12 @@
-# D01 DAVINCI Stundenplan
+# D01 DaVinci Stundenplan
 
-Dieses Handout gibt Ihnen einen Kurzüberblick über die Schulungsinhalte der DAVINCI Stundenplanschulung und noch einiges Wissenswertes mehr. Zu allen angesprochenen Themen wird hier das Wesentliche anhand einer Bildschirmabbildung und eines entsprechenden Textes erläutert. Eine umfangreichere Dokumentation zu DAVINCI bietet Ihnen das  [Benutzerhandbuch](https://doc.davinci6.stueber.de).
+Dieses Handout gibt Ihnen einen Kurzüberblick über die Schulungsinhalte der DaVinci Stundenplanschulung und noch einiges Wissenswertes mehr. Zu allen angesprochenen Themen wird hier das Wesentliche anhand einer Bildschirmabbildung und eines entsprechenden Textes erläutert. Eine umfangreichere Dokumentation zu DaVinci bietet Ihnen das  [Benutzerhandbuch](https://doc.davinci6.stueber.de).
 
 ## Allgemein - Willkommen-Fenster
 
 * Zugriff auf die verschiedenen Programmbereiche: Stammdaten, Kalender, Stundenplan (Navigationsleiste links)
-* Beispieldateien: Schnellstartfläche zum Öffnen der Beispieldateien (öffnet den Windows-Explorer …\Documents\Stueber Systems\DAVINCI 6\Beispiele)
-* Nachrichten: Neuigkeiten zu DAVINCI
+* Beispieldateien: Schnellstartfläche zum Öffnen der Beispieldateien (öffnet den Windows-Explorer …\Documents\Stueber Systems\DaVinci 6\Beispiele)
+* Nachrichten: Neuigkeiten zu DaVinci
 
 ![Willkommensfenster](/assets/images/willk.png)
 
@@ -20,14 +20,14 @@ Hier stehen Ihnen drei Wege zur Auswahl:
 
 ### Neuen leeren Plan erstellen (für Neueinsteiger)
 
-Wenn Sie zum ersten Mal mit DAVINCI einen Plan erstellen bzw. keine Plandaten zum übernehmen haben, wählen Sie `Neuen leeren Plan erstellen` aus. Klicken Sie auf `Weiter`.
+Wenn Sie zum ersten Mal mit DaVinci einen Plan erstellen bzw. keine Plandaten zum übernehmen haben, wählen Sie `Neuen leeren Plan erstellen` aus. Klicken Sie auf `Weiter`.
 Ein weiteres Fenster mit einer Liste öffnet sich, nach diesen Punkten bereiten Sie Ihre neue Stundenplandatei vor:
 
 ![Planvorbereitungsassistent ](/assets/images/SP.001.png)
 
 ### Neuen Plan erstellen und Daten übernehmen
 
-Schulen, die bereits auf eine Vorjahresdatei von DAVINCI zurückgreifen können und daraus Daten übernehmen möchten, wählen `Neuen Plan erstellen und Daten übernehmen`. Geben Sie an, aus welchem Plan Sie die Daten übernehmen möchten und klicken Sie auf `Weiter`. Folgendes Fenster wird geöffnet:
+Schulen, die bereits auf eine Vorjahresdatei von DaVinci zurückgreifen können und daraus Daten übernehmen möchten, wählen `Neuen Plan erstellen und Daten übernehmen`. Geben Sie an, aus welchem Plan Sie die Daten übernehmen möchten und klicken Sie auf `Weiter`. Folgendes Fenster wird geöffnet:
 
 ![Planvorbereitungsassistent](/assets/images/Sp.003.png)
 
@@ -73,7 +73,7 @@ Die Option `Mit Wertfaktoren (aus Stundentafel, Fach, Klasse, Veranstaltung)` be
 
 ### 2. Kalenderdaten importieren
 
-Importieren Sie Ferien- und Feiertage in Ihre DAVINCI Datei. Laden Sie dazu den mit der Installation mitgelieferten Kalender für Ihr Bundesland:
+Importieren Sie Ferien- und Feiertage in Ihre DaVinci Datei. Laden Sie dazu den mit der Installation mitgelieferten Kalender für Ihr Bundesland:
 `…:\Users\Public\Documents\Stueber Systems\daVinci 6\Kalender`
 
 ![Kalender importieren ](/assets/images/SP.007.png)
@@ -84,7 +84,7 @@ Importieren Sie Ferien- und Feiertage in Ihre DAVINCI Datei. Laden Sie dazu den 
 
 ### 3. Zeitrahmen einstellen
 
-Sie gelangen in das `Zeitrahmen`-Fenster. DAVINCI bietet Ihnen standardmäßig zwei Zeitrahmen an: `Standard` (Hauptzeitrahmen) und `Aufsichten` (Zeitrahmen für Ihre Aufsichtspläne).
+Sie gelangen in das `Zeitrahmen`-Fenster. DaVinci bietet Ihnen standardmäßig zwei Zeitrahmen an: `Standard` (Hauptzeitrahmen) und `Aufsichten` (Zeitrahmen für Ihre Aufsichtspläne).
 
 ![Zeitrahmen ](/assets/images/SP.008.png)
 
@@ -158,7 +158,7 @@ Neben dem Standard- und Aufsichtenzeitrahmen können Sie weitere Zeitrahmen anle
 
 Haben Sie Schritt 1-3 umgesetzt, klicken Sie auf `Fertig`, um das Stammdatenfenster aufzurufen.
 
-DAVINCI schließt den Planvorbereitungsassistent und öffnet automatisch den Bereich "Stammdaten".
+DaVinci schließt den Planvorbereitungsassistent und öffnet automatisch den Bereich "Stammdaten".
 
 Im Stammdatenfenster geben Sie Ihre Stammdaten wie Räume, Lehrer, Klassen, Stundentafeln usw. ein. 
 
@@ -197,7 +197,7 @@ Erfassen Sie hier alle Räume, die für die Unterrichtsplanung zur Verfügung st
 
 Spalte | Bedeutung
 -|-
-Lehrer | Eingabe des Raumbetreuers, kann in den Ausdruck übergeben werden und wird in DAVINCI LOOK angezeigt
+Lehrer | Eingabe des Raumbetreuers, kann in den Ausdruck übergeben werden und wird in DaVinci LOOK angezeigt
 Kapazität | kann bei der Raumzuweisung als Filterkriterium genutzt werden
 
 ![Stammdaten Räume](/assets/images/image70.png)
@@ -278,15 +278,15 @@ Erfassen Sie hier alle Klassen, die Sie an der Schule unterrichten.
 
 #### Einstellungsmöglichkeiten für die Anzeige der Stammdaten
 
-Über `Extras > Optionen` gelangen Sie zu den DAVINCI Optionen.
+Über `Extras > Optionen` gelangen Sie zu den DaVinci Optionen.
 
-![`DAVINCI Optionen > Einstellungen`](/assets/images/opt_einstellungen.png)
+![`DaVinci Optionen > Einstellungen`](/assets/images/opt_einstellungen.png)
 
 `Extras > Optionen > Einstellungen`
 
 Hier können Sie für das Stammdatenfenster die Option „Im Bearbeiten-Modus“ ausschalten, dann befindet sich das Stammdatenfenster beim Öffnen nicht im Editiermodus und versehentliches Überschreiben von Einträgen wird verhindert
 
-![DAVINCI Optionen|Ansicht](/assets/images/opt_ansicht.png)
+![DaVinci Optionen|Ansicht](/assets/images/opt_ansicht.png)
 
 `Extras > Optionen > Ansicht`
 
@@ -551,7 +551,7 @@ Im Dialogfenster „Drucken“ wählen Sie die Planart, die Einzelpläne, den Ze
 
 ![Drucken-Fenster](/assets/images/sp.029.png)
 
-Für den Ausdruck in DAVINCI stehen folgende Planarten zur Verfügung:
+Für den Ausdruck in DaVinci stehen folgende Planarten zur Verfügung:
 
 * Klassenpläne
 * Lehrerpläne
@@ -610,9 +610,9 @@ Sie können Bezeichnungen umbenennen. Diese Umbenennung wird an verschiedenen St
 
 ![Plan-Eigenschaften|Bezeichnungen](/assets/images/sp.032.png)
 
-### DAVINCI Optionen
+### DaVinci Optionen
 
-Über `Extras > Optionen` gelangen Sie zu den DAVINCI Optionen.
+Über `Extras > Optionen` gelangen Sie zu den DaVinci Optionen.
 
 `Extras > Optionen > Meine Daten`
 

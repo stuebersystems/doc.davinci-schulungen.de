@@ -1,26 +1,26 @@
-# D02 DAVINCI VERTRETUNGSPLAN Schulung
+# D02 DaVinci Vertretungsplan Schulung
 
-Dieses Handout gibt Ihnen einen Kurzüberblick über die Schulungsinhalte der DAVINCI Vertretungsplanschulung und noch einiges Wissenswertes mehr. Zu allen angesprochenen Themen wird hier das Wesentliche anhand einer Bildschirmabbildung und eines entsprechenden Textes erläutert. Eine umfangreichere Dokumentation zu DAVINCI bietet Ihnen das [Benutzerhandbuch](https://doc.davinci6.stueber.de).
+Dieses Handout gibt Ihnen einen Kurzüberblick über die Schulungsinhalte der DaVinci Vertretungsplanschulung und noch einiges Wissenswertes mehr. Zu allen angesprochenen Themen wird hier das Wesentliche anhand einer Bildschirmabbildung und eines entsprechenden Textes erläutert. Eine umfangreichere Dokumentation zu DaVinci bietet Ihnen das [Benutzerhandbuch](https://doc.davinci6.stueber.de).
 
 ## Allgemein
 
 ### Das Willkommen-Fenster
 
 Versammelt zentrale Funktionen und Informationen, die Ihnen den Einstieg in das Programm erleichtern.
-Allgemein gilt: Die Voraussetzung, um mit DAVINCI VERTRETUNGSPLAN arbeiten zu können, ist immer ein bereits gesetzter Stundenplan.
+Allgemein gilt: Die Voraussetzung, um mit DaVinci Vertretungsplan arbeiten zu können, ist immer ein bereits gesetzter Stundenplan.
 
 ![Willkommensfenster](/assets/images/willk.png)
 
-### Die DAVINCI Optionen
+### Die DaVinci Optionen
 
 Über den Menüpunkt `Extras > Verwalten > Optionen` gelangen Sie zu den Optionen für die Plandateien.
 
-![DAVINCI-Optionen](/assets/images/vp01.png)
+![DaVinci-Optionen](/assets/images/vp01.png)
 
 1. **Startdatei:** Wenn Sie eine Startdatei eintragen, wird diese bei einem erneuten Programmaufruf geladen.
 2. **Einstellung für lokalen Betrieb**
    1. Die Option Sicherungskopie der Datei anlegen ist standardmäßig markiert. Es wird von der aktuell geladenen Datei eine Kopie angelegt.
-   2. Wenn Sie eine automatische Sicherung nach einem bestimmten Zeitintervall wählen, müssen Sie nicht manuell speichern, sondern DAVINCI führt jeweils nach Ablauf des Zeitintervalls eine Speicherung durch.
+   2. Wenn Sie eine automatische Sicherung nach einem bestimmten Zeitintervall wählen, müssen Sie nicht manuell speichern, sondern DaVinci führt jeweils nach Ablauf des Zeitintervalls eine Speicherung durch.
 
 ## Bereich „Fehlzeiten“
 
@@ -34,7 +34,7 @@ Im Bereich „Fehlzeiten“, Register „Start“ können Sie über die Menügru
 
 * Hier erfassen Sie fehlende Lehrer, Klassen und Räume
 * Entsprechend der Markierung im rechten Fenster, wird links der jeweilige Plan angezeigt
-* Die Symbole entsprechen den Symbolen in DAVINCI Stundenplan
+* Die Symbole entsprechen den Symbolen in DaVinci Stundenplan
 
 ![Bereich "Fehlzeiten", Ansicht "Plan und Zeitplan" ](/assets/images/images VP/vp_fehlzeiten_erfassen.png)
 
@@ -155,7 +155,7 @@ Sie können entscheiden, ob Sie einen direkten Lehrer (dieser hat zum Vertretung
 ![Vertretungseinstellungen - Eignungsfaktoren](/assets/images/images VP/vp_vertretungseinstellungen02.png)
 
 * In den Vertretungseinstellungen legen Sie fest, welches Gewicht verschiedene Faktoren für die Eignung eines Vertreters erhalten sollen.
-* Aus dieser Gewichtung ermittelt DAVINCI einen Eignungsfaktor für jeden möglichen Vertreter.
+* Aus dieser Gewichtung ermittelt DaVinci einen Eignungsfaktor für jeden möglichen Vertreter.
 * Nach der Höhe des Eignungsfaktors ist die Liste der möglichen Vertreter standardmäßig sortiert.
 
 ### Direkte Vertreter
@@ -218,7 +218,7 @@ Sie können entscheiden, ob Sie einen direkten Lehrer (dieser hat zum Vertretung
 
 #### Vertretungsautomatik
 
-* Über `Vertretungen > Start > Automatik` starten können Sie die offenen Lehrervertretungen automatisch von DAVINCI erstellen lassen.
+* Über `Vertretungen > Start > Automatik` starten können Sie die offenen Lehrervertretungen automatisch von DaVinci erstellen lassen.
 * Die Automatik weist dabei jeweils den Vertreter zu, der gemäß den aktuellen Vertretungseinstellungen den höchsten Eignungsfaktor aufweist.
 
 ![Vertretungsautomatik](/assets/images/images VP/vp_automatik.png)
@@ -342,7 +342,7 @@ In den Lehrer-, Klassen- und Raumplänen können Sie Stunden verschieben oder ve
 
 ## Ausdruck
 
-* Über `Publizieren > Drucken` können Sie nun Ihre Vertretungspläne drucken. Wählen Sie unter Auswahl aus, welchen VERTRETUNGSPLAN Sie drucken wollen.
+* Über `Publizieren > Drucken` können Sie nun Ihre Vertretungspläne drucken. Wählen Sie unter Auswahl aus, welchen Vertretungsplan Sie drucken wollen.
 * Entsprechend dieser Auswahl wählen Sie Lehrer, Klasse oder Räume, einen entsprechenden Zeitraum und ein Druckformat aus.
 
 ![Ausdruck](/assets/images/images VP/vp_ausdruck.png)
@@ -386,11 +386,11 @@ In den Lehrer-, Klassen- und Raumplänen können Sie Stunden verschieben oder ve
 
 ### Änderungen freigeben
 
-* Unter `Plan > Eigenschaften > Datenschutz` kann die Option **Änderungen freigeben** aktiviert werden. Für DAVINCI und für LOOK kann ebenfalls eingestellt werden, ob die Fehlgründe für Abwesenheiten gezeigt werden sollen.
+* Unter `Plan > Eigenschaften > Datenschutz` kann die Option **Änderungen freigeben** aktiviert werden. Für DaVinci und für LOOK kann ebenfalls eingestellt werden, ob die Fehlgründe für Abwesenheiten gezeigt werden sollen.
 
 ![Plan-Eigenschaften, Datenschutz](/assets/images/images VP/vp_eigenschaften.datenschutz.png)
 
-Dadurch kann nun das explizite Freigeben von Änderungen im lokalen wie im Servermodus gewählt werden. Wird der Haken vor **Änderungen freigeben** gesetzt, müssen die Änderungen im VERTRETUNGSPLAN über `Änderungen freigeben` freigegeben werden, damit Sie auch für alle sichtbar sind.
+Dadurch kann nun das explizite Freigeben von Änderungen im lokalen wie im Servermodus gewählt werden. Wird der Haken vor **Änderungen freigeben** gesetzt, müssen die Änderungen im Vertretungsplan über `Änderungen freigeben` freigegeben werden, damit Sie auch für alle sichtbar sind.
 
 ![Publizieren, Änderungen freigeben](/assets/images/images VP/vp_publizieren.aenderungen.freigeben.png)
 
@@ -405,11 +405,11 @@ Dadurch kann nun das explizite Freigeben von Änderungen im lokalen wie im Serve
 
 ### Anzeige der Vertretungsinformationen im Stundenplan
 
-* In DAVINCI Stundenplan können Sie unter `Extras > Optionen > Stundenplan` einstellen, dass die Vertretungsinfos im Stundenplan angezeigt werden sollen.
+* In DaVinci Stundenplan können Sie unter `Extras > Optionen > Stundenplan` einstellen, dass die Vertretungsinfos im Stundenplan angezeigt werden sollen.
 
-![DAVINCI-Optionen, Stundenplan](/assets/images/images VP/vp_opt_stundenplan.png)
+![DaVinci-Optionen, Stundenplan](/assets/images/images VP/vp_opt_stundenplan.png)
 
-* Die Vertretungsinformationen werden nun in der aktuellen Woche im Stundenplanbereich angezeigt. Sie erscheinen auch in DAVINCI LOOK.
+* Die Vertretungsinformationen werden nun in der aktuellen Woche im Stundenplanbereich angezeigt. Sie erscheinen auch in DaVinci LOOK.
 
 ### Weitere Vertretungseinstellungen
 
@@ -417,10 +417,10 @@ Dadurch kann nun das explizite Freigeben von Änderungen im lokalen wie im Serve
 
 ![Vertretungseinstellungen, Register "Anzeigen"](/assets/images/images VP/vp_vertretungseinstellungen.anzeigen.png)
 
-### Weitere DAVINCI Optionen
+### Weitere DaVinci Optionen
 
-in den DAVINCI Optionen `Extras > Optionen|Vertretungsplan`
+in den DaVinci Optionen `Extras > Optionen|Vertretungsplan`
 
 * Möglichkeit, für das Eintragen von Fehlzeiten **Infos,** **Mitteilungen** und **Bemerkungen** vorzudefinieren, aus denen man später auswählen kann
 
-![DAVINCI-Optionen, Vertretungsplan](/assets/images/images VP/vp_opt_vertretungsplan.png)
+![DaVinci-Optionen, Vertretungsplan](/assets/images/images VP/vp_opt_vertretungsplan.png)

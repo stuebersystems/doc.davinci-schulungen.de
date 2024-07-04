@@ -1,6 +1,6 @@
 # Project information
-site_name: DAVINCI Schulungsunterlagen
-site_description: 'DAVINCI Schulungsunterlagen'
+site_name: DaVinci Schulungsunterlagen
+site_description: 'DaVinci Schulungsunterlagen'
 site_author: 'STÜBER SYSTEMS GmbH'
 site_url: 'https://doc.davinci-schulungen.stueber.de'
 
@@ -91,8 +91,8 @@ markdown_extensions:
 # Navigation  
 nav:
 - Überblick: index.md
-- D01 DAVINCI Stundenplan: d01_davinci_intensivkurs.md
-- D02 DAVINCI Vertretungsplan: d02_davinci_vertretungsplan.md
-- D03 DAVINCI Kursplan: d03_davinci_kursplan_schulung.md
-- D04 DAVINCI Administration: d04_davinci_administration.md
-- D05 Benutzerverwaltung für DAVINCI INFOSERVER: d05_benutzung_infoserver.md
+- D01 DaVinci Stundenplan: d01_davinci_intensivkurs.md
+- D02 DaVinci Vertretungsplan: d02_davinci_vertretungsplan.md
+- D03 DaVinci Kursplan: d03_davinci_kursplan_schulung.md
+- D04 DaVinci Administration: d04_davinci_administration.md
+- D05 Benutzerverwaltung für DaVinci Infoserver: d05_benutzung_infoserver.md
