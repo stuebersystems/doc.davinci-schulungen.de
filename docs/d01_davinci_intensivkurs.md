@@ -527,7 +527,7 @@ Hier können Sie die erstellten Veranstaltungen sowohl erzeugen, als auch bearbe
 
 Im Programmbereich „Aufsichten können Sie für die im Aufsichtszeitrahmen erstellten Aufsichtspositionen in jedem Bereich Aufsichtslehrer zuweisen. Den Aufsichtsbereichsplan können Sie entweder für alle Wochen oder für jede Woche einzeln erstellen
 
-![!Aufsichtsplan](/assets/images/Aufsichtsplan.png)
+![!Aufsichtsplan](/assets/images/aufsichtsplan.png)
 
 ## Übersichten
 
@@ -549,7 +549,7 @@ Die Übersicht „Veranstaltungen“ zeigt eine Liste aller Veranstaltungen und 
 
 Im Dialogfenster „Drucken“ wählen Sie die Planart, die Einzelpläne, den Zeitraum und das Druckformat fest, für die der Ausdruck erfolgen soll.
 
-![Drucken-Fenster](/assets/images/sp.029.png)
+![Drucken-Fenster](/assets/images/SP.029.png)
 
 Für den Ausdruck in DaVinci stehen folgende Planarten zur Verfügung:
 
@@ -559,7 +559,7 @@ Für den Ausdruck in DaVinci stehen folgende Planarten zur Verfügung:
 * Fachpläne
 * Aufsichtspläne usw.
 
-![Drucken-Fenster](/assets/images/sp.030.png)
+![Drucken-Fenster](/assets/images/SP.030.png)
 
 Für jede Planart stehen jeweils Standard-Druckformate zur Auswahl:
 
@@ -568,7 +568,7 @@ Plan | Anzeige
 Einzelplan | hier wird das Stundenraster eines einzelnen Vertreters der Planart dargestellt
 Gesamtplan | hier werden die Termine mehrerer Vertreter einer Planart in einem gemeinsamen Stundenraster dargestellt
 
-![Drucken-Fenster](/assets/images/sp.031.png)
+![Drucken-Fenster](/assets/images/SP.031.png)
 
 Aus den Standard-Druckformaten können Sie Ihre eigenen individuellen Druckformate generieren.
 
@@ -608,7 +608,7 @@ Sie können Bezeichnungen umbenennen. Diese Umbenennung wird an verschiedenen St
 
 `Plan > Eigenschaften > Bezeichnungen`
 
-![Plan-Eigenschaften|Bezeichnungen](/assets/images/sp.032.png)
+![Plan-Eigenschaften|Bezeichnungen](/assets/images/SP.032.png)
 
 ### DaVinci Optionen
 
@@ -620,15 +620,15 @@ Sie können Bezeichnungen umbenennen. Diese Umbenennung wird an verschiedenen St
 
 `Extras > Optionen > Plandatei`
 
-![Plandatei](/assets/images/Opt_Plandatei.png)
+![Plandatei](/assets/images/opt_plandatei.png)
 
 `Extras > Optionen > Einstellungen`
 
-![Einstellungen](/assets/images/Opt_Einstellungen.png)
+![Einstellungen](/assets/images/opt_einstellungen.png)
 
 `Extras > Optionen > Ansicht`
 
-![Ansicht](/assets/images/Opt_Ansicht.png)
+![Ansicht](/assets/images/opt_ansicht.png)
 
 `Extras > Optionen > Plananzeige`
 
@@ -638,7 +638,7 @@ Sie können Bezeichnungen umbenennen. Diese Umbenennung wird an verschiedenen St
 
 An dieser Stelle können Sie einstellen, ob verschiedene Ereignisse, z. B. Vertretungsinfos und Zeitkonflikte im Plan angezeigt werden.
 
-![Anzeige von Planeinträgen](/assets/images/Opt_Stundenplan.png)
+![Anzeige von Planeinträgen](/assets/images/opt_stundenplan.png)
 
 `Extras > Optionen > Termine`
 
@@ -648,7 +648,7 @@ An dieser Stelle können Sie einstellen, ob verschiedene Ereignisse, z. B. Vertr
 
 Die Farbgebung verschiedener Ereignisse im Planeditor kann nahezu beliebig verändert werden.
 
-![Farbgebung verändern](/assets/images/Opt_Farben.png)
+![Farbgebung verändern](/assets/images/opt_farben.png)
 
 `Extras > Optionen > Bezeichnungen`
 
