@@ -16,7 +16,7 @@ Um eine Stundenplandatei für das neue Schuljahr anzulegen, gehen Sie über den 
 
 Hier stehen Ihnen drei Wege zur Auswahl:
 
-![Planvorbereitungsassistent](/assets/images/Sp.002.png)
+![Planvorbereitungsassistent](/assets/images/SP.002.png)
 
 ### Neuen leeren Plan erstellen (für Neueinsteiger)
 
@@ -29,7 +29,7 @@ Ein weiteres Fenster mit einer Liste öffnet sich, nach diesen Punkten bereiten 
 
 Schulen, die bereits auf eine Vorjahresdatei von DaVinci zurückgreifen können und daraus Daten übernehmen möchten, wählen `Neuen Plan erstellen und Daten übernehmen`. Geben Sie an, aus welchem Plan Sie die Daten übernehmen möchten und klicken Sie auf `Weiter`. Folgendes Fenster wird geöffnet:
 
-![Planvorbereitungsassistent](/assets/images/Sp.003.png)
+![Planvorbereitungsassistent](/assets/images/SP.003.png)
 
 * `Neues Schuljahr`, Klassenkürzel werden von 8a auf 9a umbenannt, die Klassenstufe wird erhöht, die Klassen-IDs werden gelöscht, alle weiteren Stammdaten bleiben unverändert
 * `Planwechsel innerhalb des Schuljahres`, es werden keine Änderungen an den Stammdaten vorgenommen
